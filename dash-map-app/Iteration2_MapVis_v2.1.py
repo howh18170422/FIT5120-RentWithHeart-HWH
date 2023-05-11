@@ -9,7 +9,7 @@ forecast_path = 'https://raw.githubusercontent.com/sbun0004/FIT5120-RentWithHear
 localities_path= 'https://raw.githubusercontent.com/sbun0004/FIT5120-RentWithHeart/main/dash-map-app/vic_localities_cleaned.geojson'
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY])
-server = app.server
+server=app.server
 
 app.layout = html.Div([
     
@@ -22,7 +22,7 @@ app.layout = html.Div([
                  'align-items':'center', 
                  'justify-content':'center'}
     ),
-
+    
     html.Div([
         
         html.Label(html.B("Select Preferred Housing Type"),
@@ -163,7 +163,7 @@ app.layout = html.Div([
                     'height': '90vh'})
              ]) 
 
-])
+], style={'backgroundColor':'#EAE8DC'})
 
 @app.callback(
     Output("map", "figure"),
@@ -174,7 +174,7 @@ def update_choropleth(housing_type):
     df_forecast = pd.read_csv(forecast_path, index_col=0)
     localities_df = gpd.read_file(localities_path, encoding='utf-8')
     
-    geo_df = localities_df.merge(df_forecast[df_forecast['Housing_Type'] == housing_type], on='Suburb').set_index('Suburb').dropna(subset='Median Price - Last Quarter')
+    geo_df = localities_df.merge(df_forecast[df_forecast['Housing_Type'] == housing_type], on='Suburb').dropna(subset='Median Price - Last Quarter').set_index('Suburb')
     recommend_df = geo_df.loc[['Clayton','Caulfield']]
     
     fig = px.choropleth_mapbox(
@@ -194,7 +194,8 @@ def update_choropleth(housing_type):
             title="Weekly Rent($)"
         ),
         font={'size': 16},
-        title={'text': '<b>Suburb Recommendation</b>', 'font': {'size': 30}}
+        title={'text': '<b>Suburb Recommendation</b>', 'font': {'size': 30}},
+        paper_bgcolor='#EAE8DC'
     )
     
     recommend_df['Median Price - Last Quarter'] = recommend_df['Median Price - Last Quarter'].apply(str)
