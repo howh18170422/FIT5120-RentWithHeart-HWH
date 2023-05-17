@@ -1,0 +1,2857 @@
+,Suburb,Housing_Type,Value,No_of_child_charity,No_of_adult_charity,No_of_bus_stop,No_of_train_station,School_Type,No_of_school
+280,albert park,1 bedroom flats,325.0,13.0,17.0,0.0,0.0,Primary,2.0
+281,albert park,1 bedroom flats,325.0,13.0,17.0,0.0,0.0,Secondary,1.0
+282,middle park,1 bedroom flats,325.0,4.0,5.0,0.0,0.0,Primary,1.0
+283,west st kilda,1 bedroom flats,325.0,1.0,1.0,0.0,0.0,0,0.0
+284,albert park,2 bedroom flats,450.0,13.0,17.0,0.0,0.0,Primary,2.0
+285,albert park,2 bedroom flats,450.0,13.0,17.0,0.0,0.0,Secondary,1.0
+286,middle park,2 bedroom flats,450.0,4.0,5.0,0.0,0.0,Primary,1.0
+287,west st kilda,2 bedroom flats,450.0,1.0,1.0,0.0,0.0,0,0.0
+288,albert park,2 bedroom houses,650.0,13.0,17.0,0.0,0.0,Primary,2.0
+289,albert park,2 bedroom houses,650.0,13.0,17.0,0.0,0.0,Secondary,1.0
+290,middle park,2 bedroom houses,650.0,4.0,5.0,0.0,0.0,Primary,1.0
+291,west st kilda,2 bedroom houses,650.0,1.0,1.0,0.0,0.0,0,0.0
+292,albert park,3 bedroom flats,700.0,13.0,17.0,0.0,0.0,Primary,2.0
+293,albert park,3 bedroom flats,700.0,13.0,17.0,0.0,0.0,Secondary,1.0
+294,middle park,3 bedroom flats,700.0,4.0,5.0,0.0,0.0,Primary,1.0
+295,west st kilda,3 bedroom flats,700.0,1.0,1.0,0.0,0.0,0,0.0
+296,albert park,3 bedroom houses,950.0,13.0,17.0,0.0,0.0,Primary,2.0
+297,albert park,3 bedroom houses,950.0,13.0,17.0,0.0,0.0,Secondary,1.0
+298,middle park,3 bedroom houses,950.0,4.0,5.0,0.0,0.0,Primary,1.0
+299,west st kilda,3 bedroom houses,950.0,1.0,1.0,0.0,0.0,0,0.0
+300,albert park,4 bedroom houses,1100.0,13.0,17.0,0.0,0.0,Primary,2.0
+301,albert park,4 bedroom houses,1100.0,13.0,17.0,0.0,0.0,Secondary,1.0
+302,middle park,4 bedroom houses,1100.0,4.0,5.0,0.0,0.0,Primary,1.0
+303,west st kilda,4 bedroom houses,1100.0,1.0,1.0,0.0,0.0,0,0.0
+304,albert park,All properties,500.0,13.0,17.0,0.0,0.0,Primary,2.0
+305,albert park,All properties,500.0,13.0,17.0,0.0,0.0,Secondary,1.0
+306,middle park,All properties,500.0,4.0,5.0,0.0,0.0,Primary,1.0
+307,west st kilda,All properties,500.0,1.0,1.0,0.0,0.0,0,0.0
+518,altona,1 bedroom flats,285.0,10.0,13.0,0.0,2.0,Pri/Sec,1.0
+519,altona,1 bedroom flats,285.0,10.0,13.0,0.0,2.0,Primary,2.0
+520,altona,1 bedroom flats,285.0,10.0,13.0,0.0,2.0,Secondary,1.0
+521,altona,2 bedroom flats,350.0,10.0,13.0,0.0,2.0,Pri/Sec,1.0
+522,altona,2 bedroom flats,350.0,10.0,13.0,0.0,2.0,Primary,2.0
+523,altona,2 bedroom flats,350.0,10.0,13.0,0.0,2.0,Secondary,1.0
+524,altona,2 bedroom houses,365.0,10.0,13.0,0.0,2.0,Pri/Sec,1.0
+525,altona,2 bedroom houses,365.0,10.0,13.0,0.0,2.0,Primary,2.0
+526,altona,2 bedroom houses,365.0,10.0,13.0,0.0,2.0,Secondary,1.0
+527,altona,3 bedroom flats,410.0,10.0,13.0,0.0,2.0,Pri/Sec,1.0
+528,altona,3 bedroom flats,410.0,10.0,13.0,0.0,2.0,Primary,2.0
+529,altona,3 bedroom flats,410.0,10.0,13.0,0.0,2.0,Secondary,1.0
+530,altona,3 bedroom houses,390.0,10.0,13.0,0.0,2.0,Pri/Sec,1.0
+531,altona,3 bedroom houses,390.0,10.0,13.0,0.0,2.0,Primary,2.0
+532,altona,3 bedroom houses,390.0,10.0,13.0,0.0,2.0,Secondary,1.0
+533,altona,4 bedroom houses,430.0,10.0,13.0,0.0,2.0,Pri/Sec,1.0
+534,altona,4 bedroom houses,430.0,10.0,13.0,0.0,2.0,Primary,2.0
+535,altona,4 bedroom houses,430.0,10.0,13.0,0.0,2.0,Secondary,1.0
+536,altona,All properties,400.0,10.0,13.0,0.0,2.0,Pri/Sec,1.0
+537,altona,All properties,400.0,10.0,13.0,0.0,2.0,Primary,2.0
+538,altona,All properties,400.0,10.0,13.0,0.0,2.0,Secondary,1.0
+679,armadale,1 bedroom flats,320.0,20.0,10.0,0.0,2.0,Pri/Sec,2.0
+680,armadale,1 bedroom flats,320.0,20.0,10.0,0.0,2.0,Primary,1.0
+681,armadale,2 bedroom flats,450.0,20.0,10.0,0.0,2.0,Pri/Sec,2.0
+682,armadale,2 bedroom flats,450.0,20.0,10.0,0.0,2.0,Primary,1.0
+683,armadale,2 bedroom houses,663.0,20.0,10.0,0.0,2.0,Pri/Sec,2.0
+684,armadale,2 bedroom houses,663.0,20.0,10.0,0.0,2.0,Primary,1.0
+685,armadale,3 bedroom flats,720.0,20.0,10.0,0.0,2.0,Pri/Sec,2.0
+686,armadale,3 bedroom flats,720.0,20.0,10.0,0.0,2.0,Primary,1.0
+687,armadale,3 bedroom houses,850.0,20.0,10.0,0.0,2.0,Pri/Sec,2.0
+688,armadale,3 bedroom houses,850.0,20.0,10.0,0.0,2.0,Primary,1.0
+689,armadale,4 bedroom houses,1100.0,20.0,10.0,0.0,2.0,Pri/Sec,2.0
+690,armadale,4 bedroom houses,1100.0,20.0,10.0,0.0,2.0,Primary,1.0
+691,armadale,All properties,450.0,20.0,10.0,0.0,2.0,Pri/Sec,2.0
+692,armadale,All properties,450.0,20.0,10.0,0.0,2.0,Primary,1.0
+903,aspendale,1 bedroom flats,300.0,3.0,3.0,0.0,1.0,Primary,2.0
+904,chelsea,1 bedroom flats,300.0,6.0,7.0,0.0,1.0,Primary,2.0
+905,carrum,1 bedroom flats,300.0,1.0,3.0,0.0,1.0,Primary,1.0
+906,aspendale,2 bedroom flats,410.0,3.0,3.0,0.0,1.0,Primary,2.0
+907,chelsea,2 bedroom flats,410.0,6.0,7.0,0.0,1.0,Primary,2.0
+908,carrum,2 bedroom flats,410.0,1.0,3.0,0.0,1.0,Primary,1.0
+909,aspendale,2 bedroom houses,425.0,3.0,3.0,0.0,1.0,Primary,2.0
+910,chelsea,2 bedroom houses,425.0,6.0,7.0,0.0,1.0,Primary,2.0
+911,carrum,2 bedroom houses,425.0,1.0,3.0,0.0,1.0,Primary,1.0
+912,aspendale,3 bedroom flats,510.0,3.0,3.0,0.0,1.0,Primary,2.0
+913,chelsea,3 bedroom flats,510.0,6.0,7.0,0.0,1.0,Primary,2.0
+914,carrum,3 bedroom flats,510.0,1.0,3.0,0.0,1.0,Primary,1.0
+915,aspendale,3 bedroom houses,530.0,3.0,3.0,0.0,1.0,Primary,2.0
+916,chelsea,3 bedroom houses,530.0,6.0,7.0,0.0,1.0,Primary,2.0
+917,carrum,3 bedroom houses,530.0,1.0,3.0,0.0,1.0,Primary,1.0
+918,aspendale,4 bedroom houses,670.0,3.0,3.0,0.0,1.0,Primary,2.0
+919,chelsea,4 bedroom houses,670.0,6.0,7.0,0.0,1.0,Primary,2.0
+920,carrum,4 bedroom houses,670.0,1.0,3.0,0.0,1.0,Primary,1.0
+921,aspendale,All properties,480.0,3.0,3.0,0.0,1.0,Primary,2.0
+922,chelsea,All properties,480.0,6.0,7.0,0.0,1.0,Primary,2.0
+923,carrum,All properties,480.0,1.0,3.0,0.0,1.0,Primary,1.0
+1134,bairnsdale,1 bedroom flats,240.0,15.0,24.0,26.0,0.0,Pri/Sec,1.0
+1135,bairnsdale,1 bedroom flats,240.0,15.0,24.0,26.0,0.0,Primary,4.0
+1136,bairnsdale,1 bedroom flats,240.0,15.0,24.0,26.0,0.0,Secondary,2.0
+1137,bairnsdale,2 bedroom flats,300.0,15.0,24.0,26.0,0.0,Pri/Sec,1.0
+1138,bairnsdale,2 bedroom flats,300.0,15.0,24.0,26.0,0.0,Primary,4.0
+1139,bairnsdale,2 bedroom flats,300.0,15.0,24.0,26.0,0.0,Secondary,2.0
+1140,bairnsdale,2 bedroom houses,320.0,15.0,24.0,26.0,0.0,Pri/Sec,1.0
+1141,bairnsdale,2 bedroom houses,320.0,15.0,24.0,26.0,0.0,Primary,4.0
+1142,bairnsdale,2 bedroom houses,320.0,15.0,24.0,26.0,0.0,Secondary,2.0
+1143,bairnsdale,3 bedroom flats,380.0,15.0,24.0,26.0,0.0,Pri/Sec,1.0
+1144,bairnsdale,3 bedroom flats,380.0,15.0,24.0,26.0,0.0,Primary,4.0
+1145,bairnsdale,3 bedroom flats,380.0,15.0,24.0,26.0,0.0,Secondary,2.0
+1146,bairnsdale,3 bedroom houses,380.0,15.0,24.0,26.0,0.0,Pri/Sec,1.0
+1147,bairnsdale,3 bedroom houses,380.0,15.0,24.0,26.0,0.0,Primary,4.0
+1148,bairnsdale,3 bedroom houses,380.0,15.0,24.0,26.0,0.0,Secondary,2.0
+1149,bairnsdale,4 bedroom houses,460.0,15.0,24.0,26.0,0.0,Pri/Sec,1.0
+1150,bairnsdale,4 bedroom houses,460.0,15.0,24.0,26.0,0.0,Primary,4.0
+1151,bairnsdale,4 bedroom houses,460.0,15.0,24.0,26.0,0.0,Secondary,2.0
+1152,bairnsdale,All properties,370.0,15.0,24.0,26.0,0.0,Pri/Sec,1.0
+1153,bairnsdale,All properties,370.0,15.0,24.0,26.0,0.0,Primary,4.0
+1154,bairnsdale,All properties,370.0,15.0,24.0,26.0,0.0,Secondary,2.0
+1365,ballarat,1 bedroom flats,220.0,10.0,17.0,0.0,0.0,Pri/Sec,1.0
+1366,ballarat,1 bedroom flats,220.0,10.0,17.0,0.0,0.0,Primary,6.0
+1367,ballarat,1 bedroom flats,220.0,10.0,17.0,0.0,0.0,Secondary,3.0
+1368,ballarat,2 bedroom flats,293.0,10.0,17.0,0.0,0.0,Pri/Sec,1.0
+1369,ballarat,2 bedroom flats,293.0,10.0,17.0,0.0,0.0,Primary,6.0
+1370,ballarat,2 bedroom flats,293.0,10.0,17.0,0.0,0.0,Secondary,3.0
+1371,ballarat,2 bedroom houses,320.0,10.0,17.0,0.0,0.0,Pri/Sec,1.0
+1372,ballarat,2 bedroom houses,320.0,10.0,17.0,0.0,0.0,Primary,6.0
+1373,ballarat,2 bedroom houses,320.0,10.0,17.0,0.0,0.0,Secondary,3.0
+1374,ballarat,3 bedroom flats,360.0,10.0,17.0,0.0,0.0,Pri/Sec,1.0
+1375,ballarat,3 bedroom flats,360.0,10.0,17.0,0.0,0.0,Primary,6.0
+1376,ballarat,3 bedroom flats,360.0,10.0,17.0,0.0,0.0,Secondary,3.0
+1377,ballarat,3 bedroom houses,365.0,10.0,17.0,0.0,0.0,Pri/Sec,1.0
+1378,ballarat,3 bedroom houses,365.0,10.0,17.0,0.0,0.0,Primary,6.0
+1379,ballarat,3 bedroom houses,365.0,10.0,17.0,0.0,0.0,Secondary,3.0
+1380,ballarat,4 bedroom houses,430.0,10.0,17.0,0.0,0.0,Pri/Sec,1.0
+1381,ballarat,4 bedroom houses,430.0,10.0,17.0,0.0,0.0,Primary,6.0
+1382,ballarat,4 bedroom houses,430.0,10.0,17.0,0.0,0.0,Secondary,3.0
+1383,ballarat,All properties,350.0,10.0,17.0,0.0,0.0,Pri/Sec,1.0
+1384,ballarat,All properties,350.0,10.0,17.0,0.0,0.0,Primary,6.0
+1385,ballarat,All properties,350.0,10.0,17.0,0.0,0.0,Secondary,3.0
+1526,balwyn,1 bedroom flats,350.0,12.0,19.0,0.0,0.0,Pri/Sec,1.0
+1527,balwyn,1 bedroom flats,350.0,12.0,19.0,0.0,0.0,Primary,1.0
+1528,balwyn,2 bedroom flats,405.0,12.0,19.0,0.0,0.0,Pri/Sec,1.0
+1529,balwyn,2 bedroom flats,405.0,12.0,19.0,0.0,0.0,Primary,1.0
+1530,balwyn,2 bedroom houses,450.0,12.0,19.0,0.0,0.0,Pri/Sec,1.0
+1531,balwyn,2 bedroom houses,450.0,12.0,19.0,0.0,0.0,Primary,1.0
+1532,balwyn,3 bedroom flats,620.0,12.0,19.0,0.0,0.0,Pri/Sec,1.0
+1533,balwyn,3 bedroom flats,620.0,12.0,19.0,0.0,0.0,Primary,1.0
+1534,balwyn,3 bedroom houses,590.0,12.0,19.0,0.0,0.0,Pri/Sec,1.0
+1535,balwyn,3 bedroom houses,590.0,12.0,19.0,0.0,0.0,Primary,1.0
+1536,balwyn,4 bedroom houses,840.0,12.0,19.0,0.0,0.0,Pri/Sec,1.0
+1537,balwyn,4 bedroom houses,840.0,12.0,19.0,0.0,0.0,Primary,1.0
+1538,balwyn,All properties,550.0,12.0,19.0,0.0,0.0,Pri/Sec,1.0
+1539,balwyn,All properties,550.0,12.0,19.0,0.0,0.0,Primary,1.0
+1680,bayswater,1 bedroom flats,300.0,9.0,20.0,0.0,1.0,Primary,4.0
+1681,bayswater,1 bedroom flats,300.0,9.0,20.0,0.0,1.0,Secondary,1.0
+1682,bayswater,2 bedroom flats,375.0,9.0,20.0,0.0,1.0,Primary,4.0
+1683,bayswater,2 bedroom flats,375.0,9.0,20.0,0.0,1.0,Secondary,1.0
+1684,bayswater,2 bedroom houses,390.0,9.0,20.0,0.0,1.0,Primary,4.0
+1685,bayswater,2 bedroom houses,390.0,9.0,20.0,0.0,1.0,Secondary,1.0
+1686,bayswater,3 bedroom flats,450.0,9.0,20.0,0.0,1.0,Primary,4.0
+1687,bayswater,3 bedroom flats,450.0,9.0,20.0,0.0,1.0,Secondary,1.0
+1688,bayswater,3 bedroom houses,430.0,9.0,20.0,0.0,1.0,Primary,4.0
+1689,bayswater,3 bedroom houses,430.0,9.0,20.0,0.0,1.0,Secondary,1.0
+1690,bayswater,4 bedroom houses,490.0,9.0,20.0,0.0,1.0,Primary,4.0
+1691,bayswater,4 bedroom houses,490.0,9.0,20.0,0.0,1.0,Secondary,1.0
+1692,bayswater,All properties,420.0,9.0,20.0,0.0,1.0,Primary,4.0
+1693,bayswater,All properties,420.0,9.0,20.0,0.0,1.0,Secondary,1.0
+1974,belmont,1 bedroom flats,275.0,8.0,13.0,60.0,0.0,Primary,5.0
+1975,belmont,1 bedroom flats,275.0,8.0,13.0,60.0,0.0,Secondary,1.0
+1976,grovedale,1 bedroom flats,275.0,5.0,11.0,85.0,0.0,Primary,4.0
+1977,grovedale,1 bedroom flats,275.0,5.0,11.0,85.0,0.0,Secondary,1.0
+1978,belmont,2 bedroom flats,370.0,8.0,13.0,60.0,0.0,Primary,5.0
+1979,belmont,2 bedroom flats,370.0,8.0,13.0,60.0,0.0,Secondary,1.0
+1980,grovedale,2 bedroom flats,370.0,5.0,11.0,85.0,0.0,Primary,4.0
+1981,grovedale,2 bedroom flats,370.0,5.0,11.0,85.0,0.0,Secondary,1.0
+1982,belmont,2 bedroom houses,380.0,8.0,13.0,60.0,0.0,Primary,5.0
+1983,belmont,2 bedroom houses,380.0,8.0,13.0,60.0,0.0,Secondary,1.0
+1984,grovedale,2 bedroom houses,380.0,5.0,11.0,85.0,0.0,Primary,4.0
+1985,grovedale,2 bedroom houses,380.0,5.0,11.0,85.0,0.0,Secondary,1.0
+1986,belmont,3 bedroom flats,435.0,8.0,13.0,60.0,0.0,Primary,5.0
+1987,belmont,3 bedroom flats,435.0,8.0,13.0,60.0,0.0,Secondary,1.0
+1988,grovedale,3 bedroom flats,435.0,5.0,11.0,85.0,0.0,Primary,4.0
+1989,grovedale,3 bedroom flats,435.0,5.0,11.0,85.0,0.0,Secondary,1.0
+1990,belmont,3 bedroom houses,440.0,8.0,13.0,60.0,0.0,Primary,5.0
+1991,belmont,3 bedroom houses,440.0,8.0,13.0,60.0,0.0,Secondary,1.0
+1992,grovedale,3 bedroom houses,440.0,5.0,11.0,85.0,0.0,Primary,4.0
+1993,grovedale,3 bedroom houses,440.0,5.0,11.0,85.0,0.0,Secondary,1.0
+1994,belmont,4 bedroom houses,500.0,8.0,13.0,60.0,0.0,Primary,5.0
+1995,belmont,4 bedroom houses,500.0,8.0,13.0,60.0,0.0,Secondary,1.0
+1996,grovedale,4 bedroom houses,500.0,5.0,11.0,85.0,0.0,Primary,4.0
+1997,grovedale,4 bedroom houses,500.0,5.0,11.0,85.0,0.0,Secondary,1.0
+1998,belmont,All properties,430.0,8.0,13.0,60.0,0.0,Primary,5.0
+1999,belmont,All properties,430.0,8.0,13.0,60.0,0.0,Secondary,1.0
+2000,grovedale,All properties,430.0,5.0,11.0,85.0,0.0,Primary,4.0
+2001,grovedale,All properties,430.0,5.0,11.0,85.0,0.0,Secondary,1.0
+2212,benalla,1 bedroom flats,200.0,11.0,17.0,51.0,0.0,Pri/Sec,2.0
+2213,benalla,1 bedroom flats,200.0,11.0,17.0,51.0,0.0,Primary,1.0
+2214,benalla,1 bedroom flats,200.0,11.0,17.0,51.0,0.0,Secondary,1.0
+2215,benalla,2 bedroom flats,320.0,11.0,17.0,51.0,0.0,Pri/Sec,2.0
+2216,benalla,2 bedroom flats,320.0,11.0,17.0,51.0,0.0,Primary,1.0
+2217,benalla,2 bedroom flats,320.0,11.0,17.0,51.0,0.0,Secondary,1.0
+2218,benalla,2 bedroom houses,350.0,11.0,17.0,51.0,0.0,Pri/Sec,2.0
+2219,benalla,2 bedroom houses,350.0,11.0,17.0,51.0,0.0,Primary,1.0
+2220,benalla,2 bedroom houses,350.0,11.0,17.0,51.0,0.0,Secondary,1.0
+2221,benalla,3 bedroom flats,380.0,11.0,17.0,51.0,0.0,Pri/Sec,2.0
+2222,benalla,3 bedroom flats,380.0,11.0,17.0,51.0,0.0,Primary,1.0
+2223,benalla,3 bedroom flats,380.0,11.0,17.0,51.0,0.0,Secondary,1.0
+2224,benalla,3 bedroom houses,400.0,11.0,17.0,51.0,0.0,Pri/Sec,2.0
+2225,benalla,3 bedroom houses,400.0,11.0,17.0,51.0,0.0,Primary,1.0
+2226,benalla,3 bedroom houses,400.0,11.0,17.0,51.0,0.0,Secondary,1.0
+2227,benalla,4 bedroom houses,450.0,11.0,17.0,51.0,0.0,Pri/Sec,2.0
+2228,benalla,4 bedroom houses,450.0,11.0,17.0,51.0,0.0,Primary,1.0
+2229,benalla,4 bedroom houses,450.0,11.0,17.0,51.0,0.0,Secondary,1.0
+2230,benalla,All properties,370.0,11.0,17.0,51.0,0.0,Pri/Sec,2.0
+2231,benalla,All properties,370.0,11.0,17.0,51.0,0.0,Primary,1.0
+2232,benalla,All properties,370.0,11.0,17.0,51.0,0.0,Secondary,1.0
+2443,bendigo,1 bedroom flats,270.0,31.0,50.0,73.0,0.0,Pri/Sec,2.0
+2444,bendigo,1 bedroom flats,270.0,31.0,50.0,73.0,0.0,Primary,5.0
+2445,bendigo,1 bedroom flats,270.0,31.0,50.0,73.0,0.0,Secondary,4.0
+2446,bendigo,2 bedroom flats,320.0,31.0,50.0,73.0,0.0,Pri/Sec,2.0
+2447,bendigo,2 bedroom flats,320.0,31.0,50.0,73.0,0.0,Primary,5.0
+2448,bendigo,2 bedroom flats,320.0,31.0,50.0,73.0,0.0,Secondary,4.0
+2449,bendigo,2 bedroom houses,350.0,31.0,50.0,73.0,0.0,Pri/Sec,2.0
+2450,bendigo,2 bedroom houses,350.0,31.0,50.0,73.0,0.0,Primary,5.0
+2451,bendigo,2 bedroom houses,350.0,31.0,50.0,73.0,0.0,Secondary,4.0
+2452,bendigo,3 bedroom flats,430.0,31.0,50.0,73.0,0.0,Pri/Sec,2.0
+2453,bendigo,3 bedroom flats,430.0,31.0,50.0,73.0,0.0,Primary,5.0
+2454,bendigo,3 bedroom flats,430.0,31.0,50.0,73.0,0.0,Secondary,4.0
+2455,bendigo,3 bedroom houses,400.0,31.0,50.0,73.0,0.0,Pri/Sec,2.0
+2456,bendigo,3 bedroom houses,400.0,31.0,50.0,73.0,0.0,Primary,5.0
+2457,bendigo,3 bedroom houses,400.0,31.0,50.0,73.0,0.0,Secondary,4.0
+2458,bendigo,4 bedroom houses,450.0,31.0,50.0,73.0,0.0,Pri/Sec,2.0
+2459,bendigo,4 bedroom houses,450.0,31.0,50.0,73.0,0.0,Primary,5.0
+2460,bendigo,4 bedroom houses,450.0,31.0,50.0,73.0,0.0,Secondary,4.0
+2461,bendigo,All properties,375.0,31.0,50.0,73.0,0.0,Pri/Sec,2.0
+2462,bendigo,All properties,375.0,31.0,50.0,73.0,0.0,Primary,5.0
+2463,bendigo,All properties,375.0,31.0,50.0,73.0,0.0,Secondary,4.0
+2604,bentleigh,1 bedroom flats,310.0,12.0,10.0,0.0,2.0,Primary,3.0
+2605,bentleigh,1 bedroom flats,310.0,12.0,10.0,0.0,2.0,Secondary,1.0
+2606,bentleigh,2 bedroom flats,425.0,12.0,10.0,0.0,2.0,Primary,3.0
+2607,bentleigh,2 bedroom flats,425.0,12.0,10.0,0.0,2.0,Secondary,1.0
+2608,bentleigh,2 bedroom houses,480.0,12.0,10.0,0.0,2.0,Primary,3.0
+2609,bentleigh,2 bedroom houses,480.0,12.0,10.0,0.0,2.0,Secondary,1.0
+2610,bentleigh,3 bedroom flats,600.0,12.0,10.0,0.0,2.0,Primary,3.0
+2611,bentleigh,3 bedroom flats,600.0,12.0,10.0,0.0,2.0,Secondary,1.0
+2612,bentleigh,3 bedroom houses,595.0,12.0,10.0,0.0,2.0,Primary,3.0
+2613,bentleigh,3 bedroom houses,595.0,12.0,10.0,0.0,2.0,Secondary,1.0
+2614,bentleigh,4 bedroom houses,820.0,12.0,10.0,0.0,2.0,Primary,3.0
+2615,bentleigh,4 bedroom houses,820.0,12.0,10.0,0.0,2.0,Secondary,1.0
+2616,bentleigh,All properties,500.0,12.0,10.0,0.0,2.0,Primary,3.0
+2617,bentleigh,All properties,500.0,12.0,10.0,0.0,2.0,Secondary,1.0
+2828,berwick,1 bedroom flats,310.0,21.0,26.0,1.0,1.0,Pri/Sec,2.0
+2829,berwick,1 bedroom flats,310.0,21.0,26.0,1.0,1.0,Primary,7.0
+2830,berwick,1 bedroom flats,310.0,21.0,26.0,1.0,1.0,Secondary,3.0
+2831,berwick,2 bedroom flats,360.0,21.0,26.0,1.0,1.0,Pri/Sec,2.0
+2832,berwick,2 bedroom flats,360.0,21.0,26.0,1.0,1.0,Primary,7.0
+2833,berwick,2 bedroom flats,360.0,21.0,26.0,1.0,1.0,Secondary,3.0
+2834,berwick,2 bedroom houses,360.0,21.0,26.0,1.0,1.0,Pri/Sec,2.0
+2835,berwick,2 bedroom houses,360.0,21.0,26.0,1.0,1.0,Primary,7.0
+2836,berwick,2 bedroom houses,360.0,21.0,26.0,1.0,1.0,Secondary,3.0
+2837,berwick,3 bedroom flats,405.0,21.0,26.0,1.0,1.0,Pri/Sec,2.0
+2838,berwick,3 bedroom flats,405.0,21.0,26.0,1.0,1.0,Primary,7.0
+2839,berwick,3 bedroom flats,405.0,21.0,26.0,1.0,1.0,Secondary,3.0
+2840,berwick,3 bedroom houses,420.0,21.0,26.0,1.0,1.0,Pri/Sec,2.0
+2841,berwick,3 bedroom houses,420.0,21.0,26.0,1.0,1.0,Primary,7.0
+2842,berwick,3 bedroom houses,420.0,21.0,26.0,1.0,1.0,Secondary,3.0
+2843,berwick,4 bedroom houses,470.0,21.0,26.0,1.0,1.0,Pri/Sec,2.0
+2844,berwick,4 bedroom houses,470.0,21.0,26.0,1.0,1.0,Primary,7.0
+2845,berwick,4 bedroom houses,470.0,21.0,26.0,1.0,1.0,Secondary,3.0
+2846,berwick,All properties,440.0,21.0,26.0,1.0,1.0,Pri/Sec,2.0
+2847,berwick,All properties,440.0,21.0,26.0,1.0,1.0,Primary,7.0
+2848,berwick,All properties,440.0,21.0,26.0,1.0,1.0,Secondary,3.0
+2989,blackburn,1 bedroom flats,340.0,14.0,25.0,0.0,2.0,Primary,4.0
+2990,blackburn,1 bedroom flats,340.0,14.0,25.0,0.0,2.0,Secondary,1.0
+2991,blackburn,2 bedroom flats,400.0,14.0,25.0,0.0,2.0,Primary,4.0
+2992,blackburn,2 bedroom flats,400.0,14.0,25.0,0.0,2.0,Secondary,1.0
+2993,blackburn,2 bedroom houses,400.0,14.0,25.0,0.0,2.0,Primary,4.0
+2994,blackburn,2 bedroom houses,400.0,14.0,25.0,0.0,2.0,Secondary,1.0
+2995,blackburn,3 bedroom flats,500.0,14.0,25.0,0.0,2.0,Primary,4.0
+2996,blackburn,3 bedroom flats,500.0,14.0,25.0,0.0,2.0,Secondary,1.0
+2997,blackburn,3 bedroom houses,460.0,14.0,25.0,0.0,2.0,Primary,4.0
+2998,blackburn,3 bedroom houses,460.0,14.0,25.0,0.0,2.0,Secondary,1.0
+2999,blackburn,4 bedroom houses,600.0,14.0,25.0,0.0,2.0,Primary,4.0
+3000,blackburn,4 bedroom houses,600.0,14.0,25.0,0.0,2.0,Secondary,1.0
+3001,blackburn,All properties,440.0,14.0,25.0,0.0,2.0,Primary,4.0
+3002,blackburn,All properties,440.0,14.0,25.0,0.0,2.0,Secondary,1.0
+3143,boronia,1 bedroom flats,330.0,11.0,14.0,0.0,1.0,Pri/Sec,1.0
+3144,boronia,1 bedroom flats,330.0,11.0,14.0,0.0,1.0,Primary,4.0
+3145,boronia,2 bedroom flats,380.0,11.0,14.0,0.0,1.0,Pri/Sec,1.0
+3146,boronia,2 bedroom flats,380.0,11.0,14.0,0.0,1.0,Primary,4.0
+3147,boronia,2 bedroom houses,373.0,11.0,14.0,0.0,1.0,Pri/Sec,1.0
+3148,boronia,2 bedroom houses,373.0,11.0,14.0,0.0,1.0,Primary,4.0
+3149,boronia,3 bedroom flats,440.0,11.0,14.0,0.0,1.0,Pri/Sec,1.0
+3150,boronia,3 bedroom flats,440.0,11.0,14.0,0.0,1.0,Primary,4.0
+3151,boronia,3 bedroom houses,430.0,11.0,14.0,0.0,1.0,Pri/Sec,1.0
+3152,boronia,3 bedroom houses,430.0,11.0,14.0,0.0,1.0,Primary,4.0
+3153,boronia,4 bedroom houses,525.0,11.0,14.0,0.0,1.0,Pri/Sec,1.0
+3154,boronia,4 bedroom houses,525.0,11.0,14.0,0.0,1.0,Primary,4.0
+3155,boronia,All properties,418.0,11.0,14.0,0.0,1.0,Pri/Sec,1.0
+3156,boronia,All properties,418.0,11.0,14.0,0.0,1.0,Primary,4.0
+3367,box hill,1 bedroom flats,310.0,21.0,35.0,0.0,1.0,Pri/Sec,1.0
+3368,box hill,1 bedroom flats,310.0,21.0,35.0,0.0,1.0,Primary,1.0
+3369,box hill,1 bedroom flats,310.0,21.0,35.0,0.0,1.0,Secondary,2.0
+3370,box hill,2 bedroom flats,415.0,21.0,35.0,0.0,1.0,Pri/Sec,1.0
+3371,box hill,2 bedroom flats,415.0,21.0,35.0,0.0,1.0,Primary,1.0
+3372,box hill,2 bedroom flats,415.0,21.0,35.0,0.0,1.0,Secondary,2.0
+3373,box hill,2 bedroom houses,408.0,21.0,35.0,0.0,1.0,Pri/Sec,1.0
+3374,box hill,2 bedroom houses,408.0,21.0,35.0,0.0,1.0,Primary,1.0
+3375,box hill,2 bedroom houses,408.0,21.0,35.0,0.0,1.0,Secondary,2.0
+3376,box hill,3 bedroom flats,500.0,21.0,35.0,0.0,1.0,Pri/Sec,1.0
+3377,box hill,3 bedroom flats,500.0,21.0,35.0,0.0,1.0,Primary,1.0
+3378,box hill,3 bedroom flats,500.0,21.0,35.0,0.0,1.0,Secondary,2.0
+3379,box hill,3 bedroom houses,480.0,21.0,35.0,0.0,1.0,Pri/Sec,1.0
+3380,box hill,3 bedroom houses,480.0,21.0,35.0,0.0,1.0,Primary,1.0
+3381,box hill,3 bedroom houses,480.0,21.0,35.0,0.0,1.0,Secondary,2.0
+3382,box hill,4 bedroom houses,650.0,21.0,35.0,0.0,1.0,Pri/Sec,1.0
+3383,box hill,4 bedroom houses,650.0,21.0,35.0,0.0,1.0,Primary,1.0
+3384,box hill,4 bedroom houses,650.0,21.0,35.0,0.0,1.0,Secondary,2.0
+3385,box hill,All properties,420.0,21.0,35.0,0.0,1.0,Pri/Sec,1.0
+3386,box hill,All properties,420.0,21.0,35.0,0.0,1.0,Primary,1.0
+3387,box hill,All properties,420.0,21.0,35.0,0.0,1.0,Secondary,2.0
+3598,brighton,1 bedroom flats,370.0,20.0,26.0,0.0,4.0,Pri/Sec,2.0
+3599,brighton,1 bedroom flats,370.0,20.0,26.0,0.0,4.0,Primary,5.0
+3600,brighton,1 bedroom flats,370.0,20.0,26.0,0.0,4.0,Secondary,1.0
+3601,brighton,2 bedroom flats,550.0,20.0,26.0,0.0,4.0,Pri/Sec,2.0
+3602,brighton,2 bedroom flats,550.0,20.0,26.0,0.0,4.0,Primary,5.0
+3603,brighton,2 bedroom flats,550.0,20.0,26.0,0.0,4.0,Secondary,1.0
+3604,brighton,2 bedroom houses,620.0,20.0,26.0,0.0,4.0,Pri/Sec,2.0
+3605,brighton,2 bedroom houses,620.0,20.0,26.0,0.0,4.0,Primary,5.0
+3606,brighton,2 bedroom houses,620.0,20.0,26.0,0.0,4.0,Secondary,1.0
+3607,brighton,3 bedroom flats,800.0,20.0,26.0,0.0,4.0,Pri/Sec,2.0
+3608,brighton,3 bedroom flats,800.0,20.0,26.0,0.0,4.0,Primary,5.0
+3609,brighton,3 bedroom flats,800.0,20.0,26.0,0.0,4.0,Secondary,1.0
+3610,brighton,3 bedroom houses,973.0,20.0,26.0,0.0,4.0,Pri/Sec,2.0
+3611,brighton,3 bedroom houses,973.0,20.0,26.0,0.0,4.0,Primary,5.0
+3612,brighton,3 bedroom houses,973.0,20.0,26.0,0.0,4.0,Secondary,1.0
+3613,brighton,4 bedroom houses,1400.0,20.0,26.0,0.0,4.0,Pri/Sec,2.0
+3614,brighton,4 bedroom houses,1400.0,20.0,26.0,0.0,4.0,Primary,5.0
+3615,brighton,4 bedroom houses,1400.0,20.0,26.0,0.0,4.0,Secondary,1.0
+3616,brighton,All properties,670.0,20.0,26.0,0.0,4.0,Pri/Sec,2.0
+3617,brighton,All properties,670.0,20.0,26.0,0.0,4.0,Primary,5.0
+3618,brighton,All properties,670.0,20.0,26.0,0.0,4.0,Secondary,1.0
+3829,brighton east,1 bedroom flats,0.0,13.0,11.0,0.0,0.0,Pri/Sec,1.0
+3830,brighton east,1 bedroom flats,0.0,13.0,11.0,0.0,0.0,Primary,2.0
+3831,brighton east,1 bedroom flats,0.0,13.0,11.0,0.0,0.0,Secondary,1.0
+3832,brighton east,2 bedroom flats,475.0,13.0,11.0,0.0,0.0,Pri/Sec,1.0
+3833,brighton east,2 bedroom flats,475.0,13.0,11.0,0.0,0.0,Primary,2.0
+3834,brighton east,2 bedroom flats,475.0,13.0,11.0,0.0,0.0,Secondary,1.0
+3835,brighton east,2 bedroom houses,535.0,13.0,11.0,0.0,0.0,Pri/Sec,1.0
+3836,brighton east,2 bedroom houses,535.0,13.0,11.0,0.0,0.0,Primary,2.0
+3837,brighton east,2 bedroom houses,535.0,13.0,11.0,0.0,0.0,Secondary,1.0
+3838,brighton east,3 bedroom flats,660.0,13.0,11.0,0.0,0.0,Pri/Sec,1.0
+3839,brighton east,3 bedroom flats,660.0,13.0,11.0,0.0,0.0,Primary,2.0
+3840,brighton east,3 bedroom flats,660.0,13.0,11.0,0.0,0.0,Secondary,1.0
+3841,brighton east,3 bedroom houses,750.0,13.0,11.0,0.0,0.0,Pri/Sec,1.0
+3842,brighton east,3 bedroom houses,750.0,13.0,11.0,0.0,0.0,Primary,2.0
+3843,brighton east,3 bedroom houses,750.0,13.0,11.0,0.0,0.0,Secondary,1.0
+3844,brighton east,4 bedroom houses,1100.0,13.0,11.0,0.0,0.0,Pri/Sec,1.0
+3845,brighton east,4 bedroom houses,1100.0,13.0,11.0,0.0,0.0,Primary,2.0
+3846,brighton east,4 bedroom houses,1100.0,13.0,11.0,0.0,0.0,Secondary,1.0
+3847,brighton east,All properties,750.0,13.0,11.0,0.0,0.0,Pri/Sec,1.0
+3848,brighton east,All properties,750.0,13.0,11.0,0.0,0.0,Primary,2.0
+3849,brighton east,All properties,750.0,13.0,11.0,0.0,0.0,Secondary,1.0
+4200,broadmeadows,1 bedroom flats,280.0,11.0,21.0,0.0,1.0,Pri/Sec,2.0
+4201,broadmeadows,1 bedroom flats,280.0,11.0,21.0,0.0,1.0,Primary,4.0
+4202,broadmeadows,1 bedroom flats,280.0,11.0,21.0,0.0,1.0,Secondary,2.0
+4203,roxburgh park,1 bedroom flats,280.0,1.0,1.0,0.0,1.0,Primary,4.0
+4204,roxburgh park,1 bedroom flats,280.0,1.0,1.0,0.0,1.0,Secondary,1.0
+4205,broadmeadows,2 bedroom flats,340.0,11.0,21.0,0.0,1.0,Pri/Sec,2.0
+4206,broadmeadows,2 bedroom flats,340.0,11.0,21.0,0.0,1.0,Primary,4.0
+4207,broadmeadows,2 bedroom flats,340.0,11.0,21.0,0.0,1.0,Secondary,2.0
+4208,roxburgh park,2 bedroom flats,340.0,1.0,1.0,0.0,1.0,Primary,4.0
+4209,roxburgh park,2 bedroom flats,340.0,1.0,1.0,0.0,1.0,Secondary,1.0
+4210,broadmeadows,2 bedroom houses,335.0,11.0,21.0,0.0,1.0,Pri/Sec,2.0
+4211,broadmeadows,2 bedroom houses,335.0,11.0,21.0,0.0,1.0,Primary,4.0
+4212,broadmeadows,2 bedroom houses,335.0,11.0,21.0,0.0,1.0,Secondary,2.0
+4213,roxburgh park,2 bedroom houses,335.0,1.0,1.0,0.0,1.0,Primary,4.0
+4214,roxburgh park,2 bedroom houses,335.0,1.0,1.0,0.0,1.0,Secondary,1.0
+4215,broadmeadows,3 bedroom flats,370.0,11.0,21.0,0.0,1.0,Pri/Sec,2.0
+4216,broadmeadows,3 bedroom flats,370.0,11.0,21.0,0.0,1.0,Primary,4.0
+4217,broadmeadows,3 bedroom flats,370.0,11.0,21.0,0.0,1.0,Secondary,2.0
+4218,roxburgh park,3 bedroom flats,370.0,1.0,1.0,0.0,1.0,Primary,4.0
+4219,roxburgh park,3 bedroom flats,370.0,1.0,1.0,0.0,1.0,Secondary,1.0
+4220,broadmeadows,3 bedroom houses,370.0,11.0,21.0,0.0,1.0,Pri/Sec,2.0
+4221,broadmeadows,3 bedroom houses,370.0,11.0,21.0,0.0,1.0,Primary,4.0
+4222,broadmeadows,3 bedroom houses,370.0,11.0,21.0,0.0,1.0,Secondary,2.0
+4223,roxburgh park,3 bedroom houses,370.0,1.0,1.0,0.0,1.0,Primary,4.0
+4224,roxburgh park,3 bedroom houses,370.0,1.0,1.0,0.0,1.0,Secondary,1.0
+4225,broadmeadows,4 bedroom houses,460.0,11.0,21.0,0.0,1.0,Pri/Sec,2.0
+4226,broadmeadows,4 bedroom houses,460.0,11.0,21.0,0.0,1.0,Primary,4.0
+4227,broadmeadows,4 bedroom houses,460.0,11.0,21.0,0.0,1.0,Secondary,2.0
+4228,roxburgh park,4 bedroom houses,460.0,1.0,1.0,0.0,1.0,Primary,4.0
+4229,roxburgh park,4 bedroom houses,460.0,1.0,1.0,0.0,1.0,Secondary,1.0
+4230,broadmeadows,All properties,371.0,11.0,21.0,0.0,1.0,Pri/Sec,2.0
+4231,broadmeadows,All properties,371.0,11.0,21.0,0.0,1.0,Primary,4.0
+4232,broadmeadows,All properties,371.0,11.0,21.0,0.0,1.0,Secondary,2.0
+4233,roxburgh park,All properties,371.0,1.0,1.0,0.0,1.0,Primary,4.0
+4234,roxburgh park,All properties,371.0,1.0,1.0,0.0,1.0,Secondary,1.0
+4305,brunswick,1 bedroom flats,330.0,23.0,44.0,0.0,3.0,Secondary,2.0
+4306,brunswick,2 bedroom flats,420.0,23.0,44.0,0.0,3.0,Secondary,2.0
+4307,brunswick,2 bedroom houses,550.0,23.0,44.0,0.0,3.0,Secondary,2.0
+4308,brunswick,3 bedroom flats,650.0,23.0,44.0,0.0,3.0,Secondary,2.0
+4309,brunswick,3 bedroom houses,675.0,23.0,44.0,0.0,3.0,Secondary,2.0
+4310,brunswick,4 bedroom houses,845.0,23.0,44.0,0.0,3.0,Secondary,2.0
+4311,brunswick,All properties,430.0,23.0,44.0,0.0,3.0,Secondary,2.0
+4662,bulleen,1 bedroom flats,350.0,10.0,9.0,0.0,0.0,Primary,1.0
+4663,bulleen,1 bedroom flats,350.0,10.0,9.0,0.0,0.0,Secondary,1.0
+4664,templestowe,1 bedroom flats,350.0,2.0,7.0,0.0,0.0,Primary,3.0
+4665,doncaster,1 bedroom flats,350.0,17.0,21.0,0.0,0.0,Primary,3.0
+4666,doncaster,1 bedroom flats,350.0,17.0,21.0,0.0,0.0,Secondary,1.0
+4667,bulleen,2 bedroom flats,425.0,10.0,9.0,0.0,0.0,Primary,1.0
+4668,bulleen,2 bedroom flats,425.0,10.0,9.0,0.0,0.0,Secondary,1.0
+4669,templestowe,2 bedroom flats,425.0,2.0,7.0,0.0,0.0,Primary,3.0
+4670,doncaster,2 bedroom flats,425.0,17.0,21.0,0.0,0.0,Primary,3.0
+4671,doncaster,2 bedroom flats,425.0,17.0,21.0,0.0,0.0,Secondary,1.0
+4672,bulleen,2 bedroom houses,428.0,10.0,9.0,0.0,0.0,Primary,1.0
+4673,bulleen,2 bedroom houses,428.0,10.0,9.0,0.0,0.0,Secondary,1.0
+4674,templestowe,2 bedroom houses,428.0,2.0,7.0,0.0,0.0,Primary,3.0
+4675,doncaster,2 bedroom houses,428.0,17.0,21.0,0.0,0.0,Primary,3.0
+4676,doncaster,2 bedroom houses,428.0,17.0,21.0,0.0,0.0,Secondary,1.0
+4677,bulleen,3 bedroom flats,550.0,10.0,9.0,0.0,0.0,Primary,1.0
+4678,bulleen,3 bedroom flats,550.0,10.0,9.0,0.0,0.0,Secondary,1.0
+4679,templestowe,3 bedroom flats,550.0,2.0,7.0,0.0,0.0,Primary,3.0
+4680,doncaster,3 bedroom flats,550.0,17.0,21.0,0.0,0.0,Primary,3.0
+4681,doncaster,3 bedroom flats,550.0,17.0,21.0,0.0,0.0,Secondary,1.0
+4682,bulleen,3 bedroom houses,495.0,10.0,9.0,0.0,0.0,Primary,1.0
+4683,bulleen,3 bedroom houses,495.0,10.0,9.0,0.0,0.0,Secondary,1.0
+4684,templestowe,3 bedroom houses,495.0,2.0,7.0,0.0,0.0,Primary,3.0
+4685,doncaster,3 bedroom houses,495.0,17.0,21.0,0.0,0.0,Primary,3.0
+4686,doncaster,3 bedroom houses,495.0,17.0,21.0,0.0,0.0,Secondary,1.0
+4687,bulleen,4 bedroom houses,650.0,10.0,9.0,0.0,0.0,Primary,1.0
+4688,bulleen,4 bedroom houses,650.0,10.0,9.0,0.0,0.0,Secondary,1.0
+4689,templestowe,4 bedroom houses,650.0,2.0,7.0,0.0,0.0,Primary,3.0
+4690,doncaster,4 bedroom houses,650.0,17.0,21.0,0.0,0.0,Primary,3.0
+4691,doncaster,4 bedroom houses,650.0,17.0,21.0,0.0,0.0,Secondary,1.0
+4692,bulleen,All properties,490.0,10.0,9.0,0.0,0.0,Primary,1.0
+4693,bulleen,All properties,490.0,10.0,9.0,0.0,0.0,Secondary,1.0
+4694,templestowe,All properties,490.0,2.0,7.0,0.0,0.0,Primary,3.0
+4695,doncaster,All properties,490.0,17.0,21.0,0.0,0.0,Primary,3.0
+4696,doncaster,All properties,490.0,17.0,21.0,0.0,0.0,Secondary,1.0
+5117,bundoora,1 bedroom flats,300.0,14.0,17.0,0.0,0.0,Pri/Sec,1.0
+5118,bundoora,1 bedroom flats,300.0,14.0,17.0,0.0,0.0,Primary,3.0
+5119,bundoora,1 bedroom flats,300.0,14.0,17.0,0.0,0.0,Secondary,2.0
+5120,greensborough,1 bedroom flats,300.0,11.0,18.0,0.0,1.0,Primary,5.0
+5121,greensborough,1 bedroom flats,300.0,11.0,18.0,0.0,1.0,Secondary,1.0
+5122,hurstbridge,1 bedroom flats,300.0,4.0,7.0,0.0,1.0,Primary,1.0
+5123,bundoora,2 bedroom flats,370.0,14.0,17.0,0.0,0.0,Pri/Sec,1.0
+5124,bundoora,2 bedroom flats,370.0,14.0,17.0,0.0,0.0,Primary,3.0
+5125,bundoora,2 bedroom flats,370.0,14.0,17.0,0.0,0.0,Secondary,2.0
+5126,greensborough,2 bedroom flats,370.0,11.0,18.0,0.0,1.0,Primary,5.0
+5127,greensborough,2 bedroom flats,370.0,11.0,18.0,0.0,1.0,Secondary,1.0
+5128,hurstbridge,2 bedroom flats,370.0,4.0,7.0,0.0,1.0,Primary,1.0
+5129,bundoora,2 bedroom houses,390.0,14.0,17.0,0.0,0.0,Pri/Sec,1.0
+5130,bundoora,2 bedroom houses,390.0,14.0,17.0,0.0,0.0,Primary,3.0
+5131,bundoora,2 bedroom houses,390.0,14.0,17.0,0.0,0.0,Secondary,2.0
+5132,greensborough,2 bedroom houses,390.0,11.0,18.0,0.0,1.0,Primary,5.0
+5133,greensborough,2 bedroom houses,390.0,11.0,18.0,0.0,1.0,Secondary,1.0
+5134,hurstbridge,2 bedroom houses,390.0,4.0,7.0,0.0,1.0,Primary,1.0
+5135,bundoora,3 bedroom flats,470.0,14.0,17.0,0.0,0.0,Pri/Sec,1.0
+5136,bundoora,3 bedroom flats,470.0,14.0,17.0,0.0,0.0,Primary,3.0
+5137,bundoora,3 bedroom flats,470.0,14.0,17.0,0.0,0.0,Secondary,2.0
+5138,greensborough,3 bedroom flats,470.0,11.0,18.0,0.0,1.0,Primary,5.0
+5139,greensborough,3 bedroom flats,470.0,11.0,18.0,0.0,1.0,Secondary,1.0
+5140,hurstbridge,3 bedroom flats,470.0,4.0,7.0,0.0,1.0,Primary,1.0
+5141,bundoora,3 bedroom houses,430.0,14.0,17.0,0.0,0.0,Pri/Sec,1.0
+5142,bundoora,3 bedroom houses,430.0,14.0,17.0,0.0,0.0,Primary,3.0
+5143,bundoora,3 bedroom houses,430.0,14.0,17.0,0.0,0.0,Secondary,2.0
+5144,greensborough,3 bedroom houses,430.0,11.0,18.0,0.0,1.0,Primary,5.0
+5145,greensborough,3 bedroom houses,430.0,11.0,18.0,0.0,1.0,Secondary,1.0
+5146,hurstbridge,3 bedroom houses,430.0,4.0,7.0,0.0,1.0,Primary,1.0
+5147,bundoora,4 bedroom houses,465.0,14.0,17.0,0.0,0.0,Pri/Sec,1.0
+5148,bundoora,4 bedroom houses,465.0,14.0,17.0,0.0,0.0,Primary,3.0
+5149,bundoora,4 bedroom houses,465.0,14.0,17.0,0.0,0.0,Secondary,2.0
+5150,greensborough,4 bedroom houses,465.0,11.0,18.0,0.0,1.0,Primary,5.0
+5151,greensborough,4 bedroom houses,465.0,11.0,18.0,0.0,1.0,Secondary,1.0
+5152,hurstbridge,4 bedroom houses,465.0,4.0,7.0,0.0,1.0,Primary,1.0
+5153,bundoora,All properties,420.0,14.0,17.0,0.0,0.0,Pri/Sec,1.0
+5154,bundoora,All properties,420.0,14.0,17.0,0.0,0.0,Primary,3.0
+5155,bundoora,All properties,420.0,14.0,17.0,0.0,0.0,Secondary,2.0
+5156,greensborough,All properties,420.0,11.0,18.0,0.0,1.0,Primary,5.0
+5157,greensborough,All properties,420.0,11.0,18.0,0.0,1.0,Secondary,1.0
+5158,hurstbridge,All properties,420.0,4.0,7.0,0.0,1.0,Primary,1.0
+5369,burwood,1 bedroom flats,225.0,14.0,23.0,0.0,0.0,Pri/Sec,2.0
+5370,burwood,1 bedroom flats,225.0,14.0,23.0,0.0,0.0,Primary,1.0
+5371,ashburton,1 bedroom flats,225.0,11.0,15.0,0.0,2.0,Primary,3.0
+5372,burwood,2 bedroom flats,400.0,14.0,23.0,0.0,0.0,Pri/Sec,2.0
+5373,burwood,2 bedroom flats,400.0,14.0,23.0,0.0,0.0,Primary,1.0
+5374,ashburton,2 bedroom flats,400.0,11.0,15.0,0.0,2.0,Primary,3.0
+5375,burwood,2 bedroom houses,420.0,14.0,23.0,0.0,0.0,Pri/Sec,2.0
+5376,burwood,2 bedroom houses,420.0,14.0,23.0,0.0,0.0,Primary,1.0
+5377,ashburton,2 bedroom houses,420.0,11.0,15.0,0.0,2.0,Primary,3.0
+5378,burwood,3 bedroom flats,530.0,14.0,23.0,0.0,0.0,Pri/Sec,2.0
+5379,burwood,3 bedroom flats,530.0,14.0,23.0,0.0,0.0,Primary,1.0
+5380,ashburton,3 bedroom flats,530.0,11.0,15.0,0.0,2.0,Primary,3.0
+5381,burwood,3 bedroom houses,500.0,14.0,23.0,0.0,0.0,Pri/Sec,2.0
+5382,burwood,3 bedroom houses,500.0,14.0,23.0,0.0,0.0,Primary,1.0
+5383,ashburton,3 bedroom houses,500.0,11.0,15.0,0.0,2.0,Primary,3.0
+5384,burwood,4 bedroom houses,650.0,14.0,23.0,0.0,0.0,Pri/Sec,2.0
+5385,burwood,4 bedroom houses,650.0,14.0,23.0,0.0,0.0,Primary,1.0
+5386,ashburton,4 bedroom houses,650.0,11.0,15.0,0.0,2.0,Primary,3.0
+5387,burwood,All properties,450.0,14.0,23.0,0.0,0.0,Pri/Sec,2.0
+5388,burwood,All properties,450.0,14.0,23.0,0.0,0.0,Primary,1.0
+5389,ashburton,All properties,450.0,11.0,15.0,0.0,2.0,Primary,3.0
+5530,cbd,1 bedroom flats,340.0,0.0,0.0,0.0,0.0,0,0.0
+5531,st kilda rd,1 bedroom flats,340.0,0.0,0.0,0.0,0.0,0,0.0
+5532,cbd,2 bedroom flats,450.0,0.0,0.0,0.0,0.0,0,0.0
+5533,st kilda rd,2 bedroom flats,450.0,0.0,0.0,0.0,0.0,0,0.0
+5534,cbd,2 bedroom houses,0.0,0.0,0.0,0.0,0.0,0,0.0
+5535,st kilda rd,2 bedroom houses,0.0,0.0,0.0,0.0,0.0,0,0.0
+5536,cbd,3 bedroom flats,680.0,0.0,0.0,0.0,0.0,0,0.0
+5537,st kilda rd,3 bedroom flats,680.0,0.0,0.0,0.0,0.0,0,0.0
+5538,cbd,3 bedroom houses,0.0,0.0,0.0,0.0,0.0,0,0.0
+5539,st kilda rd,3 bedroom houses,0.0,0.0,0.0,0.0,0.0,0,0.0
+5540,cbd,4 bedroom houses,0.0,0.0,0.0,0.0,0.0,0,0.0
+5541,st kilda rd,4 bedroom houses,0.0,0.0,0.0,0.0,0.0,0,0.0
+5542,cbd,All properties,390.0,0.0,0.0,0.0,0.0,0,0.0
+5543,st kilda rd,All properties,390.0,0.0,0.0,0.0,0.0,0,0.0
+5824,camberwell,1 bedroom flats,330.0,23.0,38.0,0.0,5.0,Primary,2.0
+5825,camberwell,1 bedroom flats,330.0,23.0,38.0,0.0,5.0,Secondary,1.0
+5826,glen iris,1 bedroom flats,330.0,23.0,27.0,0.0,3.0,Pri/Sec,2.0
+5827,glen iris,1 bedroom flats,330.0,23.0,27.0,0.0,3.0,Primary,4.0
+5828,camberwell,2 bedroom flats,420.0,23.0,38.0,0.0,5.0,Primary,2.0
+5829,camberwell,2 bedroom flats,420.0,23.0,38.0,0.0,5.0,Secondary,1.0
+5830,glen iris,2 bedroom flats,420.0,23.0,27.0,0.0,3.0,Pri/Sec,2.0
+5831,glen iris,2 bedroom flats,420.0,23.0,27.0,0.0,3.0,Primary,4.0
+5832,camberwell,2 bedroom houses,500.0,23.0,38.0,0.0,5.0,Primary,2.0
+5833,camberwell,2 bedroom houses,500.0,23.0,38.0,0.0,5.0,Secondary,1.0
+5834,glen iris,2 bedroom houses,500.0,23.0,27.0,0.0,3.0,Pri/Sec,2.0
+5835,glen iris,2 bedroom houses,500.0,23.0,27.0,0.0,3.0,Primary,4.0
+5836,camberwell,3 bedroom flats,650.0,23.0,38.0,0.0,5.0,Primary,2.0
+5837,camberwell,3 bedroom flats,650.0,23.0,38.0,0.0,5.0,Secondary,1.0
+5838,glen iris,3 bedroom flats,650.0,23.0,27.0,0.0,3.0,Pri/Sec,2.0
+5839,glen iris,3 bedroom flats,650.0,23.0,27.0,0.0,3.0,Primary,4.0
+5840,camberwell,3 bedroom houses,695.0,23.0,38.0,0.0,5.0,Primary,2.0
+5841,camberwell,3 bedroom houses,695.0,23.0,38.0,0.0,5.0,Secondary,1.0
+5842,glen iris,3 bedroom houses,695.0,23.0,27.0,0.0,3.0,Pri/Sec,2.0
+5843,glen iris,3 bedroom houses,695.0,23.0,27.0,0.0,3.0,Primary,4.0
+5844,camberwell,4 bedroom houses,930.0,23.0,38.0,0.0,5.0,Primary,2.0
+5845,camberwell,4 bedroom houses,930.0,23.0,38.0,0.0,5.0,Secondary,1.0
+5846,glen iris,4 bedroom houses,930.0,23.0,27.0,0.0,3.0,Pri/Sec,2.0
+5847,glen iris,4 bedroom houses,930.0,23.0,27.0,0.0,3.0,Primary,4.0
+5848,camberwell,All properties,470.0,23.0,38.0,0.0,5.0,Primary,2.0
+5849,camberwell,All properties,470.0,23.0,38.0,0.0,5.0,Secondary,1.0
+5850,glen iris,All properties,470.0,23.0,27.0,0.0,3.0,Pri/Sec,2.0
+5851,glen iris,All properties,470.0,23.0,27.0,0.0,3.0,Primary,4.0
+6202,canterbury,1 bedroom flats,328.0,14.0,15.0,0.0,1.0,Pri/Sec,3.0
+6203,canterbury,1 bedroom flats,328.0,14.0,15.0,0.0,1.0,Primary,1.0
+6204,canterbury,1 bedroom flats,328.0,14.0,15.0,0.0,1.0,Secondary,2.0
+6205,surrey hills,1 bedroom flats,328.0,19.0,21.0,0.0,2.0,Primary,4.0
+6206,mont albert,1 bedroom flats,328.0,0.0,1.0,0.0,1.0,Primary,1.0
+6207,canterbury,2 bedroom flats,430.0,14.0,15.0,0.0,1.0,Pri/Sec,3.0
+6208,canterbury,2 bedroom flats,430.0,14.0,15.0,0.0,1.0,Primary,1.0
+6209,canterbury,2 bedroom flats,430.0,14.0,15.0,0.0,1.0,Secondary,2.0
+6210,surrey hills,2 bedroom flats,430.0,19.0,21.0,0.0,2.0,Primary,4.0
+6211,mont albert,2 bedroom flats,430.0,0.0,1.0,0.0,1.0,Primary,1.0
+6212,canterbury,2 bedroom houses,450.0,14.0,15.0,0.0,1.0,Pri/Sec,3.0
+6213,canterbury,2 bedroom houses,450.0,14.0,15.0,0.0,1.0,Primary,1.0
+6214,canterbury,2 bedroom houses,450.0,14.0,15.0,0.0,1.0,Secondary,2.0
+6215,surrey hills,2 bedroom houses,450.0,19.0,21.0,0.0,2.0,Primary,4.0
+6216,mont albert,2 bedroom houses,450.0,0.0,1.0,0.0,1.0,Primary,1.0
+6217,canterbury,3 bedroom flats,635.0,14.0,15.0,0.0,1.0,Pri/Sec,3.0
+6218,canterbury,3 bedroom flats,635.0,14.0,15.0,0.0,1.0,Primary,1.0
+6219,canterbury,3 bedroom flats,635.0,14.0,15.0,0.0,1.0,Secondary,2.0
+6220,surrey hills,3 bedroom flats,635.0,19.0,21.0,0.0,2.0,Primary,4.0
+6221,mont albert,3 bedroom flats,635.0,0.0,1.0,0.0,1.0,Primary,1.0
+6222,canterbury,3 bedroom houses,670.0,14.0,15.0,0.0,1.0,Pri/Sec,3.0
+6223,canterbury,3 bedroom houses,670.0,14.0,15.0,0.0,1.0,Primary,1.0
+6224,canterbury,3 bedroom houses,670.0,14.0,15.0,0.0,1.0,Secondary,2.0
+6225,surrey hills,3 bedroom houses,670.0,19.0,21.0,0.0,2.0,Primary,4.0
+6226,mont albert,3 bedroom houses,670.0,0.0,1.0,0.0,1.0,Primary,1.0
+6227,canterbury,4 bedroom houses,920.0,14.0,15.0,0.0,1.0,Pri/Sec,3.0
+6228,canterbury,4 bedroom houses,920.0,14.0,15.0,0.0,1.0,Primary,1.0
+6229,canterbury,4 bedroom houses,920.0,14.0,15.0,0.0,1.0,Secondary,2.0
+6230,surrey hills,4 bedroom houses,920.0,19.0,21.0,0.0,2.0,Primary,4.0
+6231,mont albert,4 bedroom houses,920.0,0.0,1.0,0.0,1.0,Primary,1.0
+6232,canterbury,All properties,495.0,14.0,15.0,0.0,1.0,Pri/Sec,3.0
+6233,canterbury,All properties,495.0,14.0,15.0,0.0,1.0,Primary,1.0
+6234,canterbury,All properties,495.0,14.0,15.0,0.0,1.0,Secondary,2.0
+6235,surrey hills,All properties,495.0,19.0,21.0,0.0,2.0,Primary,4.0
+6236,mont albert,All properties,495.0,0.0,1.0,0.0,1.0,Primary,1.0
+6307,carlton north,1 bedroom flats,320.0,4.0,14.0,0.0,0.0,Primary,2.0
+6308,carlton north,2 bedroom flats,450.0,4.0,14.0,0.0,0.0,Primary,2.0
+6309,carlton north,2 bedroom houses,600.0,4.0,14.0,0.0,0.0,Primary,2.0
+6310,carlton north,3 bedroom flats,620.0,4.0,14.0,0.0,0.0,Primary,2.0
+6311,carlton north,3 bedroom houses,760.0,4.0,14.0,0.0,0.0,Primary,2.0
+6312,carlton north,4 bedroom houses,1075.0,4.0,14.0,0.0,0.0,Primary,2.0
+6313,carlton north,All properties,595.0,4.0,14.0,0.0,0.0,Primary,2.0
+6454,carlton,1 bedroom flats,269.0,31.0,56.0,0.0,0.0,Primary,2.0
+6455,parkville,1 bedroom flats,269.0,12.0,29.0,0.0,1.0,Secondary,1.0
+6456,carlton,2 bedroom flats,400.0,31.0,56.0,0.0,0.0,Primary,2.0
+6457,parkville,2 bedroom flats,400.0,12.0,29.0,0.0,1.0,Secondary,1.0
+6458,carlton,2 bedroom houses,550.0,31.0,56.0,0.0,0.0,Primary,2.0
+6459,parkville,2 bedroom houses,550.0,12.0,29.0,0.0,1.0,Secondary,1.0
+6460,carlton,3 bedroom flats,590.0,31.0,56.0,0.0,0.0,Primary,2.0
+6461,parkville,3 bedroom flats,590.0,12.0,29.0,0.0,1.0,Secondary,1.0
+6462,carlton,3 bedroom houses,773.0,31.0,56.0,0.0,0.0,Primary,2.0
+6463,parkville,3 bedroom houses,773.0,12.0,29.0,0.0,1.0,Secondary,1.0
+6464,carlton,4 bedroom houses,930.0,31.0,56.0,0.0,0.0,Primary,2.0
+6465,parkville,4 bedroom houses,930.0,12.0,29.0,0.0,1.0,Secondary,1.0
+6466,carlton,All properties,319.0,31.0,56.0,0.0,0.0,Primary,2.0
+6467,parkville,All properties,319.0,12.0,29.0,0.0,1.0,Secondary,1.0
+6538,carnegie,1 bedroom flats,285.0,3.0,6.0,0.0,1.0,Primary,1.0
+6539,carnegie,2 bedroom flats,405.0,3.0,6.0,0.0,1.0,Primary,1.0
+6540,carnegie,2 bedroom houses,475.0,3.0,6.0,0.0,1.0,Primary,1.0
+6541,carnegie,3 bedroom flats,560.0,3.0,6.0,0.0,1.0,Primary,1.0
+6542,carnegie,3 bedroom houses,615.0,3.0,6.0,0.0,1.0,Primary,1.0
+6543,carnegie,4 bedroom houses,840.0,3.0,6.0,0.0,1.0,Primary,1.0
+6544,carnegie,All properties,395.0,3.0,6.0,0.0,1.0,Primary,1.0
+6685,castlemaine,1 bedroom flats,0.0,15.0,25.0,46.0,0.0,Primary,4.0
+6686,castlemaine,1 bedroom flats,0.0,15.0,25.0,46.0,0.0,Secondary,1.0
+6687,castlemaine,2 bedroom flats,348.0,15.0,25.0,46.0,0.0,Primary,4.0
+6688,castlemaine,2 bedroom flats,348.0,15.0,25.0,46.0,0.0,Secondary,1.0
+6689,castlemaine,2 bedroom houses,375.0,15.0,25.0,46.0,0.0,Primary,4.0
+6690,castlemaine,2 bedroom houses,375.0,15.0,25.0,46.0,0.0,Secondary,1.0
+6691,castlemaine,3 bedroom flats,0.0,15.0,25.0,46.0,0.0,Primary,4.0
+6692,castlemaine,3 bedroom flats,0.0,15.0,25.0,46.0,0.0,Secondary,1.0
+6693,castlemaine,3 bedroom houses,440.0,15.0,25.0,46.0,0.0,Primary,4.0
+6694,castlemaine,3 bedroom houses,440.0,15.0,25.0,46.0,0.0,Secondary,1.0
+6695,castlemaine,4 bedroom houses,450.0,15.0,25.0,46.0,0.0,Primary,4.0
+6696,castlemaine,4 bedroom houses,450.0,15.0,25.0,46.0,0.0,Secondary,1.0
+6697,castlemaine,All properties,390.0,15.0,25.0,46.0,0.0,Primary,4.0
+6698,castlemaine,All properties,390.0,15.0,25.0,46.0,0.0,Secondary,1.0
+6769,caulfield,1 bedroom flats,290.0,12.0,14.0,0.0,0.0,Pri/Sec,1.0
+6770,caulfield,2 bedroom flats,410.0,12.0,14.0,0.0,0.0,Pri/Sec,1.0
+6771,caulfield,2 bedroom houses,490.0,12.0,14.0,0.0,0.0,Pri/Sec,1.0
+6772,caulfield,3 bedroom flats,595.0,12.0,14.0,0.0,0.0,Pri/Sec,1.0
+6773,caulfield,3 bedroom houses,700.0,12.0,14.0,0.0,0.0,Pri/Sec,1.0
+6774,caulfield,4 bedroom houses,970.0,12.0,14.0,0.0,0.0,Pri/Sec,1.0
+6775,caulfield,All properties,410.0,12.0,14.0,0.0,0.0,Pri/Sec,1.0
+7056,chadstone,1 bedroom flats,350.0,6.0,9.0,0.0,0.0,Primary,1.0
+7057,chadstone,1 bedroom flats,350.0,6.0,9.0,0.0,0.0,Secondary,1.0
+7058,oakleigh,1 bedroom flats,350.0,11.0,19.0,0.0,2.0,Pri/Sec,1.0
+7059,oakleigh,1 bedroom flats,350.0,11.0,19.0,0.0,2.0,Primary,2.0
+7060,chadstone,2 bedroom flats,395.0,6.0,9.0,0.0,0.0,Primary,1.0
+7061,chadstone,2 bedroom flats,395.0,6.0,9.0,0.0,0.0,Secondary,1.0
+7062,oakleigh,2 bedroom flats,395.0,11.0,19.0,0.0,2.0,Pri/Sec,1.0
+7063,oakleigh,2 bedroom flats,395.0,11.0,19.0,0.0,2.0,Primary,2.0
+7064,chadstone,2 bedroom houses,410.0,6.0,9.0,0.0,0.0,Primary,1.0
+7065,chadstone,2 bedroom houses,410.0,6.0,9.0,0.0,0.0,Secondary,1.0
+7066,oakleigh,2 bedroom houses,410.0,11.0,19.0,0.0,2.0,Pri/Sec,1.0
+7067,oakleigh,2 bedroom houses,410.0,11.0,19.0,0.0,2.0,Primary,2.0
+7068,chadstone,3 bedroom flats,503.0,6.0,9.0,0.0,0.0,Primary,1.0
+7069,chadstone,3 bedroom flats,503.0,6.0,9.0,0.0,0.0,Secondary,1.0
+7070,oakleigh,3 bedroom flats,503.0,11.0,19.0,0.0,2.0,Pri/Sec,1.0
+7071,oakleigh,3 bedroom flats,503.0,11.0,19.0,0.0,2.0,Primary,2.0
+7072,chadstone,3 bedroom houses,460.0,6.0,9.0,0.0,0.0,Primary,1.0
+7073,chadstone,3 bedroom houses,460.0,6.0,9.0,0.0,0.0,Secondary,1.0
+7074,oakleigh,3 bedroom houses,460.0,11.0,19.0,0.0,2.0,Pri/Sec,1.0
+7075,oakleigh,3 bedroom houses,460.0,11.0,19.0,0.0,2.0,Primary,2.0
+7076,chadstone,4 bedroom houses,625.0,6.0,9.0,0.0,0.0,Primary,1.0
+7077,chadstone,4 bedroom houses,625.0,6.0,9.0,0.0,0.0,Secondary,1.0
+7078,oakleigh,4 bedroom houses,625.0,11.0,19.0,0.0,2.0,Pri/Sec,1.0
+7079,oakleigh,4 bedroom houses,625.0,11.0,19.0,0.0,2.0,Primary,2.0
+7080,chadstone,All properties,440.0,6.0,9.0,0.0,0.0,Primary,1.0
+7081,chadstone,All properties,440.0,6.0,9.0,0.0,0.0,Secondary,1.0
+7082,oakleigh,All properties,440.0,11.0,19.0,0.0,2.0,Pri/Sec,1.0
+7083,oakleigh,All properties,440.0,11.0,19.0,0.0,2.0,Primary,2.0
+7224,cheltenham,1 bedroom flats,345.0,15.0,28.0,0.0,2.0,Primary,5.0
+7225,cheltenham,1 bedroom flats,345.0,15.0,28.0,0.0,2.0,Secondary,1.0
+7226,cheltenham,2 bedroom flats,410.0,15.0,28.0,0.0,2.0,Primary,5.0
+7227,cheltenham,2 bedroom flats,410.0,15.0,28.0,0.0,2.0,Secondary,1.0
+7228,cheltenham,2 bedroom houses,495.0,15.0,28.0,0.0,2.0,Primary,5.0
+7229,cheltenham,2 bedroom houses,495.0,15.0,28.0,0.0,2.0,Secondary,1.0
+7230,cheltenham,3 bedroom flats,570.0,15.0,28.0,0.0,2.0,Primary,5.0
+7231,cheltenham,3 bedroom flats,570.0,15.0,28.0,0.0,2.0,Secondary,1.0
+7232,cheltenham,3 bedroom houses,568.0,15.0,28.0,0.0,2.0,Primary,5.0
+7233,cheltenham,3 bedroom houses,568.0,15.0,28.0,0.0,2.0,Secondary,1.0
+7234,cheltenham,4 bedroom houses,700.0,15.0,28.0,0.0,2.0,Primary,5.0
+7235,cheltenham,4 bedroom houses,700.0,15.0,28.0,0.0,2.0,Secondary,1.0
+7236,cheltenham,All properties,485.0,15.0,28.0,0.0,2.0,Primary,5.0
+7237,cheltenham,All properties,485.0,15.0,28.0,0.0,2.0,Secondary,1.0
+7378,clayton,1 bedroom flats,277.0,16.0,26.0,0.0,1.0,Primary,2.0
+7379,clayton,1 bedroom flats,277.0,16.0,26.0,0.0,1.0,Secondary,1.0
+7380,clayton,2 bedroom flats,380.0,16.0,26.0,0.0,1.0,Primary,2.0
+7381,clayton,2 bedroom flats,380.0,16.0,26.0,0.0,1.0,Secondary,1.0
+7382,clayton,2 bedroom houses,400.0,16.0,26.0,0.0,1.0,Primary,2.0
+7383,clayton,2 bedroom houses,400.0,16.0,26.0,0.0,1.0,Secondary,1.0
+7384,clayton,3 bedroom flats,450.0,16.0,26.0,0.0,1.0,Primary,2.0
+7385,clayton,3 bedroom flats,450.0,16.0,26.0,0.0,1.0,Secondary,1.0
+7386,clayton,3 bedroom houses,450.0,16.0,26.0,0.0,1.0,Primary,2.0
+7387,clayton,3 bedroom houses,450.0,16.0,26.0,0.0,1.0,Secondary,1.0
+7388,clayton,4 bedroom houses,550.0,16.0,26.0,0.0,1.0,Primary,2.0
+7389,clayton,4 bedroom houses,550.0,16.0,26.0,0.0,1.0,Secondary,1.0
+7390,clayton,All properties,400.0,16.0,26.0,0.0,1.0,Primary,2.0
+7391,clayton,All properties,400.0,16.0,26.0,0.0,1.0,Secondary,1.0
+7742,coburg,1 bedroom flats,310.0,20.0,29.0,0.0,2.0,Pri/Sec,1.0
+7743,coburg,1 bedroom flats,310.0,20.0,29.0,0.0,2.0,Primary,5.0
+7744,coburg,1 bedroom flats,310.0,20.0,29.0,0.0,2.0,Secondary,2.0
+7745,pascoe vale south,1 bedroom flats,310.0,4.0,1.0,0.0,0.0,Pri/Sec,1.0
+7746,pascoe vale south,1 bedroom flats,310.0,4.0,1.0,0.0,0.0,Primary,1.0
+7747,coburg,2 bedroom flats,395.0,20.0,29.0,0.0,2.0,Pri/Sec,1.0
+7748,coburg,2 bedroom flats,395.0,20.0,29.0,0.0,2.0,Primary,5.0
+7749,coburg,2 bedroom flats,395.0,20.0,29.0,0.0,2.0,Secondary,2.0
+7750,pascoe vale south,2 bedroom flats,395.0,4.0,1.0,0.0,0.0,Pri/Sec,1.0
+7751,pascoe vale south,2 bedroom flats,395.0,4.0,1.0,0.0,0.0,Primary,1.0
+7752,coburg,2 bedroom houses,470.0,20.0,29.0,0.0,2.0,Pri/Sec,1.0
+7753,coburg,2 bedroom houses,470.0,20.0,29.0,0.0,2.0,Primary,5.0
+7754,coburg,2 bedroom houses,470.0,20.0,29.0,0.0,2.0,Secondary,2.0
+7755,pascoe vale south,2 bedroom houses,470.0,4.0,1.0,0.0,0.0,Pri/Sec,1.0
+7756,pascoe vale south,2 bedroom houses,470.0,4.0,1.0,0.0,0.0,Primary,1.0
+7757,coburg,3 bedroom flats,550.0,20.0,29.0,0.0,2.0,Pri/Sec,1.0
+7758,coburg,3 bedroom flats,550.0,20.0,29.0,0.0,2.0,Primary,5.0
+7759,coburg,3 bedroom flats,550.0,20.0,29.0,0.0,2.0,Secondary,2.0
+7760,pascoe vale south,3 bedroom flats,550.0,4.0,1.0,0.0,0.0,Pri/Sec,1.0
+7761,pascoe vale south,3 bedroom flats,550.0,4.0,1.0,0.0,0.0,Primary,1.0
+7762,coburg,3 bedroom houses,550.0,20.0,29.0,0.0,2.0,Pri/Sec,1.0
+7763,coburg,3 bedroom houses,550.0,20.0,29.0,0.0,2.0,Primary,5.0
+7764,coburg,3 bedroom houses,550.0,20.0,29.0,0.0,2.0,Secondary,2.0
+7765,pascoe vale south,3 bedroom houses,550.0,4.0,1.0,0.0,0.0,Pri/Sec,1.0
+7766,pascoe vale south,3 bedroom houses,550.0,4.0,1.0,0.0,0.0,Primary,1.0
+7767,coburg,4 bedroom houses,675.0,20.0,29.0,0.0,2.0,Pri/Sec,1.0
+7768,coburg,4 bedroom houses,675.0,20.0,29.0,0.0,2.0,Primary,5.0
+7769,coburg,4 bedroom houses,675.0,20.0,29.0,0.0,2.0,Secondary,2.0
+7770,pascoe vale south,4 bedroom houses,675.0,4.0,1.0,0.0,0.0,Pri/Sec,1.0
+7771,pascoe vale south,4 bedroom houses,675.0,4.0,1.0,0.0,0.0,Primary,1.0
+7772,coburg,All properties,440.0,20.0,29.0,0.0,2.0,Pri/Sec,1.0
+7773,coburg,All properties,440.0,20.0,29.0,0.0,2.0,Primary,5.0
+7774,coburg,All properties,440.0,20.0,29.0,0.0,2.0,Secondary,2.0
+7775,pascoe vale south,All properties,440.0,4.0,1.0,0.0,0.0,Pri/Sec,1.0
+7776,pascoe vale south,All properties,440.0,4.0,1.0,0.0,0.0,Primary,1.0
+8057,collingwood,1 bedroom flats,370.0,15.0,47.0,0.0,0.0,Pri/Sec,1.0
+8058,collingwood,1 bedroom flats,370.0,15.0,47.0,0.0,0.0,Primary,1.0
+8059,abbotsford,1 bedroom flats,370.0,18.0,27.0,0.0,2.0,Pri/Sec,1.0
+8060,abbotsford,1 bedroom flats,370.0,18.0,27.0,0.0,2.0,Primary,1.0
+8061,collingwood,2 bedroom flats,500.0,15.0,47.0,0.0,0.0,Pri/Sec,1.0
+8062,collingwood,2 bedroom flats,500.0,15.0,47.0,0.0,0.0,Primary,1.0
+8063,abbotsford,2 bedroom flats,500.0,18.0,27.0,0.0,2.0,Pri/Sec,1.0
+8064,abbotsford,2 bedroom flats,500.0,18.0,27.0,0.0,2.0,Primary,1.0
+8065,collingwood,2 bedroom houses,600.0,15.0,47.0,0.0,0.0,Pri/Sec,1.0
+8066,collingwood,2 bedroom houses,600.0,15.0,47.0,0.0,0.0,Primary,1.0
+8067,abbotsford,2 bedroom houses,600.0,18.0,27.0,0.0,2.0,Pri/Sec,1.0
+8068,abbotsford,2 bedroom houses,600.0,18.0,27.0,0.0,2.0,Primary,1.0
+8069,collingwood,3 bedroom flats,788.0,15.0,47.0,0.0,0.0,Pri/Sec,1.0
+8070,collingwood,3 bedroom flats,788.0,15.0,47.0,0.0,0.0,Primary,1.0
+8071,abbotsford,3 bedroom flats,788.0,18.0,27.0,0.0,2.0,Pri/Sec,1.0
+8072,abbotsford,3 bedroom flats,788.0,18.0,27.0,0.0,2.0,Primary,1.0
+8073,collingwood,3 bedroom houses,790.0,15.0,47.0,0.0,0.0,Pri/Sec,1.0
+8074,collingwood,3 bedroom houses,790.0,15.0,47.0,0.0,0.0,Primary,1.0
+8075,abbotsford,3 bedroom houses,790.0,18.0,27.0,0.0,2.0,Pri/Sec,1.0
+8076,abbotsford,3 bedroom houses,790.0,18.0,27.0,0.0,2.0,Primary,1.0
+8077,collingwood,4 bedroom houses,950.0,15.0,47.0,0.0,0.0,Pri/Sec,1.0
+8078,collingwood,4 bedroom houses,950.0,15.0,47.0,0.0,0.0,Primary,1.0
+8079,abbotsford,4 bedroom houses,950.0,18.0,27.0,0.0,2.0,Pri/Sec,1.0
+8080,abbotsford,4 bedroom houses,950.0,18.0,27.0,0.0,2.0,Primary,1.0
+8081,collingwood,All properties,450.0,15.0,47.0,0.0,0.0,Pri/Sec,1.0
+8082,collingwood,All properties,450.0,15.0,47.0,0.0,0.0,Primary,1.0
+8083,abbotsford,All properties,450.0,18.0,27.0,0.0,2.0,Pri/Sec,1.0
+8084,abbotsford,All properties,450.0,18.0,27.0,0.0,2.0,Primary,1.0
+8225,corio,1 bedroom flats,243.0,6.0,7.0,75.0,0.0,Pri/Sec,2.0
+8226,corio,1 bedroom flats,243.0,6.0,7.0,75.0,0.0,Primary,1.0
+8227,corio,2 bedroom flats,315.0,6.0,7.0,75.0,0.0,Pri/Sec,2.0
+8228,corio,2 bedroom flats,315.0,6.0,7.0,75.0,0.0,Primary,1.0
+8229,corio,2 bedroom houses,300.0,6.0,7.0,75.0,0.0,Pri/Sec,2.0
+8230,corio,2 bedroom houses,300.0,6.0,7.0,75.0,0.0,Primary,1.0
+8231,corio,3 bedroom flats,380.0,6.0,7.0,75.0,0.0,Pri/Sec,2.0
+8232,corio,3 bedroom flats,380.0,6.0,7.0,75.0,0.0,Primary,1.0
+8233,corio,3 bedroom houses,350.0,6.0,7.0,75.0,0.0,Pri/Sec,2.0
+8234,corio,3 bedroom houses,350.0,6.0,7.0,75.0,0.0,Primary,1.0
+8235,corio,4 bedroom houses,418.0,6.0,7.0,75.0,0.0,Pri/Sec,2.0
+8236,corio,4 bedroom houses,418.0,6.0,7.0,75.0,0.0,Primary,1.0
+8237,corio,All properties,330.0,6.0,7.0,75.0,0.0,Pri/Sec,2.0
+8238,corio,All properties,330.0,6.0,7.0,75.0,0.0,Primary,1.0
+8449,craigieburn,1 bedroom flats,318.0,13.0,22.0,0.0,1.0,Pri/Sec,1.0
+8450,craigieburn,1 bedroom flats,318.0,13.0,22.0,0.0,1.0,Primary,7.0
+8451,craigieburn,1 bedroom flats,318.0,13.0,22.0,0.0,1.0,Secondary,2.0
+8452,craigieburn,2 bedroom flats,339.0,13.0,22.0,0.0,1.0,Pri/Sec,1.0
+8453,craigieburn,2 bedroom flats,339.0,13.0,22.0,0.0,1.0,Primary,7.0
+8454,craigieburn,2 bedroom flats,339.0,13.0,22.0,0.0,1.0,Secondary,2.0
+8455,craigieburn,2 bedroom houses,350.0,13.0,22.0,0.0,1.0,Pri/Sec,1.0
+8456,craigieburn,2 bedroom houses,350.0,13.0,22.0,0.0,1.0,Primary,7.0
+8457,craigieburn,2 bedroom houses,350.0,13.0,22.0,0.0,1.0,Secondary,2.0
+8458,craigieburn,3 bedroom flats,370.0,13.0,22.0,0.0,1.0,Pri/Sec,1.0
+8459,craigieburn,3 bedroom flats,370.0,13.0,22.0,0.0,1.0,Primary,7.0
+8460,craigieburn,3 bedroom flats,370.0,13.0,22.0,0.0,1.0,Secondary,2.0
+8461,craigieburn,3 bedroom houses,390.0,13.0,22.0,0.0,1.0,Pri/Sec,1.0
+8462,craigieburn,3 bedroom houses,390.0,13.0,22.0,0.0,1.0,Primary,7.0
+8463,craigieburn,3 bedroom houses,390.0,13.0,22.0,0.0,1.0,Secondary,2.0
+8464,craigieburn,4 bedroom houses,440.0,13.0,22.0,0.0,1.0,Pri/Sec,1.0
+8465,craigieburn,4 bedroom houses,440.0,13.0,22.0,0.0,1.0,Primary,7.0
+8466,craigieburn,4 bedroom houses,440.0,13.0,22.0,0.0,1.0,Secondary,2.0
+8467,craigieburn,All properties,400.0,13.0,22.0,0.0,1.0,Pri/Sec,1.0
+8468,craigieburn,All properties,400.0,13.0,22.0,0.0,1.0,Primary,7.0
+8469,craigieburn,All properties,400.0,13.0,22.0,0.0,1.0,Secondary,2.0
+8680,cranbourne,1 bedroom flats,290.0,9.0,16.0,0.0,1.0,Pri/Sec,1.0
+8681,cranbourne,1 bedroom flats,290.0,9.0,16.0,0.0,1.0,Primary,7.0
+8682,cranbourne,1 bedroom flats,290.0,9.0,16.0,0.0,1.0,Secondary,2.0
+8683,cranbourne,2 bedroom flats,340.0,9.0,16.0,0.0,1.0,Pri/Sec,1.0
+8684,cranbourne,2 bedroom flats,340.0,9.0,16.0,0.0,1.0,Primary,7.0
+8685,cranbourne,2 bedroom flats,340.0,9.0,16.0,0.0,1.0,Secondary,2.0
+8686,cranbourne,2 bedroom houses,360.0,9.0,16.0,0.0,1.0,Pri/Sec,1.0
+8687,cranbourne,2 bedroom houses,360.0,9.0,16.0,0.0,1.0,Primary,7.0
+8688,cranbourne,2 bedroom houses,360.0,9.0,16.0,0.0,1.0,Secondary,2.0
+8689,cranbourne,3 bedroom flats,390.0,9.0,16.0,0.0,1.0,Pri/Sec,1.0
+8690,cranbourne,3 bedroom flats,390.0,9.0,16.0,0.0,1.0,Primary,7.0
+8691,cranbourne,3 bedroom flats,390.0,9.0,16.0,0.0,1.0,Secondary,2.0
+8692,cranbourne,3 bedroom houses,400.0,9.0,16.0,0.0,1.0,Pri/Sec,1.0
+8693,cranbourne,3 bedroom houses,400.0,9.0,16.0,0.0,1.0,Primary,7.0
+8694,cranbourne,3 bedroom houses,400.0,9.0,16.0,0.0,1.0,Secondary,2.0
+8695,cranbourne,4 bedroom houses,455.0,9.0,16.0,0.0,1.0,Pri/Sec,1.0
+8696,cranbourne,4 bedroom houses,455.0,9.0,16.0,0.0,1.0,Primary,7.0
+8697,cranbourne,4 bedroom houses,455.0,9.0,16.0,0.0,1.0,Secondary,2.0
+8698,cranbourne,All properties,430.0,9.0,16.0,0.0,1.0,Pri/Sec,1.0
+8699,cranbourne,All properties,430.0,9.0,16.0,0.0,1.0,Primary,7.0
+8700,cranbourne,All properties,430.0,9.0,16.0,0.0,1.0,Secondary,2.0
+9051,croydon,1 bedroom flats,320.0,18.0,32.0,0.0,1.0,Primary,6.0
+9052,croydon,1 bedroom flats,320.0,18.0,32.0,0.0,1.0,Secondary,2.0
+9053,lilydale,1 bedroom flats,320.0,13.0,21.0,0.0,1.0,Pri/Sec,1.0
+9054,lilydale,1 bedroom flats,320.0,13.0,21.0,0.0,1.0,Primary,3.0
+9055,lilydale,1 bedroom flats,320.0,13.0,21.0,0.0,1.0,Secondary,3.0
+9056,croydon,2 bedroom flats,385.0,18.0,32.0,0.0,1.0,Primary,6.0
+9057,croydon,2 bedroom flats,385.0,18.0,32.0,0.0,1.0,Secondary,2.0
+9058,lilydale,2 bedroom flats,385.0,13.0,21.0,0.0,1.0,Pri/Sec,1.0
+9059,lilydale,2 bedroom flats,385.0,13.0,21.0,0.0,1.0,Primary,3.0
+9060,lilydale,2 bedroom flats,385.0,13.0,21.0,0.0,1.0,Secondary,3.0
+9061,croydon,2 bedroom houses,390.0,18.0,32.0,0.0,1.0,Primary,6.0
+9062,croydon,2 bedroom houses,390.0,18.0,32.0,0.0,1.0,Secondary,2.0
+9063,lilydale,2 bedroom houses,390.0,13.0,21.0,0.0,1.0,Pri/Sec,1.0
+9064,lilydale,2 bedroom houses,390.0,13.0,21.0,0.0,1.0,Primary,3.0
+9065,lilydale,2 bedroom houses,390.0,13.0,21.0,0.0,1.0,Secondary,3.0
+9066,croydon,3 bedroom flats,470.0,18.0,32.0,0.0,1.0,Primary,6.0
+9067,croydon,3 bedroom flats,470.0,18.0,32.0,0.0,1.0,Secondary,2.0
+9068,lilydale,3 bedroom flats,470.0,13.0,21.0,0.0,1.0,Pri/Sec,1.0
+9069,lilydale,3 bedroom flats,470.0,13.0,21.0,0.0,1.0,Primary,3.0
+9070,lilydale,3 bedroom flats,470.0,13.0,21.0,0.0,1.0,Secondary,3.0
+9071,croydon,3 bedroom houses,460.0,18.0,32.0,0.0,1.0,Primary,6.0
+9072,croydon,3 bedroom houses,460.0,18.0,32.0,0.0,1.0,Secondary,2.0
+9073,lilydale,3 bedroom houses,460.0,13.0,21.0,0.0,1.0,Pri/Sec,1.0
+9074,lilydale,3 bedroom houses,460.0,13.0,21.0,0.0,1.0,Primary,3.0
+9075,lilydale,3 bedroom houses,460.0,13.0,21.0,0.0,1.0,Secondary,3.0
+9076,croydon,4 bedroom houses,580.0,18.0,32.0,0.0,1.0,Primary,6.0
+9077,croydon,4 bedroom houses,580.0,18.0,32.0,0.0,1.0,Secondary,2.0
+9078,lilydale,4 bedroom houses,580.0,13.0,21.0,0.0,1.0,Pri/Sec,1.0
+9079,lilydale,4 bedroom houses,580.0,13.0,21.0,0.0,1.0,Primary,3.0
+9080,lilydale,4 bedroom houses,580.0,13.0,21.0,0.0,1.0,Secondary,3.0
+9081,croydon,All properties,450.0,18.0,32.0,0.0,1.0,Primary,6.0
+9082,croydon,All properties,450.0,18.0,32.0,0.0,1.0,Secondary,2.0
+9083,lilydale,All properties,450.0,13.0,21.0,0.0,1.0,Pri/Sec,1.0
+9084,lilydale,All properties,450.0,13.0,21.0,0.0,1.0,Primary,3.0
+9085,lilydale,All properties,450.0,13.0,21.0,0.0,1.0,Secondary,3.0
+9226,dandenong,1 bedroom flats,265.0,36.0,57.0,0.0,1.0,Primary,6.0
+9227,dandenong,1 bedroom flats,265.0,36.0,57.0,0.0,1.0,Secondary,2.0
+9228,dandenong,2 bedroom flats,320.0,36.0,57.0,0.0,1.0,Primary,6.0
+9229,dandenong,2 bedroom flats,320.0,36.0,57.0,0.0,1.0,Secondary,2.0
+9230,dandenong,2 bedroom houses,360.0,36.0,57.0,0.0,1.0,Primary,6.0
+9231,dandenong,2 bedroom houses,360.0,36.0,57.0,0.0,1.0,Secondary,2.0
+9232,dandenong,3 bedroom flats,410.0,36.0,57.0,0.0,1.0,Primary,6.0
+9233,dandenong,3 bedroom flats,410.0,36.0,57.0,0.0,1.0,Secondary,2.0
+9234,dandenong,3 bedroom houses,410.0,36.0,57.0,0.0,1.0,Primary,6.0
+9235,dandenong,3 bedroom houses,410.0,36.0,57.0,0.0,1.0,Secondary,2.0
+9236,dandenong,4 bedroom houses,545.0,36.0,57.0,0.0,1.0,Primary,6.0
+9237,dandenong,4 bedroom houses,545.0,36.0,57.0,0.0,1.0,Secondary,2.0
+9238,dandenong,All properties,360.0,36.0,57.0,0.0,1.0,Primary,6.0
+9239,dandenong,All properties,360.0,36.0,57.0,0.0,1.0,Secondary,2.0
+9590,dandenong north,1 bedroom flats,270.0,11.0,11.0,0.0,0.0,Primary,4.0
+9591,dandenong north,1 bedroom flats,270.0,11.0,11.0,0.0,0.0,Secondary,1.0
+9592,endeavour hills,1 bedroom flats,270.0,14.0,16.0,0.0,0.0,Pri/Sec,1.0
+9593,endeavour hills,1 bedroom flats,270.0,14.0,16.0,0.0,0.0,Primary,7.0
+9594,endeavour hills,1 bedroom flats,270.0,14.0,16.0,0.0,0.0,Secondary,1.0
+9595,dandenong north,2 bedroom flats,344.0,11.0,11.0,0.0,0.0,Primary,4.0
+9596,dandenong north,2 bedroom flats,344.0,11.0,11.0,0.0,0.0,Secondary,1.0
+9597,endeavour hills,2 bedroom flats,344.0,14.0,16.0,0.0,0.0,Pri/Sec,1.0
+9598,endeavour hills,2 bedroom flats,344.0,14.0,16.0,0.0,0.0,Primary,7.0
+9599,endeavour hills,2 bedroom flats,344.0,14.0,16.0,0.0,0.0,Secondary,1.0
+9600,dandenong north,2 bedroom houses,333.0,11.0,11.0,0.0,0.0,Primary,4.0
+9601,dandenong north,2 bedroom houses,333.0,11.0,11.0,0.0,0.0,Secondary,1.0
+9602,endeavour hills,2 bedroom houses,333.0,14.0,16.0,0.0,0.0,Pri/Sec,1.0
+9603,endeavour hills,2 bedroom houses,333.0,14.0,16.0,0.0,0.0,Primary,7.0
+9604,endeavour hills,2 bedroom houses,333.0,14.0,16.0,0.0,0.0,Secondary,1.0
+9605,dandenong north,3 bedroom flats,390.0,11.0,11.0,0.0,0.0,Primary,4.0
+9606,dandenong north,3 bedroom flats,390.0,11.0,11.0,0.0,0.0,Secondary,1.0
+9607,endeavour hills,3 bedroom flats,390.0,14.0,16.0,0.0,0.0,Pri/Sec,1.0
+9608,endeavour hills,3 bedroom flats,390.0,14.0,16.0,0.0,0.0,Primary,7.0
+9609,endeavour hills,3 bedroom flats,390.0,14.0,16.0,0.0,0.0,Secondary,1.0
+9610,dandenong north,3 bedroom houses,385.0,11.0,11.0,0.0,0.0,Primary,4.0
+9611,dandenong north,3 bedroom houses,385.0,11.0,11.0,0.0,0.0,Secondary,1.0
+9612,endeavour hills,3 bedroom houses,385.0,14.0,16.0,0.0,0.0,Pri/Sec,1.0
+9613,endeavour hills,3 bedroom houses,385.0,14.0,16.0,0.0,0.0,Primary,7.0
+9614,endeavour hills,3 bedroom houses,385.0,14.0,16.0,0.0,0.0,Secondary,1.0
+9615,dandenong north,4 bedroom houses,450.0,11.0,11.0,0.0,0.0,Primary,4.0
+9616,dandenong north,4 bedroom houses,450.0,11.0,11.0,0.0,0.0,Secondary,1.0
+9617,endeavour hills,4 bedroom houses,450.0,14.0,16.0,0.0,0.0,Pri/Sec,1.0
+9618,endeavour hills,4 bedroom houses,450.0,14.0,16.0,0.0,0.0,Primary,7.0
+9619,endeavour hills,4 bedroom houses,450.0,14.0,16.0,0.0,0.0,Secondary,1.0
+9620,dandenong north,All properties,380.0,11.0,11.0,0.0,0.0,Primary,4.0
+9621,dandenong north,All properties,380.0,11.0,11.0,0.0,0.0,Secondary,1.0
+9622,endeavour hills,All properties,380.0,14.0,16.0,0.0,0.0,Pri/Sec,1.0
+9623,endeavour hills,All properties,380.0,14.0,16.0,0.0,0.0,Primary,7.0
+9624,endeavour hills,All properties,380.0,14.0,16.0,0.0,0.0,Secondary,1.0
+9695,docklands,1 bedroom flats,380.0,15.0,24.0,0.0,0.0,Primary,1.0
+9696,docklands,2 bedroom flats,500.0,15.0,24.0,0.0,0.0,Primary,1.0
+9697,docklands,2 bedroom houses,0.0,15.0,24.0,0.0,0.0,Primary,1.0
+9698,docklands,3 bedroom flats,850.0,15.0,24.0,0.0,0.0,Primary,1.0
+9699,docklands,3 bedroom houses,0.0,15.0,24.0,0.0,0.0,Primary,1.0
+9700,docklands,4 bedroom houses,0.0,15.0,24.0,0.0,0.0,Primary,1.0
+9701,docklands,All properties,450.0,15.0,24.0,0.0,0.0,Primary,1.0
+10052,doncaster east,1 bedroom flats,350.0,17.0,23.0,0.0,0.0,Primary,5.0
+10053,doncaster east,1 bedroom flats,350.0,17.0,23.0,0.0,0.0,Secondary,1.0
+10054,donvale,1 bedroom flats,350.0,12.0,15.0,0.0,0.0,Pri/Sec,1.0
+10055,donvale,1 bedroom flats,350.0,12.0,15.0,0.0,0.0,Primary,2.0
+10056,donvale,1 bedroom flats,350.0,12.0,15.0,0.0,0.0,Secondary,1.0
+10057,doncaster east,2 bedroom flats,420.0,17.0,23.0,0.0,0.0,Primary,5.0
+10058,doncaster east,2 bedroom flats,420.0,17.0,23.0,0.0,0.0,Secondary,1.0
+10059,donvale,2 bedroom flats,420.0,12.0,15.0,0.0,0.0,Pri/Sec,1.0
+10060,donvale,2 bedroom flats,420.0,12.0,15.0,0.0,0.0,Primary,2.0
+10061,donvale,2 bedroom flats,420.0,12.0,15.0,0.0,0.0,Secondary,1.0
+10062,doncaster east,2 bedroom houses,395.0,17.0,23.0,0.0,0.0,Primary,5.0
+10063,doncaster east,2 bedroom houses,395.0,17.0,23.0,0.0,0.0,Secondary,1.0
+10064,donvale,2 bedroom houses,395.0,12.0,15.0,0.0,0.0,Pri/Sec,1.0
+10065,donvale,2 bedroom houses,395.0,12.0,15.0,0.0,0.0,Primary,2.0
+10066,donvale,2 bedroom houses,395.0,12.0,15.0,0.0,0.0,Secondary,1.0
+10067,doncaster east,3 bedroom flats,520.0,17.0,23.0,0.0,0.0,Primary,5.0
+10068,doncaster east,3 bedroom flats,520.0,17.0,23.0,0.0,0.0,Secondary,1.0
+10069,donvale,3 bedroom flats,520.0,12.0,15.0,0.0,0.0,Pri/Sec,1.0
+10070,donvale,3 bedroom flats,520.0,12.0,15.0,0.0,0.0,Primary,2.0
+10071,donvale,3 bedroom flats,520.0,12.0,15.0,0.0,0.0,Secondary,1.0
+10072,doncaster east,3 bedroom houses,500.0,17.0,23.0,0.0,0.0,Primary,5.0
+10073,doncaster east,3 bedroom houses,500.0,17.0,23.0,0.0,0.0,Secondary,1.0
+10074,donvale,3 bedroom houses,500.0,12.0,15.0,0.0,0.0,Pri/Sec,1.0
+10075,donvale,3 bedroom houses,500.0,12.0,15.0,0.0,0.0,Primary,2.0
+10076,donvale,3 bedroom houses,500.0,12.0,15.0,0.0,0.0,Secondary,1.0
+10077,doncaster east,4 bedroom houses,600.0,17.0,23.0,0.0,0.0,Primary,5.0
+10078,doncaster east,4 bedroom houses,600.0,17.0,23.0,0.0,0.0,Secondary,1.0
+10079,donvale,4 bedroom houses,600.0,12.0,15.0,0.0,0.0,Pri/Sec,1.0
+10080,donvale,4 bedroom houses,600.0,12.0,15.0,0.0,0.0,Primary,2.0
+10081,donvale,4 bedroom houses,600.0,12.0,15.0,0.0,0.0,Secondary,1.0
+10082,doncaster east,All properties,500.0,17.0,23.0,0.0,0.0,Primary,5.0
+10083,doncaster east,All properties,500.0,17.0,23.0,0.0,0.0,Secondary,1.0
+10084,donvale,All properties,500.0,12.0,15.0,0.0,0.0,Pri/Sec,1.0
+10085,donvale,All properties,500.0,12.0,15.0,0.0,0.0,Primary,2.0
+10086,donvale,All properties,500.0,12.0,15.0,0.0,0.0,Secondary,1.0
+10297,dromana,1 bedroom flats,323.0,6.0,12.0,0.0,0.0,Primary,1.0
+10298,dromana,1 bedroom flats,323.0,6.0,12.0,0.0,0.0,Secondary,1.0
+10299,portsea,1 bedroom flats,323.0,2.0,2.0,0.0,0.0,0,0.0
+10300,dromana,2 bedroom flats,400.0,6.0,12.0,0.0,0.0,Primary,1.0
+10301,dromana,2 bedroom flats,400.0,6.0,12.0,0.0,0.0,Secondary,1.0
+10302,portsea,2 bedroom flats,400.0,2.0,2.0,0.0,0.0,0,0.0
+10303,dromana,2 bedroom houses,400.0,6.0,12.0,0.0,0.0,Primary,1.0
+10304,dromana,2 bedroom houses,400.0,6.0,12.0,0.0,0.0,Secondary,1.0
+10305,portsea,2 bedroom houses,400.0,2.0,2.0,0.0,0.0,0,0.0
+10306,dromana,3 bedroom flats,510.0,6.0,12.0,0.0,0.0,Primary,1.0
+10307,dromana,3 bedroom flats,510.0,6.0,12.0,0.0,0.0,Secondary,1.0
+10308,portsea,3 bedroom flats,510.0,2.0,2.0,0.0,0.0,0,0.0
+10309,dromana,3 bedroom houses,500.0,6.0,12.0,0.0,0.0,Primary,1.0
+10310,dromana,3 bedroom houses,500.0,6.0,12.0,0.0,0.0,Secondary,1.0
+10311,portsea,3 bedroom houses,500.0,2.0,2.0,0.0,0.0,0,0.0
+10312,dromana,4 bedroom houses,675.0,6.0,12.0,0.0,0.0,Primary,1.0
+10313,dromana,4 bedroom houses,675.0,6.0,12.0,0.0,0.0,Secondary,1.0
+10314,portsea,4 bedroom houses,675.0,2.0,2.0,0.0,0.0,0,0.0
+10315,dromana,All properties,500.0,6.0,12.0,0.0,0.0,Primary,1.0
+10316,dromana,All properties,500.0,6.0,12.0,0.0,0.0,Secondary,1.0
+10317,portsea,All properties,500.0,2.0,2.0,0.0,0.0,0,0.0
+10388,east brunswick,1 bedroom flats,350.0,0.0,1.0,0.0,0.0,0,0.0
+10389,east brunswick,2 bedroom flats,440.0,0.0,1.0,0.0,0.0,0,0.0
+10390,east brunswick,2 bedroom houses,530.0,0.0,1.0,0.0,0.0,0,0.0
+10391,east brunswick,3 bedroom flats,655.0,0.0,1.0,0.0,0.0,0,0.0
+10392,east brunswick,3 bedroom houses,650.0,0.0,1.0,0.0,0.0,0,0.0
+10393,east brunswick,4 bedroom houses,850.0,0.0,1.0,0.0,0.0,0,0.0
+10394,east brunswick,All properties,420.0,0.0,1.0,0.0,0.0,0,0.0
+10465,east hawthorn,1 bedroom flats,325.0,0.0,0.0,0.0,0.0,0,0.0
+10466,east hawthorn,2 bedroom flats,420.0,0.0,0.0,0.0,0.0,0,0.0
+10467,east hawthorn,2 bedroom houses,555.0,0.0,0.0,0.0,0.0,0,0.0
+10468,east hawthorn,3 bedroom flats,600.0,0.0,0.0,0.0,0.0,0,0.0
+10469,east hawthorn,3 bedroom houses,730.0,0.0,0.0,0.0,0.0,0,0.0
+10470,east hawthorn,4 bedroom houses,1005.0,0.0,0.0,0.0,0.0,0,0.0
+10471,east hawthorn,All properties,400.0,0.0,0.0,0.0,0.0,0,0.0
+10542,east melbourne,1 bedroom flats,383.0,35.0,58.0,0.0,1.0,0,0.0
+10543,east melbourne,2 bedroom flats,530.0,35.0,58.0,0.0,1.0,0,0.0
+10544,east melbourne,2 bedroom houses,0.0,35.0,58.0,0.0,1.0,0,0.0
+10545,east melbourne,3 bedroom flats,865.0,35.0,58.0,0.0,1.0,0,0.0
+10546,east melbourne,3 bedroom houses,1000.0,35.0,58.0,0.0,1.0,0,0.0
+10547,east melbourne,4 bedroom houses,0.0,35.0,58.0,0.0,1.0,0,0.0
+10548,east melbourne,All properties,470.0,35.0,58.0,0.0,1.0,0,0.0
+10619,east st kilda,1 bedroom flats,295.0,2.0,2.0,0.0,0.0,0,0.0
+10620,east st kilda,2 bedroom flats,400.0,2.0,2.0,0.0,0.0,0,0.0
+10621,east st kilda,2 bedroom houses,595.0,2.0,2.0,0.0,0.0,0,0.0
+10622,east st kilda,3 bedroom flats,560.0,2.0,2.0,0.0,0.0,0,0.0
+10623,east st kilda,3 bedroom houses,715.0,2.0,2.0,0.0,0.0,0,0.0
+10624,east st kilda,4 bedroom houses,868.0,2.0,2.0,0.0,0.0,0,0.0
+10625,east st kilda,All properties,390.0,2.0,2.0,0.0,0.0,0,0.0
+10836,echuca,1 bedroom flats,210.0,11.0,21.0,19.0,0.0,Pri/Sec,1.0
+10837,echuca,1 bedroom flats,210.0,11.0,21.0,19.0,0.0,Primary,4.0
+10838,echuca,1 bedroom flats,210.0,11.0,21.0,19.0,0.0,Secondary,2.0
+10839,echuca,2 bedroom flats,320.0,11.0,21.0,19.0,0.0,Pri/Sec,1.0
+10840,echuca,2 bedroom flats,320.0,11.0,21.0,19.0,0.0,Primary,4.0
+10841,echuca,2 bedroom flats,320.0,11.0,21.0,19.0,0.0,Secondary,2.0
+10842,echuca,2 bedroom houses,340.0,11.0,21.0,19.0,0.0,Pri/Sec,1.0
+10843,echuca,2 bedroom houses,340.0,11.0,21.0,19.0,0.0,Primary,4.0
+10844,echuca,2 bedroom houses,340.0,11.0,21.0,19.0,0.0,Secondary,2.0
+10845,echuca,3 bedroom flats,400.0,11.0,21.0,19.0,0.0,Pri/Sec,1.0
+10846,echuca,3 bedroom flats,400.0,11.0,21.0,19.0,0.0,Primary,4.0
+10847,echuca,3 bedroom flats,400.0,11.0,21.0,19.0,0.0,Secondary,2.0
+10848,echuca,3 bedroom houses,400.0,11.0,21.0,19.0,0.0,Pri/Sec,1.0
+10849,echuca,3 bedroom houses,400.0,11.0,21.0,19.0,0.0,Primary,4.0
+10850,echuca,3 bedroom houses,400.0,11.0,21.0,19.0,0.0,Secondary,2.0
+10851,echuca,4 bedroom houses,510.0,11.0,21.0,19.0,0.0,Pri/Sec,1.0
+10852,echuca,4 bedroom houses,510.0,11.0,21.0,19.0,0.0,Primary,4.0
+10853,echuca,4 bedroom houses,510.0,11.0,21.0,19.0,0.0,Secondary,2.0
+10854,echuca,All properties,380.0,11.0,21.0,19.0,0.0,Pri/Sec,1.0
+10855,echuca,All properties,380.0,11.0,21.0,19.0,0.0,Primary,4.0
+10856,echuca,All properties,380.0,11.0,21.0,19.0,0.0,Secondary,2.0
+10997,elsternwick,1 bedroom flats,305.0,14.0,15.0,0.0,1.0,Pri/Sec,2.0
+10998,elsternwick,1 bedroom flats,305.0,14.0,15.0,0.0,1.0,Primary,2.0
+10999,elsternwick,2 bedroom flats,460.0,14.0,15.0,0.0,1.0,Pri/Sec,2.0
+11000,elsternwick,2 bedroom flats,460.0,14.0,15.0,0.0,1.0,Primary,2.0
+11001,elsternwick,2 bedroom houses,620.0,14.0,15.0,0.0,1.0,Pri/Sec,2.0
+11002,elsternwick,2 bedroom houses,620.0,14.0,15.0,0.0,1.0,Primary,2.0
+11003,elsternwick,3 bedroom flats,680.0,14.0,15.0,0.0,1.0,Pri/Sec,2.0
+11004,elsternwick,3 bedroom flats,680.0,14.0,15.0,0.0,1.0,Primary,2.0
+11005,elsternwick,3 bedroom houses,760.0,14.0,15.0,0.0,1.0,Pri/Sec,2.0
+11006,elsternwick,3 bedroom houses,760.0,14.0,15.0,0.0,1.0,Primary,2.0
+11007,elsternwick,4 bedroom houses,1000.0,14.0,15.0,0.0,1.0,Pri/Sec,2.0
+11008,elsternwick,4 bedroom houses,1000.0,14.0,15.0,0.0,1.0,Primary,2.0
+11009,elsternwick,All properties,440.0,14.0,15.0,0.0,1.0,Pri/Sec,2.0
+11010,elsternwick,All properties,440.0,14.0,15.0,0.0,1.0,Primary,2.0
+11431,eltham,1 bedroom flats,310.0,19.0,21.0,0.0,1.0,Primary,3.0
+11432,eltham,1 bedroom flats,310.0,19.0,21.0,0.0,1.0,Secondary,2.0
+11433,research,1 bedroom flats,310.0,3.0,2.0,0.0,0.0,Pri/Sec,1.0
+11434,research,1 bedroom flats,310.0,3.0,2.0,0.0,0.0,Primary,1.0
+11435,montmorency,1 bedroom flats,310.0,4.0,6.0,0.0,1.0,Primary,3.0
+11436,montmorency,1 bedroom flats,310.0,4.0,6.0,0.0,1.0,Secondary,1.0
+11437,eltham,2 bedroom flats,400.0,19.0,21.0,0.0,1.0,Primary,3.0
+11438,eltham,2 bedroom flats,400.0,19.0,21.0,0.0,1.0,Secondary,2.0
+11439,research,2 bedroom flats,400.0,3.0,2.0,0.0,0.0,Pri/Sec,1.0
+11440,research,2 bedroom flats,400.0,3.0,2.0,0.0,0.0,Primary,1.0
+11441,montmorency,2 bedroom flats,400.0,4.0,6.0,0.0,1.0,Primary,3.0
+11442,montmorency,2 bedroom flats,400.0,4.0,6.0,0.0,1.0,Secondary,1.0
+11443,eltham,2 bedroom houses,420.0,19.0,21.0,0.0,1.0,Primary,3.0
+11444,eltham,2 bedroom houses,420.0,19.0,21.0,0.0,1.0,Secondary,2.0
+11445,research,2 bedroom houses,420.0,3.0,2.0,0.0,0.0,Pri/Sec,1.0
+11446,research,2 bedroom houses,420.0,3.0,2.0,0.0,0.0,Primary,1.0
+11447,montmorency,2 bedroom houses,420.0,4.0,6.0,0.0,1.0,Primary,3.0
+11448,montmorency,2 bedroom houses,420.0,4.0,6.0,0.0,1.0,Secondary,1.0
+11449,eltham,3 bedroom flats,513.0,19.0,21.0,0.0,1.0,Primary,3.0
+11450,eltham,3 bedroom flats,513.0,19.0,21.0,0.0,1.0,Secondary,2.0
+11451,research,3 bedroom flats,513.0,3.0,2.0,0.0,0.0,Pri/Sec,1.0
+11452,research,3 bedroom flats,513.0,3.0,2.0,0.0,0.0,Primary,1.0
+11453,montmorency,3 bedroom flats,513.0,4.0,6.0,0.0,1.0,Primary,3.0
+11454,montmorency,3 bedroom flats,513.0,4.0,6.0,0.0,1.0,Secondary,1.0
+11455,eltham,3 bedroom houses,525.0,19.0,21.0,0.0,1.0,Primary,3.0
+11456,eltham,3 bedroom houses,525.0,19.0,21.0,0.0,1.0,Secondary,2.0
+11457,research,3 bedroom houses,525.0,3.0,2.0,0.0,0.0,Pri/Sec,1.0
+11458,research,3 bedroom houses,525.0,3.0,2.0,0.0,0.0,Primary,1.0
+11459,montmorency,3 bedroom houses,525.0,4.0,6.0,0.0,1.0,Primary,3.0
+11460,montmorency,3 bedroom houses,525.0,4.0,6.0,0.0,1.0,Secondary,1.0
+11461,eltham,4 bedroom houses,650.0,19.0,21.0,0.0,1.0,Primary,3.0
+11462,eltham,4 bedroom houses,650.0,19.0,21.0,0.0,1.0,Secondary,2.0
+11463,research,4 bedroom houses,650.0,3.0,2.0,0.0,0.0,Pri/Sec,1.0
+11464,research,4 bedroom houses,650.0,3.0,2.0,0.0,0.0,Primary,1.0
+11465,montmorency,4 bedroom houses,650.0,4.0,6.0,0.0,1.0,Primary,3.0
+11466,montmorency,4 bedroom houses,650.0,4.0,6.0,0.0,1.0,Secondary,1.0
+11467,eltham,All properties,490.0,19.0,21.0,0.0,1.0,Primary,3.0
+11468,eltham,All properties,490.0,19.0,21.0,0.0,1.0,Secondary,2.0
+11469,research,All properties,490.0,3.0,2.0,0.0,0.0,Pri/Sec,1.0
+11470,research,All properties,490.0,3.0,2.0,0.0,0.0,Primary,1.0
+11471,montmorency,All properties,490.0,4.0,6.0,0.0,1.0,Primary,3.0
+11472,montmorency,All properties,490.0,4.0,6.0,0.0,1.0,Secondary,1.0
+11683,elwood,1 bedroom flats,310.0,14.0,12.0,0.0,0.0,Pri/Sec,1.0
+11684,elwood,1 bedroom flats,310.0,14.0,12.0,0.0,0.0,Primary,2.0
+11685,elwood,1 bedroom flats,310.0,14.0,12.0,0.0,0.0,Secondary,1.0
+11686,elwood,2 bedroom flats,450.0,14.0,12.0,0.0,0.0,Pri/Sec,1.0
+11687,elwood,2 bedroom flats,450.0,14.0,12.0,0.0,0.0,Primary,2.0
+11688,elwood,2 bedroom flats,450.0,14.0,12.0,0.0,0.0,Secondary,1.0
+11689,elwood,2 bedroom houses,670.0,14.0,12.0,0.0,0.0,Pri/Sec,1.0
+11690,elwood,2 bedroom houses,670.0,14.0,12.0,0.0,0.0,Primary,2.0
+11691,elwood,2 bedroom houses,670.0,14.0,12.0,0.0,0.0,Secondary,1.0
+11692,elwood,3 bedroom flats,603.0,14.0,12.0,0.0,0.0,Pri/Sec,1.0
+11693,elwood,3 bedroom flats,603.0,14.0,12.0,0.0,0.0,Primary,2.0
+11694,elwood,3 bedroom flats,603.0,14.0,12.0,0.0,0.0,Secondary,1.0
+11695,elwood,3 bedroom houses,900.0,14.0,12.0,0.0,0.0,Pri/Sec,1.0
+11696,elwood,3 bedroom houses,900.0,14.0,12.0,0.0,0.0,Primary,2.0
+11697,elwood,3 bedroom houses,900.0,14.0,12.0,0.0,0.0,Secondary,1.0
+11698,elwood,4 bedroom houses,1250.0,14.0,12.0,0.0,0.0,Pri/Sec,1.0
+11699,elwood,4 bedroom houses,1250.0,14.0,12.0,0.0,0.0,Primary,2.0
+11700,elwood,4 bedroom houses,1250.0,14.0,12.0,0.0,0.0,Secondary,1.0
+11701,elwood,All properties,420.0,14.0,12.0,0.0,0.0,Pri/Sec,1.0
+11702,elwood,All properties,420.0,14.0,12.0,0.0,0.0,Primary,2.0
+11703,elwood,All properties,420.0,14.0,12.0,0.0,0.0,Secondary,1.0
+11914,essendon,1 bedroom flats,300.0,14.0,20.0,0.0,2.0,Pri/Sec,1.0
+11915,essendon,1 bedroom flats,300.0,14.0,20.0,0.0,2.0,Primary,4.0
+11916,essendon,1 bedroom flats,300.0,14.0,20.0,0.0,2.0,Secondary,3.0
+11917,essendon,2 bedroom flats,365.0,14.0,20.0,0.0,2.0,Pri/Sec,1.0
+11918,essendon,2 bedroom flats,365.0,14.0,20.0,0.0,2.0,Primary,4.0
+11919,essendon,2 bedroom flats,365.0,14.0,20.0,0.0,2.0,Secondary,3.0
+11920,essendon,2 bedroom houses,410.0,14.0,20.0,0.0,2.0,Pri/Sec,1.0
+11921,essendon,2 bedroom houses,410.0,14.0,20.0,0.0,2.0,Primary,4.0
+11922,essendon,2 bedroom houses,410.0,14.0,20.0,0.0,2.0,Secondary,3.0
+11923,essendon,3 bedroom flats,495.0,14.0,20.0,0.0,2.0,Pri/Sec,1.0
+11924,essendon,3 bedroom flats,495.0,14.0,20.0,0.0,2.0,Primary,4.0
+11925,essendon,3 bedroom flats,495.0,14.0,20.0,0.0,2.0,Secondary,3.0
+11926,essendon,3 bedroom houses,500.0,14.0,20.0,0.0,2.0,Pri/Sec,1.0
+11927,essendon,3 bedroom houses,500.0,14.0,20.0,0.0,2.0,Primary,4.0
+11928,essendon,3 bedroom houses,500.0,14.0,20.0,0.0,2.0,Secondary,3.0
+11929,essendon,4 bedroom houses,655.0,14.0,20.0,0.0,2.0,Pri/Sec,1.0
+11930,essendon,4 bedroom houses,655.0,14.0,20.0,0.0,2.0,Primary,4.0
+11931,essendon,4 bedroom houses,655.0,14.0,20.0,0.0,2.0,Secondary,3.0
+11932,essendon,All properties,400.0,14.0,20.0,0.0,2.0,Pri/Sec,1.0
+11933,essendon,All properties,400.0,14.0,20.0,0.0,2.0,Primary,4.0
+11934,essendon,All properties,400.0,14.0,20.0,0.0,2.0,Secondary,3.0
+12145,fairfield,1 bedroom flats,285.0,6.0,12.0,0.0,1.0,Primary,1.0
+12146,alphington,1 bedroom flats,285.0,9.0,10.0,0.0,1.0,Pri/Sec,1.0
+12147,alphington,1 bedroom flats,285.0,9.0,10.0,0.0,1.0,Primary,2.0
+12148,fairfield,2 bedroom flats,430.0,6.0,12.0,0.0,1.0,Primary,1.0
+12149,alphington,2 bedroom flats,430.0,9.0,10.0,0.0,1.0,Pri/Sec,1.0
+12150,alphington,2 bedroom flats,430.0,9.0,10.0,0.0,1.0,Primary,2.0
+12151,fairfield,2 bedroom houses,545.0,6.0,12.0,0.0,1.0,Primary,1.0
+12152,alphington,2 bedroom houses,545.0,9.0,10.0,0.0,1.0,Pri/Sec,1.0
+12153,alphington,2 bedroom houses,545.0,9.0,10.0,0.0,1.0,Primary,2.0
+12154,fairfield,3 bedroom flats,610.0,6.0,12.0,0.0,1.0,Primary,1.0
+12155,alphington,3 bedroom flats,610.0,9.0,10.0,0.0,1.0,Pri/Sec,1.0
+12156,alphington,3 bedroom flats,610.0,9.0,10.0,0.0,1.0,Primary,2.0
+12157,fairfield,3 bedroom houses,690.0,6.0,12.0,0.0,1.0,Primary,1.0
+12158,alphington,3 bedroom houses,690.0,9.0,10.0,0.0,1.0,Pri/Sec,1.0
+12159,alphington,3 bedroom houses,690.0,9.0,10.0,0.0,1.0,Primary,2.0
+12160,fairfield,4 bedroom houses,870.0,6.0,12.0,0.0,1.0,Primary,1.0
+12161,alphington,4 bedroom houses,870.0,9.0,10.0,0.0,1.0,Pri/Sec,1.0
+12162,alphington,4 bedroom houses,870.0,9.0,10.0,0.0,1.0,Primary,2.0
+12163,fairfield,All properties,400.0,6.0,12.0,0.0,1.0,Primary,1.0
+12164,alphington,All properties,400.0,9.0,10.0,0.0,1.0,Pri/Sec,1.0
+12165,alphington,All properties,400.0,9.0,10.0,0.0,1.0,Primary,2.0
+12306,ferntree gully,1 bedroom flats,250.0,10.0,19.0,0.0,1.0,Primary,7.0
+12307,ferntree gully,1 bedroom flats,250.0,10.0,19.0,0.0,1.0,Secondary,2.0
+12308,ferntree gully,2 bedroom flats,380.0,10.0,19.0,0.0,1.0,Primary,7.0
+12309,ferntree gully,2 bedroom flats,380.0,10.0,19.0,0.0,1.0,Secondary,2.0
+12310,ferntree gully,2 bedroom houses,0.0,10.0,19.0,0.0,1.0,Primary,7.0
+12311,ferntree gully,2 bedroom houses,0.0,10.0,19.0,0.0,1.0,Secondary,2.0
+12312,ferntree gully,3 bedroom flats,450.0,10.0,19.0,0.0,1.0,Primary,7.0
+12313,ferntree gully,3 bedroom flats,450.0,10.0,19.0,0.0,1.0,Secondary,2.0
+12314,ferntree gully,3 bedroom houses,440.0,10.0,19.0,0.0,1.0,Primary,7.0
+12315,ferntree gully,3 bedroom houses,440.0,10.0,19.0,0.0,1.0,Secondary,2.0
+12316,ferntree gully,4 bedroom houses,500.0,10.0,19.0,0.0,1.0,Primary,7.0
+12317,ferntree gully,4 bedroom houses,500.0,10.0,19.0,0.0,1.0,Secondary,2.0
+12318,ferntree gully,All properties,435.0,10.0,19.0,0.0,1.0,Primary,7.0
+12319,ferntree gully,All properties,435.0,10.0,19.0,0.0,1.0,Secondary,2.0
+12460,fitzroy,1 bedroom flats,400.0,21.0,34.0,0.0,0.0,Primary,2.0
+12461,fitzroy,1 bedroom flats,400.0,21.0,34.0,0.0,0.0,Secondary,1.0
+12462,fitzroy,2 bedroom flats,575.0,21.0,34.0,0.0,0.0,Primary,2.0
+12463,fitzroy,2 bedroom flats,575.0,21.0,34.0,0.0,0.0,Secondary,1.0
+12464,fitzroy,2 bedroom houses,628.0,21.0,34.0,0.0,0.0,Primary,2.0
+12465,fitzroy,2 bedroom houses,628.0,21.0,34.0,0.0,0.0,Secondary,1.0
+12466,fitzroy,3 bedroom flats,850.0,21.0,34.0,0.0,0.0,Primary,2.0
+12467,fitzroy,3 bedroom flats,850.0,21.0,34.0,0.0,0.0,Secondary,1.0
+12468,fitzroy,3 bedroom houses,850.0,21.0,34.0,0.0,0.0,Primary,2.0
+12469,fitzroy,3 bedroom houses,850.0,21.0,34.0,0.0,0.0,Secondary,1.0
+12470,fitzroy,4 bedroom houses,1020.0,21.0,34.0,0.0,0.0,Primary,2.0
+12471,fitzroy,4 bedroom houses,1020.0,21.0,34.0,0.0,0.0,Secondary,1.0
+12472,fitzroy,All properties,540.0,21.0,34.0,0.0,0.0,Primary,2.0
+12473,fitzroy,All properties,540.0,21.0,34.0,0.0,0.0,Secondary,1.0
+12684,fitzroy north,1 bedroom flats,330.0,17.0,16.0,0.0,1.0,Primary,3.0
+12685,fitzroy north,1 bedroom flats,330.0,17.0,16.0,0.0,1.0,Secondary,1.0
+12686,clifton hill,1 bedroom flats,330.0,6.0,8.0,0.0,1.0,Primary,3.0
+12687,fitzroy north,2 bedroom flats,473.0,17.0,16.0,0.0,1.0,Primary,3.0
+12688,fitzroy north,2 bedroom flats,473.0,17.0,16.0,0.0,1.0,Secondary,1.0
+12689,clifton hill,2 bedroom flats,473.0,6.0,8.0,0.0,1.0,Primary,3.0
+12690,fitzroy north,2 bedroom houses,620.0,17.0,16.0,0.0,1.0,Primary,3.0
+12691,fitzroy north,2 bedroom houses,620.0,17.0,16.0,0.0,1.0,Secondary,1.0
+12692,clifton hill,2 bedroom houses,620.0,6.0,8.0,0.0,1.0,Primary,3.0
+12693,fitzroy north,3 bedroom flats,735.0,17.0,16.0,0.0,1.0,Primary,3.0
+12694,fitzroy north,3 bedroom flats,735.0,17.0,16.0,0.0,1.0,Secondary,1.0
+12695,clifton hill,3 bedroom flats,735.0,6.0,8.0,0.0,1.0,Primary,3.0
+12696,fitzroy north,3 bedroom houses,800.0,17.0,16.0,0.0,1.0,Primary,3.0
+12697,fitzroy north,3 bedroom houses,800.0,17.0,16.0,0.0,1.0,Secondary,1.0
+12698,clifton hill,3 bedroom houses,800.0,6.0,8.0,0.0,1.0,Primary,3.0
+12699,fitzroy north,4 bedroom houses,980.0,17.0,16.0,0.0,1.0,Primary,3.0
+12700,fitzroy north,4 bedroom houses,980.0,17.0,16.0,0.0,1.0,Secondary,1.0
+12701,clifton hill,4 bedroom houses,980.0,6.0,8.0,0.0,1.0,Primary,3.0
+12702,fitzroy north,All properties,550.0,17.0,16.0,0.0,1.0,Primary,3.0
+12703,fitzroy north,All properties,550.0,17.0,16.0,0.0,1.0,Secondary,1.0
+12704,clifton hill,All properties,550.0,6.0,8.0,0.0,1.0,Primary,3.0
+12985,flemington,1 bedroom flats,320.0,7.0,11.0,0.0,1.0,Primary,3.0
+12986,flemington,1 bedroom flats,320.0,7.0,11.0,0.0,1.0,Secondary,1.0
+12987,kensington,1 bedroom flats,320.0,9.0,15.0,0.0,2.0,Primary,2.0
+12988,kensington,1 bedroom flats,320.0,9.0,15.0,0.0,2.0,Secondary,1.0
+12989,flemington,2 bedroom flats,375.0,7.0,11.0,0.0,1.0,Primary,3.0
+12990,flemington,2 bedroom flats,375.0,7.0,11.0,0.0,1.0,Secondary,1.0
+12991,kensington,2 bedroom flats,375.0,9.0,15.0,0.0,2.0,Primary,2.0
+12992,kensington,2 bedroom flats,375.0,9.0,15.0,0.0,2.0,Secondary,1.0
+12993,flemington,2 bedroom houses,520.0,7.0,11.0,0.0,1.0,Primary,3.0
+12994,flemington,2 bedroom houses,520.0,7.0,11.0,0.0,1.0,Secondary,1.0
+12995,kensington,2 bedroom houses,520.0,9.0,15.0,0.0,2.0,Primary,2.0
+12996,kensington,2 bedroom houses,520.0,9.0,15.0,0.0,2.0,Secondary,1.0
+12997,flemington,3 bedroom flats,548.0,7.0,11.0,0.0,1.0,Primary,3.0
+12998,flemington,3 bedroom flats,548.0,7.0,11.0,0.0,1.0,Secondary,1.0
+12999,kensington,3 bedroom flats,548.0,9.0,15.0,0.0,2.0,Primary,2.0
+13000,kensington,3 bedroom flats,548.0,9.0,15.0,0.0,2.0,Secondary,1.0
+13001,flemington,3 bedroom houses,620.0,7.0,11.0,0.0,1.0,Primary,3.0
+13002,flemington,3 bedroom houses,620.0,7.0,11.0,0.0,1.0,Secondary,1.0
+13003,kensington,3 bedroom houses,620.0,9.0,15.0,0.0,2.0,Primary,2.0
+13004,kensington,3 bedroom houses,620.0,9.0,15.0,0.0,2.0,Secondary,1.0
+13005,flemington,4 bedroom houses,840.0,7.0,11.0,0.0,1.0,Primary,3.0
+13006,flemington,4 bedroom houses,840.0,7.0,11.0,0.0,1.0,Secondary,1.0
+13007,kensington,4 bedroom houses,840.0,9.0,15.0,0.0,2.0,Primary,2.0
+13008,kensington,4 bedroom houses,840.0,9.0,15.0,0.0,2.0,Secondary,1.0
+13009,flemington,All properties,400.0,7.0,11.0,0.0,1.0,Primary,3.0
+13010,flemington,All properties,400.0,7.0,11.0,0.0,1.0,Secondary,1.0
+13011,kensington,All properties,400.0,9.0,15.0,0.0,2.0,Primary,2.0
+13012,kensington,All properties,400.0,9.0,15.0,0.0,2.0,Secondary,1.0
+13153,flora hill,1 bedroom flats,220.0,0.0,2.0,27.0,0.0,0,0.0
+13154,bendigo east,1 bedroom flats,220.0,0.0,0.0,0.0,0.0,0,0.0
+13155,flora hill,2 bedroom flats,305.0,0.0,2.0,27.0,0.0,0,0.0
+13156,bendigo east,2 bedroom flats,305.0,0.0,0.0,0.0,0.0,0,0.0
+13157,flora hill,2 bedroom houses,340.0,0.0,2.0,27.0,0.0,0,0.0
+13158,bendigo east,2 bedroom houses,340.0,0.0,0.0,0.0,0.0,0,0.0
+13159,flora hill,3 bedroom flats,380.0,0.0,2.0,27.0,0.0,0,0.0
+13160,bendigo east,3 bedroom flats,380.0,0.0,0.0,0.0,0.0,0,0.0
+13161,flora hill,3 bedroom houses,400.0,0.0,2.0,27.0,0.0,0,0.0
+13162,bendigo east,3 bedroom houses,400.0,0.0,0.0,0.0,0.0,0,0.0
+13163,flora hill,4 bedroom houses,460.0,0.0,2.0,27.0,0.0,0,0.0
+13164,bendigo east,4 bedroom houses,460.0,0.0,0.0,0.0,0.0,0,0.0
+13165,flora hill,All properties,375.0,0.0,2.0,27.0,0.0,0,0.0
+13166,bendigo east,All properties,375.0,0.0,0.0,0.0,0.0,0,0.0
+13307,footscray,1 bedroom flats,300.0,28.0,47.0,0.0,2.0,Primary,5.0
+13308,footscray,1 bedroom flats,300.0,28.0,47.0,0.0,2.0,Secondary,1.0
+13309,footscray,2 bedroom flats,390.0,28.0,47.0,0.0,2.0,Primary,5.0
+13310,footscray,2 bedroom flats,390.0,28.0,47.0,0.0,2.0,Secondary,1.0
+13311,footscray,2 bedroom houses,450.0,28.0,47.0,0.0,2.0,Primary,5.0
+13312,footscray,2 bedroom houses,450.0,28.0,47.0,0.0,2.0,Secondary,1.0
+13313,footscray,3 bedroom flats,500.0,28.0,47.0,0.0,2.0,Primary,5.0
+13314,footscray,3 bedroom flats,500.0,28.0,47.0,0.0,2.0,Secondary,1.0
+13315,footscray,3 bedroom houses,500.0,28.0,47.0,0.0,2.0,Primary,5.0
+13316,footscray,3 bedroom houses,500.0,28.0,47.0,0.0,2.0,Secondary,1.0
+13317,footscray,4 bedroom houses,580.0,28.0,47.0,0.0,2.0,Primary,5.0
+13318,footscray,4 bedroom houses,580.0,28.0,47.0,0.0,2.0,Secondary,1.0
+13319,footscray,All properties,370.0,28.0,47.0,0.0,2.0,Primary,5.0
+13320,footscray,All properties,370.0,28.0,47.0,0.0,2.0,Secondary,1.0
+13461,frankston,1 bedroom flats,260.0,23.0,33.0,0.0,2.0,Primary,9.0
+13462,frankston,1 bedroom flats,260.0,23.0,33.0,0.0,2.0,Secondary,3.0
+13463,frankston,2 bedroom flats,360.0,23.0,33.0,0.0,2.0,Primary,9.0
+13464,frankston,2 bedroom flats,360.0,23.0,33.0,0.0,2.0,Secondary,3.0
+13465,frankston,2 bedroom houses,375.0,23.0,33.0,0.0,2.0,Primary,9.0
+13466,frankston,2 bedroom houses,375.0,23.0,33.0,0.0,2.0,Secondary,3.0
+13467,frankston,3 bedroom flats,450.0,23.0,33.0,0.0,2.0,Primary,9.0
+13468,frankston,3 bedroom flats,450.0,23.0,33.0,0.0,2.0,Secondary,3.0
+13469,frankston,3 bedroom houses,450.0,23.0,33.0,0.0,2.0,Primary,9.0
+13470,frankston,3 bedroom houses,450.0,23.0,33.0,0.0,2.0,Secondary,3.0
+13471,frankston,4 bedroom houses,540.0,23.0,33.0,0.0,2.0,Primary,9.0
+13472,frankston,4 bedroom houses,540.0,23.0,33.0,0.0,2.0,Secondary,3.0
+13473,frankston,All properties,420.0,23.0,33.0,0.0,2.0,Primary,9.0
+13474,frankston,All properties,420.0,23.0,33.0,0.0,2.0,Secondary,3.0
+13685,geelong,1 bedroom flats,315.0,26.0,48.0,47.0,0.0,Primary,2.0
+13686,geelong,1 bedroom flats,315.0,26.0,48.0,47.0,0.0,Secondary,1.0
+13687,newcombe,1 bedroom flats,315.0,0.0,0.0,0.0,0.0,0,0.0
+13688,geelong,2 bedroom flats,390.0,26.0,48.0,47.0,0.0,Primary,2.0
+13689,geelong,2 bedroom flats,390.0,26.0,48.0,47.0,0.0,Secondary,1.0
+13690,newcombe,2 bedroom flats,390.0,0.0,0.0,0.0,0.0,0,0.0
+13691,geelong,2 bedroom houses,395.0,26.0,48.0,47.0,0.0,Primary,2.0
+13692,geelong,2 bedroom houses,395.0,26.0,48.0,47.0,0.0,Secondary,1.0
+13693,newcombe,2 bedroom houses,395.0,0.0,0.0,0.0,0.0,0,0.0
+13694,geelong,3 bedroom flats,440.0,26.0,48.0,47.0,0.0,Primary,2.0
+13695,geelong,3 bedroom flats,440.0,26.0,48.0,47.0,0.0,Secondary,1.0
+13696,newcombe,3 bedroom flats,440.0,0.0,0.0,0.0,0.0,0,0.0
+13697,geelong,3 bedroom houses,410.0,26.0,48.0,47.0,0.0,Primary,2.0
+13698,geelong,3 bedroom houses,410.0,26.0,48.0,47.0,0.0,Secondary,1.0
+13699,newcombe,3 bedroom houses,410.0,0.0,0.0,0.0,0.0,0,0.0
+13700,geelong,4 bedroom houses,540.0,26.0,48.0,47.0,0.0,Primary,2.0
+13701,geelong,4 bedroom houses,540.0,26.0,48.0,47.0,0.0,Secondary,1.0
+13702,newcombe,4 bedroom houses,540.0,0.0,0.0,0.0,0.0,0,0.0
+13703,geelong,All properties,400.0,26.0,48.0,47.0,0.0,Primary,2.0
+13704,geelong,All properties,400.0,26.0,48.0,47.0,0.0,Secondary,1.0
+13705,newcombe,All properties,400.0,0.0,0.0,0.0,0.0,0,0.0
+13916,gladstone park,1 bedroom flats,285.0,2.0,3.0,0.0,0.0,Primary,3.0
+13917,gladstone park,1 bedroom flats,285.0,2.0,3.0,0.0,0.0,Secondary,1.0
+13918,tullamarine,1 bedroom flats,285.0,5.0,9.0,0.0,0.0,Primary,1.0
+13919,gladstone park,2 bedroom flats,345.0,2.0,3.0,0.0,0.0,Primary,3.0
+13920,gladstone park,2 bedroom flats,345.0,2.0,3.0,0.0,0.0,Secondary,1.0
+13921,tullamarine,2 bedroom flats,345.0,5.0,9.0,0.0,0.0,Primary,1.0
+13922,gladstone park,2 bedroom houses,385.0,2.0,3.0,0.0,0.0,Primary,3.0
+13923,gladstone park,2 bedroom houses,385.0,2.0,3.0,0.0,0.0,Secondary,1.0
+13924,tullamarine,2 bedroom houses,385.0,5.0,9.0,0.0,0.0,Primary,1.0
+13925,gladstone park,3 bedroom flats,415.0,2.0,3.0,0.0,0.0,Primary,3.0
+13926,gladstone park,3 bedroom flats,415.0,2.0,3.0,0.0,0.0,Secondary,1.0
+13927,tullamarine,3 bedroom flats,415.0,5.0,9.0,0.0,0.0,Primary,1.0
+13928,gladstone park,3 bedroom houses,410.0,2.0,3.0,0.0,0.0,Primary,3.0
+13929,gladstone park,3 bedroom houses,410.0,2.0,3.0,0.0,0.0,Secondary,1.0
+13930,tullamarine,3 bedroom houses,410.0,5.0,9.0,0.0,0.0,Primary,1.0
+13931,gladstone park,4 bedroom houses,470.0,2.0,3.0,0.0,0.0,Primary,3.0
+13932,gladstone park,4 bedroom houses,470.0,2.0,3.0,0.0,0.0,Secondary,1.0
+13933,tullamarine,4 bedroom houses,470.0,5.0,9.0,0.0,0.0,Primary,1.0
+13934,gladstone park,All properties,400.0,2.0,3.0,0.0,0.0,Primary,3.0
+13935,gladstone park,All properties,400.0,2.0,3.0,0.0,0.0,Secondary,1.0
+13936,tullamarine,All properties,400.0,5.0,9.0,0.0,0.0,Primary,1.0
+14217,glen waverley,1 bedroom flats,360.0,19.0,42.0,0.0,2.0,Primary,8.0
+14218,glen waverley,1 bedroom flats,360.0,19.0,42.0,0.0,2.0,Secondary,3.0
+14219,mulgrave,1 bedroom flats,360.0,10.0,15.0,0.0,0.0,Primary,3.0
+14220,mulgrave,1 bedroom flats,360.0,10.0,15.0,0.0,0.0,Secondary,2.0
+14221,glen waverley,2 bedroom flats,430.0,19.0,42.0,0.0,2.0,Primary,8.0
+14222,glen waverley,2 bedroom flats,430.0,19.0,42.0,0.0,2.0,Secondary,3.0
+14223,mulgrave,2 bedroom flats,430.0,10.0,15.0,0.0,0.0,Primary,3.0
+14224,mulgrave,2 bedroom flats,430.0,10.0,15.0,0.0,0.0,Secondary,2.0
+14225,glen waverley,2 bedroom houses,420.0,19.0,42.0,0.0,2.0,Primary,8.0
+14226,glen waverley,2 bedroom houses,420.0,19.0,42.0,0.0,2.0,Secondary,3.0
+14227,mulgrave,2 bedroom houses,420.0,10.0,15.0,0.0,0.0,Primary,3.0
+14228,mulgrave,2 bedroom houses,420.0,10.0,15.0,0.0,0.0,Secondary,2.0
+14229,glen waverley,3 bedroom flats,500.0,19.0,42.0,0.0,2.0,Primary,8.0
+14230,glen waverley,3 bedroom flats,500.0,19.0,42.0,0.0,2.0,Secondary,3.0
+14231,mulgrave,3 bedroom flats,500.0,10.0,15.0,0.0,0.0,Primary,3.0
+14232,mulgrave,3 bedroom flats,500.0,10.0,15.0,0.0,0.0,Secondary,2.0
+14233,glen waverley,3 bedroom houses,470.0,19.0,42.0,0.0,2.0,Primary,8.0
+14234,glen waverley,3 bedroom houses,470.0,19.0,42.0,0.0,2.0,Secondary,3.0
+14235,mulgrave,3 bedroom houses,470.0,10.0,15.0,0.0,0.0,Primary,3.0
+14236,mulgrave,3 bedroom houses,470.0,10.0,15.0,0.0,0.0,Secondary,2.0
+14237,glen waverley,4 bedroom houses,570.0,19.0,42.0,0.0,2.0,Primary,8.0
+14238,glen waverley,4 bedroom houses,570.0,19.0,42.0,0.0,2.0,Secondary,3.0
+14239,mulgrave,4 bedroom houses,570.0,10.0,15.0,0.0,0.0,Primary,3.0
+14240,mulgrave,4 bedroom houses,570.0,10.0,15.0,0.0,0.0,Secondary,2.0
+14241,glen waverley,All properties,500.0,19.0,42.0,0.0,2.0,Primary,8.0
+14242,glen waverley,All properties,500.0,19.0,42.0,0.0,2.0,Secondary,3.0
+14243,mulgrave,All properties,500.0,10.0,15.0,0.0,0.0,Primary,3.0
+14244,mulgrave,All properties,500.0,10.0,15.0,0.0,0.0,Secondary,2.0
+14455,golden square,1 bedroom flats,260.0,5.0,6.0,67.0,0.0,Primary,2.0
+14456,kangaroo flat,1 bedroom flats,260.0,3.0,6.0,62.0,0.0,Primary,2.0
+14457,kangaroo flat,1 bedroom flats,260.0,3.0,6.0,62.0,0.0,Secondary,1.0
+14458,golden square,2 bedroom flats,310.0,5.0,6.0,67.0,0.0,Primary,2.0
+14459,kangaroo flat,2 bedroom flats,310.0,3.0,6.0,62.0,0.0,Primary,2.0
+14460,kangaroo flat,2 bedroom flats,310.0,3.0,6.0,62.0,0.0,Secondary,1.0
+14461,golden square,2 bedroom houses,350.0,5.0,6.0,67.0,0.0,Primary,2.0
+14462,kangaroo flat,2 bedroom houses,350.0,3.0,6.0,62.0,0.0,Primary,2.0
+14463,kangaroo flat,2 bedroom houses,350.0,3.0,6.0,62.0,0.0,Secondary,1.0
+14464,golden square,3 bedroom flats,380.0,5.0,6.0,67.0,0.0,Primary,2.0
+14465,kangaroo flat,3 bedroom flats,380.0,3.0,6.0,62.0,0.0,Primary,2.0
+14466,kangaroo flat,3 bedroom flats,380.0,3.0,6.0,62.0,0.0,Secondary,1.0
+14467,golden square,3 bedroom houses,390.0,5.0,6.0,67.0,0.0,Primary,2.0
+14468,kangaroo flat,3 bedroom houses,390.0,3.0,6.0,62.0,0.0,Primary,2.0
+14469,kangaroo flat,3 bedroom houses,390.0,3.0,6.0,62.0,0.0,Secondary,1.0
+14470,golden square,4 bedroom houses,470.0,5.0,6.0,67.0,0.0,Primary,2.0
+14471,kangaroo flat,4 bedroom houses,470.0,3.0,6.0,62.0,0.0,Primary,2.0
+14472,kangaroo flat,4 bedroom houses,470.0,3.0,6.0,62.0,0.0,Secondary,1.0
+14473,golden square,All properties,380.0,5.0,6.0,67.0,0.0,Primary,2.0
+14474,kangaroo flat,All properties,380.0,3.0,6.0,62.0,0.0,Primary,2.0
+14475,kangaroo flat,All properties,380.0,3.0,6.0,62.0,0.0,Secondary,1.0
+14546,group total,1 bedroom flats,295.0,0.0,0.0,0.0,0.0,0,0.0
+14547,group total,2 bedroom flats,370.0,0.0,0.0,0.0,0.0,0,0.0
+14548,group total,2 bedroom houses,390.0,0.0,0.0,0.0,0.0,0,0.0
+14549,group total,3 bedroom flats,450.0,0.0,0.0,0.0,0.0,0,0.0
+14550,group total,3 bedroom houses,420.0,0.0,0.0,0.0,0.0,0,0.0
+14551,group total,4 bedroom houses,470.0,0.0,0.0,0.0,0.0,0,0.0
+14552,group total,All properties,400.0,0.0,0.0,0.0,0.0,0,0.0
+14763,hamilton,1 bedroom flats,210.0,20.0,26.0,69.0,0.0,Pri/Sec,2.0
+14764,hamilton,1 bedroom flats,210.0,20.0,26.0,69.0,0.0,Primary,4.0
+14765,hamilton,1 bedroom flats,210.0,20.0,26.0,69.0,0.0,Secondary,2.0
+14766,hamilton,2 bedroom flats,270.0,20.0,26.0,69.0,0.0,Pri/Sec,2.0
+14767,hamilton,2 bedroom flats,270.0,20.0,26.0,69.0,0.0,Primary,4.0
+14768,hamilton,2 bedroom flats,270.0,20.0,26.0,69.0,0.0,Secondary,2.0
+14769,hamilton,2 bedroom houses,280.0,20.0,26.0,69.0,0.0,Pri/Sec,2.0
+14770,hamilton,2 bedroom houses,280.0,20.0,26.0,69.0,0.0,Primary,4.0
+14771,hamilton,2 bedroom houses,280.0,20.0,26.0,69.0,0.0,Secondary,2.0
+14772,hamilton,3 bedroom flats,0.0,20.0,26.0,69.0,0.0,Pri/Sec,2.0
+14773,hamilton,3 bedroom flats,0.0,20.0,26.0,69.0,0.0,Primary,4.0
+14774,hamilton,3 bedroom flats,0.0,20.0,26.0,69.0,0.0,Secondary,2.0
+14775,hamilton,3 bedroom houses,350.0,20.0,26.0,69.0,0.0,Pri/Sec,2.0
+14776,hamilton,3 bedroom houses,350.0,20.0,26.0,69.0,0.0,Primary,4.0
+14777,hamilton,3 bedroom houses,350.0,20.0,26.0,69.0,0.0,Secondary,2.0
+14778,hamilton,4 bedroom houses,400.0,20.0,26.0,69.0,0.0,Pri/Sec,2.0
+14779,hamilton,4 bedroom houses,400.0,20.0,26.0,69.0,0.0,Primary,4.0
+14780,hamilton,4 bedroom houses,400.0,20.0,26.0,69.0,0.0,Secondary,2.0
+14781,hamilton,All properties,320.0,20.0,26.0,69.0,0.0,Pri/Sec,2.0
+14782,hamilton,All properties,320.0,20.0,26.0,69.0,0.0,Primary,4.0
+14783,hamilton,All properties,320.0,20.0,26.0,69.0,0.0,Secondary,2.0
+14994,hampton,1 bedroom flats,350.0,11.0,16.0,0.0,1.0,Primary,2.0
+14995,beaumaris,1 bedroom flats,350.0,8.0,12.0,0.0,0.0,Primary,3.0
+14996,beaumaris,1 bedroom flats,350.0,8.0,12.0,0.0,0.0,Secondary,1.0
+14997,hampton,2 bedroom flats,500.0,11.0,16.0,0.0,1.0,Primary,2.0
+14998,beaumaris,2 bedroom flats,500.0,8.0,12.0,0.0,0.0,Primary,3.0
+14999,beaumaris,2 bedroom flats,500.0,8.0,12.0,0.0,0.0,Secondary,1.0
+15000,hampton,2 bedroom houses,543.0,11.0,16.0,0.0,1.0,Primary,2.0
+15001,beaumaris,2 bedroom houses,543.0,8.0,12.0,0.0,0.0,Primary,3.0
+15002,beaumaris,2 bedroom houses,543.0,8.0,12.0,0.0,0.0,Secondary,1.0
+15003,hampton,3 bedroom flats,695.0,11.0,16.0,0.0,1.0,Primary,2.0
+15004,beaumaris,3 bedroom flats,695.0,8.0,12.0,0.0,0.0,Primary,3.0
+15005,beaumaris,3 bedroom flats,695.0,8.0,12.0,0.0,0.0,Secondary,1.0
+15006,hampton,3 bedroom houses,780.0,11.0,16.0,0.0,1.0,Primary,2.0
+15007,beaumaris,3 bedroom houses,780.0,8.0,12.0,0.0,0.0,Primary,3.0
+15008,beaumaris,3 bedroom houses,780.0,8.0,12.0,0.0,0.0,Secondary,1.0
+15009,hampton,4 bedroom houses,1100.0,11.0,16.0,0.0,1.0,Primary,2.0
+15010,beaumaris,4 bedroom houses,1100.0,8.0,12.0,0.0,0.0,Primary,3.0
+15011,beaumaris,4 bedroom houses,1100.0,8.0,12.0,0.0,0.0,Secondary,1.0
+15012,hampton,All properties,600.0,11.0,16.0,0.0,1.0,Primary,2.0
+15013,beaumaris,All properties,600.0,8.0,12.0,0.0,0.0,Primary,3.0
+15014,beaumaris,All properties,600.0,8.0,12.0,0.0,0.0,Secondary,1.0
+15225,hastings,1 bedroom flats,0.0,7.0,11.0,0.0,1.0,Primary,3.0
+15226,hastings,1 bedroom flats,0.0,7.0,11.0,0.0,1.0,Secondary,1.0
+15227,flinders,1 bedroom flats,0.0,0.0,1.0,0.0,0.0,0,0.0
+15228,hastings,2 bedroom flats,375.0,7.0,11.0,0.0,1.0,Primary,3.0
+15229,hastings,2 bedroom flats,375.0,7.0,11.0,0.0,1.0,Secondary,1.0
+15230,flinders,2 bedroom flats,375.0,0.0,1.0,0.0,0.0,0,0.0
+15231,hastings,2 bedroom houses,400.0,7.0,11.0,0.0,1.0,Primary,3.0
+15232,hastings,2 bedroom houses,400.0,7.0,11.0,0.0,1.0,Secondary,1.0
+15233,flinders,2 bedroom houses,400.0,0.0,1.0,0.0,0.0,0,0.0
+15234,hastings,3 bedroom flats,460.0,7.0,11.0,0.0,1.0,Primary,3.0
+15235,hastings,3 bedroom flats,460.0,7.0,11.0,0.0,1.0,Secondary,1.0
+15236,flinders,3 bedroom flats,460.0,0.0,1.0,0.0,0.0,0,0.0
+15237,hastings,3 bedroom houses,500.0,7.0,11.0,0.0,1.0,Primary,3.0
+15238,hastings,3 bedroom houses,500.0,7.0,11.0,0.0,1.0,Secondary,1.0
+15239,flinders,3 bedroom houses,500.0,0.0,1.0,0.0,0.0,0,0.0
+15240,hastings,4 bedroom houses,600.0,7.0,11.0,0.0,1.0,Primary,3.0
+15241,hastings,4 bedroom houses,600.0,7.0,11.0,0.0,1.0,Secondary,1.0
+15242,flinders,4 bedroom houses,600.0,0.0,1.0,0.0,0.0,0,0.0
+15243,hastings,All properties,480.0,7.0,11.0,0.0,1.0,Primary,3.0
+15244,hastings,All properties,480.0,7.0,11.0,0.0,1.0,Secondary,1.0
+15245,flinders,All properties,480.0,0.0,1.0,0.0,0.0,0,0.0
+15456,hawthorn,1 bedroom flats,289.0,35.0,52.0,0.0,2.0,Pri/Sec,1.0
+15457,hawthorn,1 bedroom flats,289.0,35.0,52.0,0.0,2.0,Primary,4.0
+15458,hawthorn,1 bedroom flats,289.0,35.0,52.0,0.0,2.0,Secondary,1.0
+15459,hawthorn,2 bedroom flats,408.0,35.0,52.0,0.0,2.0,Pri/Sec,1.0
+15460,hawthorn,2 bedroom flats,408.0,35.0,52.0,0.0,2.0,Primary,4.0
+15461,hawthorn,2 bedroom flats,408.0,35.0,52.0,0.0,2.0,Secondary,1.0
+15462,hawthorn,2 bedroom houses,585.0,35.0,52.0,0.0,2.0,Pri/Sec,1.0
+15463,hawthorn,2 bedroom houses,585.0,35.0,52.0,0.0,2.0,Primary,4.0
+15464,hawthorn,2 bedroom houses,585.0,35.0,52.0,0.0,2.0,Secondary,1.0
+15465,hawthorn,3 bedroom flats,680.0,35.0,52.0,0.0,2.0,Pri/Sec,1.0
+15466,hawthorn,3 bedroom flats,680.0,35.0,52.0,0.0,2.0,Primary,4.0
+15467,hawthorn,3 bedroom flats,680.0,35.0,52.0,0.0,2.0,Secondary,1.0
+15468,hawthorn,3 bedroom houses,800.0,35.0,52.0,0.0,2.0,Pri/Sec,1.0
+15469,hawthorn,3 bedroom houses,800.0,35.0,52.0,0.0,2.0,Primary,4.0
+15470,hawthorn,3 bedroom houses,800.0,35.0,52.0,0.0,2.0,Secondary,1.0
+15471,hawthorn,4 bedroom houses,1100.0,35.0,52.0,0.0,2.0,Pri/Sec,1.0
+15472,hawthorn,4 bedroom houses,1100.0,35.0,52.0,0.0,2.0,Primary,4.0
+15473,hawthorn,4 bedroom houses,1100.0,35.0,52.0,0.0,2.0,Secondary,1.0
+15474,hawthorn,All properties,355.0,35.0,52.0,0.0,2.0,Pri/Sec,1.0
+15475,hawthorn,All properties,355.0,35.0,52.0,0.0,2.0,Primary,4.0
+15476,hawthorn,All properties,355.0,35.0,52.0,0.0,2.0,Secondary,1.0
+15687,heidelberg,1 bedroom flats,340.0,4.0,9.0,0.0,1.0,Primary,2.0
+15688,heidelberg,1 bedroom flats,340.0,4.0,9.0,0.0,1.0,Secondary,1.0
+15689,heidelberg west,1 bedroom flats,340.0,6.0,9.0,0.0,0.0,Primary,1.0
+15690,heidelberg,2 bedroom flats,400.0,4.0,9.0,0.0,1.0,Primary,2.0
+15691,heidelberg,2 bedroom flats,400.0,4.0,9.0,0.0,1.0,Secondary,1.0
+15692,heidelberg west,2 bedroom flats,400.0,6.0,9.0,0.0,0.0,Primary,1.0
+15693,heidelberg,2 bedroom houses,390.0,4.0,9.0,0.0,1.0,Primary,2.0
+15694,heidelberg,2 bedroom houses,390.0,4.0,9.0,0.0,1.0,Secondary,1.0
+15695,heidelberg west,2 bedroom houses,390.0,6.0,9.0,0.0,0.0,Primary,1.0
+15696,heidelberg,3 bedroom flats,500.0,4.0,9.0,0.0,1.0,Primary,2.0
+15697,heidelberg,3 bedroom flats,500.0,4.0,9.0,0.0,1.0,Secondary,1.0
+15698,heidelberg west,3 bedroom flats,500.0,6.0,9.0,0.0,0.0,Primary,1.0
+15699,heidelberg,3 bedroom houses,460.0,4.0,9.0,0.0,1.0,Primary,2.0
+15700,heidelberg,3 bedroom houses,460.0,4.0,9.0,0.0,1.0,Secondary,1.0
+15701,heidelberg west,3 bedroom houses,460.0,6.0,9.0,0.0,0.0,Primary,1.0
+15702,heidelberg,4 bedroom houses,620.0,4.0,9.0,0.0,1.0,Primary,2.0
+15703,heidelberg,4 bedroom houses,620.0,4.0,9.0,0.0,1.0,Secondary,1.0
+15704,heidelberg west,4 bedroom houses,620.0,6.0,9.0,0.0,0.0,Primary,1.0
+15705,heidelberg,All properties,425.0,4.0,9.0,0.0,1.0,Primary,2.0
+15706,heidelberg,All properties,425.0,4.0,9.0,0.0,1.0,Secondary,1.0
+15707,heidelberg west,All properties,425.0,6.0,9.0,0.0,0.0,Primary,1.0
+15848,herne hill,1 bedroom flats,260.0,1.0,2.0,16.0,0.0,Secondary,1.0
+15849,geelong west,1 bedroom flats,260.0,9.0,17.0,33.0,0.0,Primary,2.0
+15850,herne hill,2 bedroom flats,360.0,1.0,2.0,16.0,0.0,Secondary,1.0
+15851,geelong west,2 bedroom flats,360.0,9.0,17.0,33.0,0.0,Primary,2.0
+15852,herne hill,2 bedroom houses,398.0,1.0,2.0,16.0,0.0,Secondary,1.0
+15853,geelong west,2 bedroom houses,398.0,9.0,17.0,33.0,0.0,Primary,2.0
+15854,herne hill,3 bedroom flats,470.0,1.0,2.0,16.0,0.0,Secondary,1.0
+15855,geelong west,3 bedroom flats,470.0,9.0,17.0,33.0,0.0,Primary,2.0
+15856,herne hill,3 bedroom houses,470.0,1.0,2.0,16.0,0.0,Secondary,1.0
+15857,geelong west,3 bedroom houses,470.0,9.0,17.0,33.0,0.0,Primary,2.0
+15858,herne hill,4 bedroom houses,570.0,1.0,2.0,16.0,0.0,Secondary,1.0
+15859,geelong west,4 bedroom houses,570.0,9.0,17.0,33.0,0.0,Primary,2.0
+15860,herne hill,All properties,400.0,1.0,2.0,16.0,0.0,Secondary,1.0
+15861,geelong west,All properties,400.0,9.0,17.0,33.0,0.0,Primary,2.0
+16072,horsham,1 bedroom flats,275.0,16.0,25.0,122.0,0.0,Pri/Sec,1.0
+16073,horsham,1 bedroom flats,275.0,16.0,25.0,122.0,0.0,Primary,3.0
+16074,horsham,1 bedroom flats,275.0,16.0,25.0,122.0,0.0,Secondary,2.0
+16075,horsham,2 bedroom flats,280.0,16.0,25.0,122.0,0.0,Pri/Sec,1.0
+16076,horsham,2 bedroom flats,280.0,16.0,25.0,122.0,0.0,Primary,3.0
+16077,horsham,2 bedroom flats,280.0,16.0,25.0,122.0,0.0,Secondary,2.0
+16078,horsham,2 bedroom houses,288.0,16.0,25.0,122.0,0.0,Pri/Sec,1.0
+16079,horsham,2 bedroom houses,288.0,16.0,25.0,122.0,0.0,Primary,3.0
+16080,horsham,2 bedroom houses,288.0,16.0,25.0,122.0,0.0,Secondary,2.0
+16081,horsham,3 bedroom flats,360.0,16.0,25.0,122.0,0.0,Pri/Sec,1.0
+16082,horsham,3 bedroom flats,360.0,16.0,25.0,122.0,0.0,Primary,3.0
+16083,horsham,3 bedroom flats,360.0,16.0,25.0,122.0,0.0,Secondary,2.0
+16084,horsham,3 bedroom houses,350.0,16.0,25.0,122.0,0.0,Pri/Sec,1.0
+16085,horsham,3 bedroom houses,350.0,16.0,25.0,122.0,0.0,Primary,3.0
+16086,horsham,3 bedroom houses,350.0,16.0,25.0,122.0,0.0,Secondary,2.0
+16087,horsham,4 bedroom houses,430.0,16.0,25.0,122.0,0.0,Pri/Sec,1.0
+16088,horsham,4 bedroom houses,430.0,16.0,25.0,122.0,0.0,Primary,3.0
+16089,horsham,4 bedroom houses,430.0,16.0,25.0,122.0,0.0,Secondary,2.0
+16090,horsham,All properties,330.0,16.0,25.0,122.0,0.0,Pri/Sec,1.0
+16091,horsham,All properties,330.0,16.0,25.0,122.0,0.0,Primary,3.0
+16092,horsham,All properties,330.0,16.0,25.0,122.0,0.0,Secondary,2.0
+16303,ivanhoe,1 bedroom flats,350.0,5.0,10.0,0.0,2.0,Pri/Sec,2.0
+16304,ivanhoe,1 bedroom flats,350.0,5.0,10.0,0.0,2.0,Primary,2.0
+16305,ivanhoe east,1 bedroom flats,350.0,2.0,2.0,0.0,0.0,Primary,1.0
+16306,ivanhoe,2 bedroom flats,420.0,5.0,10.0,0.0,2.0,Pri/Sec,2.0
+16307,ivanhoe,2 bedroom flats,420.0,5.0,10.0,0.0,2.0,Primary,2.0
+16308,ivanhoe east,2 bedroom flats,420.0,2.0,2.0,0.0,0.0,Primary,1.0
+16309,ivanhoe,2 bedroom houses,510.0,5.0,10.0,0.0,2.0,Pri/Sec,2.0
+16310,ivanhoe,2 bedroom houses,510.0,5.0,10.0,0.0,2.0,Primary,2.0
+16311,ivanhoe east,2 bedroom houses,510.0,2.0,2.0,0.0,0.0,Primary,1.0
+16312,ivanhoe,3 bedroom flats,590.0,5.0,10.0,0.0,2.0,Pri/Sec,2.0
+16313,ivanhoe,3 bedroom flats,590.0,5.0,10.0,0.0,2.0,Primary,2.0
+16314,ivanhoe east,3 bedroom flats,590.0,2.0,2.0,0.0,0.0,Primary,1.0
+16315,ivanhoe,3 bedroom houses,595.0,5.0,10.0,0.0,2.0,Pri/Sec,2.0
+16316,ivanhoe,3 bedroom houses,595.0,5.0,10.0,0.0,2.0,Primary,2.0
+16317,ivanhoe east,3 bedroom houses,595.0,2.0,2.0,0.0,0.0,Primary,1.0
+16318,ivanhoe,4 bedroom houses,785.0,5.0,10.0,0.0,2.0,Pri/Sec,2.0
+16319,ivanhoe,4 bedroom houses,785.0,5.0,10.0,0.0,2.0,Primary,2.0
+16320,ivanhoe east,4 bedroom houses,785.0,2.0,2.0,0.0,0.0,Primary,1.0
+16321,ivanhoe,All properties,430.0,5.0,10.0,0.0,2.0,Pri/Sec,2.0
+16322,ivanhoe,All properties,430.0,5.0,10.0,0.0,2.0,Primary,2.0
+16323,ivanhoe east,All properties,430.0,2.0,2.0,0.0,0.0,Primary,1.0
+16464,keilor,1 bedroom flats,0.0,1.0,2.0,0.0,0.0,Pri/Sec,1.0
+16465,keilor,1 bedroom flats,0.0,1.0,2.0,0.0,0.0,Primary,2.0
+16466,keilor,2 bedroom flats,0.0,1.0,2.0,0.0,0.0,Pri/Sec,1.0
+16467,keilor,2 bedroom flats,0.0,1.0,2.0,0.0,0.0,Primary,2.0
+16468,keilor,2 bedroom houses,0.0,1.0,2.0,0.0,0.0,Pri/Sec,1.0
+16469,keilor,2 bedroom houses,0.0,1.0,2.0,0.0,0.0,Primary,2.0
+16470,keilor,3 bedroom flats,0.0,1.0,2.0,0.0,0.0,Pri/Sec,1.0
+16471,keilor,3 bedroom flats,0.0,1.0,2.0,0.0,0.0,Primary,2.0
+16472,keilor,3 bedroom houses,450.0,1.0,2.0,0.0,0.0,Pri/Sec,1.0
+16473,keilor,3 bedroom houses,450.0,1.0,2.0,0.0,0.0,Primary,2.0
+16474,keilor,4 bedroom houses,555.0,1.0,2.0,0.0,0.0,Pri/Sec,1.0
+16475,keilor,4 bedroom houses,555.0,1.0,2.0,0.0,0.0,Primary,2.0
+16476,keilor,All properties,450.0,1.0,2.0,0.0,0.0,Pri/Sec,1.0
+16477,keilor,All properties,450.0,1.0,2.0,0.0,0.0,Primary,2.0
+16758,keilor east,1 bedroom flats,325.0,7.0,6.0,0.0,0.0,Pri/Sec,1.0
+16759,keilor east,1 bedroom flats,325.0,7.0,6.0,0.0,0.0,Primary,2.0
+16760,keilor east,1 bedroom flats,325.0,7.0,6.0,0.0,0.0,Secondary,1.0
+16761,avondale heights,1 bedroom flats,325.0,2.0,5.0,0.0,0.0,Primary,2.0
+16762,keilor east,2 bedroom flats,390.0,7.0,6.0,0.0,0.0,Pri/Sec,1.0
+16763,keilor east,2 bedroom flats,390.0,7.0,6.0,0.0,0.0,Primary,2.0
+16764,keilor east,2 bedroom flats,390.0,7.0,6.0,0.0,0.0,Secondary,1.0
+16765,avondale heights,2 bedroom flats,390.0,2.0,5.0,0.0,0.0,Primary,2.0
+16766,keilor east,2 bedroom houses,383.0,7.0,6.0,0.0,0.0,Pri/Sec,1.0
+16767,keilor east,2 bedroom houses,383.0,7.0,6.0,0.0,0.0,Primary,2.0
+16768,keilor east,2 bedroom houses,383.0,7.0,6.0,0.0,0.0,Secondary,1.0
+16769,avondale heights,2 bedroom houses,383.0,2.0,5.0,0.0,0.0,Primary,2.0
+16770,keilor east,3 bedroom flats,475.0,7.0,6.0,0.0,0.0,Pri/Sec,1.0
+16771,keilor east,3 bedroom flats,475.0,7.0,6.0,0.0,0.0,Primary,2.0
+16772,keilor east,3 bedroom flats,475.0,7.0,6.0,0.0,0.0,Secondary,1.0
+16773,avondale heights,3 bedroom flats,475.0,2.0,5.0,0.0,0.0,Primary,2.0
+16774,keilor east,3 bedroom houses,430.0,7.0,6.0,0.0,0.0,Pri/Sec,1.0
+16775,keilor east,3 bedroom houses,430.0,7.0,6.0,0.0,0.0,Primary,2.0
+16776,keilor east,3 bedroom houses,430.0,7.0,6.0,0.0,0.0,Secondary,1.0
+16777,avondale heights,3 bedroom houses,430.0,2.0,5.0,0.0,0.0,Primary,2.0
+16778,keilor east,4 bedroom houses,560.0,7.0,6.0,0.0,0.0,Pri/Sec,1.0
+16779,keilor east,4 bedroom houses,560.0,7.0,6.0,0.0,0.0,Primary,2.0
+16780,keilor east,4 bedroom houses,560.0,7.0,6.0,0.0,0.0,Secondary,1.0
+16781,avondale heights,4 bedroom houses,560.0,2.0,5.0,0.0,0.0,Primary,2.0
+16782,keilor east,All properties,400.0,7.0,6.0,0.0,0.0,Pri/Sec,1.0
+16783,keilor east,All properties,400.0,7.0,6.0,0.0,0.0,Primary,2.0
+16784,keilor east,All properties,400.0,7.0,6.0,0.0,0.0,Secondary,1.0
+16785,avondale heights,All properties,400.0,2.0,5.0,0.0,0.0,Primary,2.0
+16926,kew,1 bedroom flats,350.0,40.0,41.0,0.0,0.0,Pri/Sec,7.0
+16927,kew,1 bedroom flats,350.0,40.0,41.0,0.0,0.0,Primary,3.0
+16928,kew,2 bedroom flats,420.0,40.0,41.0,0.0,0.0,Pri/Sec,7.0
+16929,kew,2 bedroom flats,420.0,40.0,41.0,0.0,0.0,Primary,3.0
+16930,kew,2 bedroom houses,543.0,40.0,41.0,0.0,0.0,Pri/Sec,7.0
+16931,kew,2 bedroom houses,543.0,40.0,41.0,0.0,0.0,Primary,3.0
+16932,kew,3 bedroom flats,590.0,40.0,41.0,0.0,0.0,Pri/Sec,7.0
+16933,kew,3 bedroom flats,590.0,40.0,41.0,0.0,0.0,Primary,3.0
+16934,kew,3 bedroom houses,700.0,40.0,41.0,0.0,0.0,Pri/Sec,7.0
+16935,kew,3 bedroom houses,700.0,40.0,41.0,0.0,0.0,Primary,3.0
+16936,kew,4 bedroom houses,1000.0,40.0,41.0,0.0,0.0,Pri/Sec,7.0
+16937,kew,4 bedroom houses,1000.0,40.0,41.0,0.0,0.0,Primary,3.0
+16938,kew,All properties,495.0,40.0,41.0,0.0,0.0,Pri/Sec,7.0
+16939,kew,All properties,495.0,40.0,41.0,0.0,0.0,Primary,3.0
+17080,lara,1 bedroom flats,0.0,6.0,7.0,68.0,0.0,Primary,2.0
+17081,lara,1 bedroom flats,0.0,6.0,7.0,68.0,0.0,Secondary,1.0
+17082,lara,2 bedroom flats,345.0,6.0,7.0,68.0,0.0,Primary,2.0
+17083,lara,2 bedroom flats,345.0,6.0,7.0,68.0,0.0,Secondary,1.0
+17084,lara,2 bedroom houses,350.0,6.0,7.0,68.0,0.0,Primary,2.0
+17085,lara,2 bedroom houses,350.0,6.0,7.0,68.0,0.0,Secondary,1.0
+17086,lara,3 bedroom flats,410.0,6.0,7.0,68.0,0.0,Primary,2.0
+17087,lara,3 bedroom flats,410.0,6.0,7.0,68.0,0.0,Secondary,1.0
+17088,lara,3 bedroom houses,420.0,6.0,7.0,68.0,0.0,Primary,2.0
+17089,lara,3 bedroom houses,420.0,6.0,7.0,68.0,0.0,Secondary,1.0
+17090,lara,4 bedroom houses,510.0,6.0,7.0,68.0,0.0,Primary,2.0
+17091,lara,4 bedroom houses,510.0,6.0,7.0,68.0,0.0,Secondary,1.0
+17092,lara,All properties,450.0,6.0,7.0,68.0,0.0,Primary,2.0
+17093,lara,All properties,450.0,6.0,7.0,68.0,0.0,Secondary,1.0
+17234,malvern,1 bedroom flats,330.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+17235,malvern,1 bedroom flats,330.0,15.0,20.0,0.0,2.0,Primary,2.0
+17236,malvern,2 bedroom flats,440.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+17237,malvern,2 bedroom flats,440.0,15.0,20.0,0.0,2.0,Primary,2.0
+17238,malvern,2 bedroom houses,613.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+17239,malvern,2 bedroom houses,613.0,15.0,20.0,0.0,2.0,Primary,2.0
+17240,malvern,3 bedroom flats,690.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+17241,malvern,3 bedroom flats,690.0,15.0,20.0,0.0,2.0,Primary,2.0
+17242,malvern,3 bedroom houses,850.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+17243,malvern,3 bedroom houses,850.0,15.0,20.0,0.0,2.0,Primary,2.0
+17244,malvern,4 bedroom houses,1200.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+17245,malvern,4 bedroom houses,1200.0,15.0,20.0,0.0,2.0,Primary,2.0
+17246,malvern,All properties,460.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+17247,malvern,All properties,460.0,15.0,20.0,0.0,2.0,Primary,2.0
+17318,malvern east,1 bedroom flats,280.0,13.0,20.0,0.0,3.0,Primary,4.0
+17319,malvern east,2 bedroom flats,415.0,13.0,20.0,0.0,3.0,Primary,4.0
+17320,malvern east,2 bedroom houses,498.0,13.0,20.0,0.0,3.0,Primary,4.0
+17321,malvern east,3 bedroom flats,588.0,13.0,20.0,0.0,3.0,Primary,4.0
+17322,malvern east,3 bedroom houses,615.0,13.0,20.0,0.0,3.0,Primary,4.0
+17323,malvern east,4 bedroom houses,870.0,13.0,20.0,0.0,3.0,Primary,4.0
+17324,malvern east,All properties,400.0,13.0,20.0,0.0,3.0,Primary,4.0
+17465,melton,1 bedroom flats,320.0,9.0,13.0,0.0,0.0,Primary,4.0
+17466,melton,1 bedroom flats,320.0,9.0,13.0,0.0,0.0,Secondary,3.0
+17467,melton,2 bedroom flats,290.0,9.0,13.0,0.0,0.0,Primary,4.0
+17468,melton,2 bedroom flats,290.0,9.0,13.0,0.0,0.0,Secondary,3.0
+17469,melton,2 bedroom houses,290.0,9.0,13.0,0.0,0.0,Primary,4.0
+17470,melton,2 bedroom houses,290.0,9.0,13.0,0.0,0.0,Secondary,3.0
+17471,melton,3 bedroom flats,320.0,9.0,13.0,0.0,0.0,Primary,4.0
+17472,melton,3 bedroom flats,320.0,9.0,13.0,0.0,0.0,Secondary,3.0
+17473,melton,3 bedroom houses,340.0,9.0,13.0,0.0,0.0,Primary,4.0
+17474,melton,3 bedroom houses,340.0,9.0,13.0,0.0,0.0,Secondary,3.0
+17475,melton,4 bedroom houses,380.0,9.0,13.0,0.0,0.0,Primary,4.0
+17476,melton,4 bedroom houses,380.0,9.0,13.0,0.0,0.0,Secondary,3.0
+17477,melton,All properties,350.0,9.0,13.0,0.0,0.0,Primary,4.0
+17478,melton,All properties,350.0,9.0,13.0,0.0,0.0,Secondary,3.0
+17899,mentone,1 bedroom flats,315.0,14.0,13.0,0.0,1.0,Pri/Sec,2.0
+17900,mentone,1 bedroom flats,315.0,14.0,13.0,0.0,1.0,Primary,3.0
+17901,mentone,1 bedroom flats,315.0,14.0,13.0,0.0,1.0,Secondary,3.0
+17902,parkdale,1 bedroom flats,315.0,5.0,4.0,0.0,1.0,Primary,2.0
+17903,mordialloc,1 bedroom flats,315.0,6.0,5.0,0.0,1.0,Primary,2.0
+17904,mordialloc,1 bedroom flats,315.0,6.0,5.0,0.0,1.0,Secondary,2.0
+17905,mentone,2 bedroom flats,420.0,14.0,13.0,0.0,1.0,Pri/Sec,2.0
+17906,mentone,2 bedroom flats,420.0,14.0,13.0,0.0,1.0,Primary,3.0
+17907,mentone,2 bedroom flats,420.0,14.0,13.0,0.0,1.0,Secondary,3.0
+17908,parkdale,2 bedroom flats,420.0,5.0,4.0,0.0,1.0,Primary,2.0
+17909,mordialloc,2 bedroom flats,420.0,6.0,5.0,0.0,1.0,Primary,2.0
+17910,mordialloc,2 bedroom flats,420.0,6.0,5.0,0.0,1.0,Secondary,2.0
+17911,mentone,2 bedroom houses,500.0,14.0,13.0,0.0,1.0,Pri/Sec,2.0
+17912,mentone,2 bedroom houses,500.0,14.0,13.0,0.0,1.0,Primary,3.0
+17913,mentone,2 bedroom houses,500.0,14.0,13.0,0.0,1.0,Secondary,3.0
+17914,parkdale,2 bedroom houses,500.0,5.0,4.0,0.0,1.0,Primary,2.0
+17915,mordialloc,2 bedroom houses,500.0,6.0,5.0,0.0,1.0,Primary,2.0
+17916,mordialloc,2 bedroom houses,500.0,6.0,5.0,0.0,1.0,Secondary,2.0
+17917,mentone,3 bedroom flats,580.0,14.0,13.0,0.0,1.0,Pri/Sec,2.0
+17918,mentone,3 bedroom flats,580.0,14.0,13.0,0.0,1.0,Primary,3.0
+17919,mentone,3 bedroom flats,580.0,14.0,13.0,0.0,1.0,Secondary,3.0
+17920,parkdale,3 bedroom flats,580.0,5.0,4.0,0.0,1.0,Primary,2.0
+17921,mordialloc,3 bedroom flats,580.0,6.0,5.0,0.0,1.0,Primary,2.0
+17922,mordialloc,3 bedroom flats,580.0,6.0,5.0,0.0,1.0,Secondary,2.0
+17923,mentone,3 bedroom houses,605.0,14.0,13.0,0.0,1.0,Pri/Sec,2.0
+17924,mentone,3 bedroom houses,605.0,14.0,13.0,0.0,1.0,Primary,3.0
+17925,mentone,3 bedroom houses,605.0,14.0,13.0,0.0,1.0,Secondary,3.0
+17926,parkdale,3 bedroom houses,605.0,5.0,4.0,0.0,1.0,Primary,2.0
+17927,mordialloc,3 bedroom houses,605.0,6.0,5.0,0.0,1.0,Primary,2.0
+17928,mordialloc,3 bedroom houses,605.0,6.0,5.0,0.0,1.0,Secondary,2.0
+17929,mentone,4 bedroom houses,760.0,14.0,13.0,0.0,1.0,Pri/Sec,2.0
+17930,mentone,4 bedroom houses,760.0,14.0,13.0,0.0,1.0,Primary,3.0
+17931,mentone,4 bedroom houses,760.0,14.0,13.0,0.0,1.0,Secondary,3.0
+17932,parkdale,4 bedroom houses,760.0,5.0,4.0,0.0,1.0,Primary,2.0
+17933,mordialloc,4 bedroom houses,760.0,6.0,5.0,0.0,1.0,Primary,2.0
+17934,mordialloc,4 bedroom houses,760.0,6.0,5.0,0.0,1.0,Secondary,2.0
+17935,mentone,All properties,450.0,14.0,13.0,0.0,1.0,Pri/Sec,2.0
+17936,mentone,All properties,450.0,14.0,13.0,0.0,1.0,Primary,3.0
+17937,mentone,All properties,450.0,14.0,13.0,0.0,1.0,Secondary,3.0
+17938,parkdale,All properties,450.0,5.0,4.0,0.0,1.0,Primary,2.0
+17939,mordialloc,All properties,450.0,6.0,5.0,0.0,1.0,Primary,2.0
+17940,mordialloc,All properties,450.0,6.0,5.0,0.0,1.0,Secondary,2.0
+18151,mildura,1 bedroom flats,220.0,29.0,37.0,263.0,0.0,Pri/Sec,1.0
+18152,mildura,1 bedroom flats,220.0,29.0,37.0,263.0,0.0,Primary,5.0
+18153,mildura,1 bedroom flats,220.0,29.0,37.0,263.0,0.0,Secondary,3.0
+18154,mildura,2 bedroom flats,260.0,29.0,37.0,263.0,0.0,Pri/Sec,1.0
+18155,mildura,2 bedroom flats,260.0,29.0,37.0,263.0,0.0,Primary,5.0
+18156,mildura,2 bedroom flats,260.0,29.0,37.0,263.0,0.0,Secondary,3.0
+18157,mildura,2 bedroom houses,300.0,29.0,37.0,263.0,0.0,Pri/Sec,1.0
+18158,mildura,2 bedroom houses,300.0,29.0,37.0,263.0,0.0,Primary,5.0
+18159,mildura,2 bedroom houses,300.0,29.0,37.0,263.0,0.0,Secondary,3.0
+18160,mildura,3 bedroom flats,340.0,29.0,37.0,263.0,0.0,Pri/Sec,1.0
+18161,mildura,3 bedroom flats,340.0,29.0,37.0,263.0,0.0,Primary,5.0
+18162,mildura,3 bedroom flats,340.0,29.0,37.0,263.0,0.0,Secondary,3.0
+18163,mildura,3 bedroom houses,360.0,29.0,37.0,263.0,0.0,Pri/Sec,1.0
+18164,mildura,3 bedroom houses,360.0,29.0,37.0,263.0,0.0,Primary,5.0
+18165,mildura,3 bedroom houses,360.0,29.0,37.0,263.0,0.0,Secondary,3.0
+18166,mildura,4 bedroom houses,420.0,29.0,37.0,263.0,0.0,Pri/Sec,1.0
+18167,mildura,4 bedroom houses,420.0,29.0,37.0,263.0,0.0,Primary,5.0
+18168,mildura,4 bedroom houses,420.0,29.0,37.0,263.0,0.0,Secondary,3.0
+18169,mildura,All properties,340.0,29.0,37.0,263.0,0.0,Pri/Sec,1.0
+18170,mildura,All properties,340.0,29.0,37.0,263.0,0.0,Primary,5.0
+18171,mildura,All properties,340.0,29.0,37.0,263.0,0.0,Secondary,3.0
+18522,mill park,1 bedroom flats,300.0,10.0,12.0,0.0,0.0,Primary,5.0
+18523,mill park,1 bedroom flats,300.0,10.0,12.0,0.0,0.0,Secondary,1.0
+18524,epping,1 bedroom flats,300.0,19.0,28.0,0.0,1.0,Pri/Sec,1.0
+18525,epping,1 bedroom flats,300.0,19.0,28.0,0.0,1.0,Primary,5.0
+18526,epping,1 bedroom flats,300.0,19.0,28.0,0.0,1.0,Secondary,3.0
+18527,mill park,2 bedroom flats,350.0,10.0,12.0,0.0,0.0,Primary,5.0
+18528,mill park,2 bedroom flats,350.0,10.0,12.0,0.0,0.0,Secondary,1.0
+18529,epping,2 bedroom flats,350.0,19.0,28.0,0.0,1.0,Pri/Sec,1.0
+18530,epping,2 bedroom flats,350.0,19.0,28.0,0.0,1.0,Primary,5.0
+18531,epping,2 bedroom flats,350.0,19.0,28.0,0.0,1.0,Secondary,3.0
+18532,mill park,2 bedroom houses,350.0,10.0,12.0,0.0,0.0,Primary,5.0
+18533,mill park,2 bedroom houses,350.0,10.0,12.0,0.0,0.0,Secondary,1.0
+18534,epping,2 bedroom houses,350.0,19.0,28.0,0.0,1.0,Pri/Sec,1.0
+18535,epping,2 bedroom houses,350.0,19.0,28.0,0.0,1.0,Primary,5.0
+18536,epping,2 bedroom houses,350.0,19.0,28.0,0.0,1.0,Secondary,3.0
+18537,mill park,3 bedroom flats,370.0,10.0,12.0,0.0,0.0,Primary,5.0
+18538,mill park,3 bedroom flats,370.0,10.0,12.0,0.0,0.0,Secondary,1.0
+18539,epping,3 bedroom flats,370.0,19.0,28.0,0.0,1.0,Pri/Sec,1.0
+18540,epping,3 bedroom flats,370.0,19.0,28.0,0.0,1.0,Primary,5.0
+18541,epping,3 bedroom flats,370.0,19.0,28.0,0.0,1.0,Secondary,3.0
+18542,mill park,3 bedroom houses,395.0,10.0,12.0,0.0,0.0,Primary,5.0
+18543,mill park,3 bedroom houses,395.0,10.0,12.0,0.0,0.0,Secondary,1.0
+18544,epping,3 bedroom houses,395.0,19.0,28.0,0.0,1.0,Pri/Sec,1.0
+18545,epping,3 bedroom houses,395.0,19.0,28.0,0.0,1.0,Primary,5.0
+18546,epping,3 bedroom houses,395.0,19.0,28.0,0.0,1.0,Secondary,3.0
+18547,mill park,4 bedroom houses,450.0,10.0,12.0,0.0,0.0,Primary,5.0
+18548,mill park,4 bedroom houses,450.0,10.0,12.0,0.0,0.0,Secondary,1.0
+18549,epping,4 bedroom houses,450.0,19.0,28.0,0.0,1.0,Pri/Sec,1.0
+18550,epping,4 bedroom houses,450.0,19.0,28.0,0.0,1.0,Primary,5.0
+18551,epping,4 bedroom houses,450.0,19.0,28.0,0.0,1.0,Secondary,3.0
+18552,mill park,All properties,390.0,10.0,12.0,0.0,0.0,Primary,5.0
+18553,mill park,All properties,390.0,10.0,12.0,0.0,0.0,Secondary,1.0
+18554,epping,All properties,390.0,19.0,28.0,0.0,1.0,Pri/Sec,1.0
+18555,epping,All properties,390.0,19.0,28.0,0.0,1.0,Primary,5.0
+18556,epping,All properties,390.0,19.0,28.0,0.0,1.0,Secondary,3.0
+18767,moe,1 bedroom flats,200.0,5.0,12.0,60.0,0.0,Primary,4.0
+18768,newborough,1 bedroom flats,200.0,1.0,3.0,52.0,0.0,Primary,3.0
+18769,newborough,1 bedroom flats,200.0,1.0,3.0,52.0,0.0,Secondary,1.0
+18770,moe,2 bedroom flats,245.0,5.0,12.0,60.0,0.0,Primary,4.0
+18771,newborough,2 bedroom flats,245.0,1.0,3.0,52.0,0.0,Primary,3.0
+18772,newborough,2 bedroom flats,245.0,1.0,3.0,52.0,0.0,Secondary,1.0
+18773,moe,2 bedroom houses,280.0,5.0,12.0,60.0,0.0,Primary,4.0
+18774,newborough,2 bedroom houses,280.0,1.0,3.0,52.0,0.0,Primary,3.0
+18775,newborough,2 bedroom houses,280.0,1.0,3.0,52.0,0.0,Secondary,1.0
+18776,moe,3 bedroom flats,0.0,5.0,12.0,60.0,0.0,Primary,4.0
+18777,newborough,3 bedroom flats,0.0,1.0,3.0,52.0,0.0,Primary,3.0
+18778,newborough,3 bedroom flats,0.0,1.0,3.0,52.0,0.0,Secondary,1.0
+18779,moe,3 bedroom houses,350.0,5.0,12.0,60.0,0.0,Primary,4.0
+18780,newborough,3 bedroom houses,350.0,1.0,3.0,52.0,0.0,Primary,3.0
+18781,newborough,3 bedroom houses,350.0,1.0,3.0,52.0,0.0,Secondary,1.0
+18782,moe,4 bedroom houses,420.0,5.0,12.0,60.0,0.0,Primary,4.0
+18783,newborough,4 bedroom houses,420.0,1.0,3.0,52.0,0.0,Primary,3.0
+18784,newborough,4 bedroom houses,420.0,1.0,3.0,52.0,0.0,Secondary,1.0
+18785,moe,All properties,300.0,5.0,12.0,60.0,0.0,Primary,4.0
+18786,newborough,All properties,300.0,1.0,3.0,52.0,0.0,Primary,3.0
+18787,newborough,All properties,300.0,1.0,3.0,52.0,0.0,Secondary,1.0
+18928,moonee ponds,1 bedroom flats,325.0,5.0,11.0,0.0,1.0,Primary,3.0
+18929,ascot vale,1 bedroom flats,325.0,10.0,14.0,0.0,1.0,Primary,3.0
+18930,moonee ponds,2 bedroom flats,400.0,5.0,11.0,0.0,1.0,Primary,3.0
+18931,ascot vale,2 bedroom flats,400.0,10.0,14.0,0.0,1.0,Primary,3.0
+18932,moonee ponds,2 bedroom houses,500.0,5.0,11.0,0.0,1.0,Primary,3.0
+18933,ascot vale,2 bedroom houses,500.0,10.0,14.0,0.0,1.0,Primary,3.0
+18934,moonee ponds,3 bedroom flats,560.0,5.0,11.0,0.0,1.0,Primary,3.0
+18935,ascot vale,3 bedroom flats,560.0,10.0,14.0,0.0,1.0,Primary,3.0
+18936,moonee ponds,3 bedroom houses,610.0,5.0,11.0,0.0,1.0,Primary,3.0
+18937,ascot vale,3 bedroom houses,610.0,10.0,14.0,0.0,1.0,Primary,3.0
+18938,moonee ponds,4 bedroom houses,750.0,5.0,11.0,0.0,1.0,Primary,3.0
+18939,ascot vale,4 bedroom houses,750.0,10.0,14.0,0.0,1.0,Primary,3.0
+18940,moonee ponds,All properties,420.0,5.0,11.0,0.0,1.0,Primary,3.0
+18941,ascot vale,All properties,420.0,10.0,14.0,0.0,1.0,Primary,3.0
+19082,morwell,1 bedroom flats,205.0,14.0,24.0,105.0,0.0,Primary,3.0
+19083,morwell,1 bedroom flats,205.0,14.0,24.0,105.0,0.0,Secondary,1.0
+19084,morwell,2 bedroom flats,240.0,14.0,24.0,105.0,0.0,Primary,3.0
+19085,morwell,2 bedroom flats,240.0,14.0,24.0,105.0,0.0,Secondary,1.0
+19086,morwell,2 bedroom houses,270.0,14.0,24.0,105.0,0.0,Primary,3.0
+19087,morwell,2 bedroom houses,270.0,14.0,24.0,105.0,0.0,Secondary,1.0
+19088,morwell,3 bedroom flats,0.0,14.0,24.0,105.0,0.0,Primary,3.0
+19089,morwell,3 bedroom flats,0.0,14.0,24.0,105.0,0.0,Secondary,1.0
+19090,morwell,3 bedroom houses,310.0,14.0,24.0,105.0,0.0,Primary,3.0
+19091,morwell,3 bedroom houses,310.0,14.0,24.0,105.0,0.0,Secondary,1.0
+19092,morwell,4 bedroom houses,410.0,14.0,24.0,105.0,0.0,Primary,3.0
+19093,morwell,4 bedroom houses,410.0,14.0,24.0,105.0,0.0,Secondary,1.0
+19094,morwell,All properties,290.0,14.0,24.0,105.0,0.0,Primary,3.0
+19095,morwell,All properties,290.0,14.0,24.0,105.0,0.0,Secondary,1.0
+19306,mount clear,1 bedroom flats,0.0,2.0,1.0,14.0,0.0,Primary,2.0
+19307,mount clear,1 bedroom flats,0.0,2.0,1.0,14.0,0.0,Secondary,2.0
+19308,buninyong,1 bedroom flats,0.0,3.0,3.0,17.0,0.0,Primary,1.0
+19309,mount clear,2 bedroom flats,303.0,2.0,1.0,14.0,0.0,Primary,2.0
+19310,mount clear,2 bedroom flats,303.0,2.0,1.0,14.0,0.0,Secondary,2.0
+19311,buninyong,2 bedroom flats,303.0,3.0,3.0,17.0,0.0,Primary,1.0
+19312,mount clear,2 bedroom houses,323.0,2.0,1.0,14.0,0.0,Primary,2.0
+19313,mount clear,2 bedroom houses,323.0,2.0,1.0,14.0,0.0,Secondary,2.0
+19314,buninyong,2 bedroom houses,323.0,3.0,3.0,17.0,0.0,Primary,1.0
+19315,mount clear,3 bedroom flats,335.0,2.0,1.0,14.0,0.0,Primary,2.0
+19316,mount clear,3 bedroom flats,335.0,2.0,1.0,14.0,0.0,Secondary,2.0
+19317,buninyong,3 bedroom flats,335.0,3.0,3.0,17.0,0.0,Primary,1.0
+19318,mount clear,3 bedroom houses,368.0,2.0,1.0,14.0,0.0,Primary,2.0
+19319,mount clear,3 bedroom houses,368.0,2.0,1.0,14.0,0.0,Secondary,2.0
+19320,buninyong,3 bedroom houses,368.0,3.0,3.0,17.0,0.0,Primary,1.0
+19321,mount clear,4 bedroom houses,440.0,2.0,1.0,14.0,0.0,Primary,2.0
+19322,mount clear,4 bedroom houses,440.0,2.0,1.0,14.0,0.0,Secondary,2.0
+19323,buninyong,4 bedroom houses,440.0,3.0,3.0,17.0,0.0,Primary,1.0
+19324,mount clear,All properties,370.0,2.0,1.0,14.0,0.0,Primary,2.0
+19325,mount clear,All properties,370.0,2.0,1.0,14.0,0.0,Secondary,2.0
+19326,buninyong,All properties,370.0,3.0,3.0,17.0,0.0,Primary,1.0
+19467,mount waverley,1 bedroom flats,340.0,23.0,32.0,0.0,2.0,Primary,7.0
+19468,mount waverley,1 bedroom flats,340.0,23.0,32.0,0.0,2.0,Secondary,2.0
+19469,mount waverley,2 bedroom flats,400.0,23.0,32.0,0.0,2.0,Primary,7.0
+19470,mount waverley,2 bedroom flats,400.0,23.0,32.0,0.0,2.0,Secondary,2.0
+19471,mount waverley,2 bedroom houses,405.0,23.0,32.0,0.0,2.0,Primary,7.0
+19472,mount waverley,2 bedroom houses,405.0,23.0,32.0,0.0,2.0,Secondary,2.0
+19473,mount waverley,3 bedroom flats,530.0,23.0,32.0,0.0,2.0,Primary,7.0
+19474,mount waverley,3 bedroom flats,530.0,23.0,32.0,0.0,2.0,Secondary,2.0
+19475,mount waverley,3 bedroom houses,480.0,23.0,32.0,0.0,2.0,Primary,7.0
+19476,mount waverley,3 bedroom houses,480.0,23.0,32.0,0.0,2.0,Secondary,2.0
+19477,mount waverley,4 bedroom houses,590.0,23.0,32.0,0.0,2.0,Primary,7.0
+19478,mount waverley,4 bedroom houses,590.0,23.0,32.0,0.0,2.0,Secondary,2.0
+19479,mount waverley,All properties,500.0,23.0,32.0,0.0,2.0,Primary,7.0
+19480,mount waverley,All properties,500.0,23.0,32.0,0.0,2.0,Secondary,2.0
+19761,mt eliza,1 bedroom flats,380.0,1.0,1.0,0.0,0.0,Pri/Sec,2.0
+19762,mornington,1 bedroom flats,380.0,15.0,22.0,0.0,0.0,Primary,4.0
+19763,mornington,1 bedroom flats,380.0,15.0,22.0,0.0,0.0,Secondary,2.0
+19764,mt martha,1 bedroom flats,380.0,0.0,0.0,0.0,0.0,Pri/Sec,1.0
+19765,mt eliza,2 bedroom flats,450.0,1.0,1.0,0.0,0.0,Pri/Sec,2.0
+19766,mornington,2 bedroom flats,450.0,15.0,22.0,0.0,0.0,Primary,4.0
+19767,mornington,2 bedroom flats,450.0,15.0,22.0,0.0,0.0,Secondary,2.0
+19768,mt martha,2 bedroom flats,450.0,0.0,0.0,0.0,0.0,Pri/Sec,1.0
+19769,mt eliza,2 bedroom houses,460.0,1.0,1.0,0.0,0.0,Pri/Sec,2.0
+19770,mornington,2 bedroom houses,460.0,15.0,22.0,0.0,0.0,Primary,4.0
+19771,mornington,2 bedroom houses,460.0,15.0,22.0,0.0,0.0,Secondary,2.0
+19772,mt martha,2 bedroom houses,460.0,0.0,0.0,0.0,0.0,Pri/Sec,1.0
+19773,mt eliza,3 bedroom flats,558.0,1.0,1.0,0.0,0.0,Pri/Sec,2.0
+19774,mornington,3 bedroom flats,558.0,15.0,22.0,0.0,0.0,Primary,4.0
+19775,mornington,3 bedroom flats,558.0,15.0,22.0,0.0,0.0,Secondary,2.0
+19776,mt martha,3 bedroom flats,558.0,0.0,0.0,0.0,0.0,Pri/Sec,1.0
+19777,mt eliza,3 bedroom houses,600.0,1.0,1.0,0.0,0.0,Pri/Sec,2.0
+19778,mornington,3 bedroom houses,600.0,15.0,22.0,0.0,0.0,Primary,4.0
+19779,mornington,3 bedroom houses,600.0,15.0,22.0,0.0,0.0,Secondary,2.0
+19780,mt martha,3 bedroom houses,600.0,0.0,0.0,0.0,0.0,Pri/Sec,1.0
+19781,mt eliza,4 bedroom houses,800.0,1.0,1.0,0.0,0.0,Pri/Sec,2.0
+19782,mornington,4 bedroom houses,800.0,15.0,22.0,0.0,0.0,Primary,4.0
+19783,mornington,4 bedroom houses,800.0,15.0,22.0,0.0,0.0,Secondary,2.0
+19784,mt martha,4 bedroom houses,800.0,0.0,0.0,0.0,0.0,Pri/Sec,1.0
+19785,mt eliza,All properties,600.0,1.0,1.0,0.0,0.0,Pri/Sec,2.0
+19786,mornington,All properties,600.0,15.0,22.0,0.0,0.0,Primary,4.0
+19787,mornington,All properties,600.0,15.0,22.0,0.0,0.0,Secondary,2.0
+19788,mt martha,All properties,600.0,0.0,0.0,0.0,0.0,Pri/Sec,1.0
+19999,murrumbeena,1 bedroom flats,288.0,4.0,5.0,0.0,1.0,Primary,2.0
+20000,hughesdale,1 bedroom flats,288.0,4.0,6.0,0.0,1.0,Primary,1.0
+20001,hughesdale,1 bedroom flats,288.0,4.0,6.0,0.0,1.0,Secondary,1.0
+20002,murrumbeena,2 bedroom flats,400.0,4.0,5.0,0.0,1.0,Primary,2.0
+20003,hughesdale,2 bedroom flats,400.0,4.0,6.0,0.0,1.0,Primary,1.0
+20004,hughesdale,2 bedroom flats,400.0,4.0,6.0,0.0,1.0,Secondary,1.0
+20005,murrumbeena,2 bedroom houses,460.0,4.0,5.0,0.0,1.0,Primary,2.0
+20006,hughesdale,2 bedroom houses,460.0,4.0,6.0,0.0,1.0,Primary,1.0
+20007,hughesdale,2 bedroom houses,460.0,4.0,6.0,0.0,1.0,Secondary,1.0
+20008,murrumbeena,3 bedroom flats,525.0,4.0,5.0,0.0,1.0,Primary,2.0
+20009,hughesdale,3 bedroom flats,525.0,4.0,6.0,0.0,1.0,Primary,1.0
+20010,hughesdale,3 bedroom flats,525.0,4.0,6.0,0.0,1.0,Secondary,1.0
+20011,murrumbeena,3 bedroom houses,550.0,4.0,5.0,0.0,1.0,Primary,2.0
+20012,hughesdale,3 bedroom houses,550.0,4.0,6.0,0.0,1.0,Primary,1.0
+20013,hughesdale,3 bedroom houses,550.0,4.0,6.0,0.0,1.0,Secondary,1.0
+20014,murrumbeena,4 bedroom houses,770.0,4.0,5.0,0.0,1.0,Primary,2.0
+20015,hughesdale,4 bedroom houses,770.0,4.0,6.0,0.0,1.0,Primary,1.0
+20016,hughesdale,4 bedroom houses,770.0,4.0,6.0,0.0,1.0,Secondary,1.0
+20017,murrumbeena,All properties,400.0,4.0,5.0,0.0,1.0,Primary,2.0
+20018,hughesdale,All properties,400.0,4.0,6.0,0.0,1.0,Primary,1.0
+20019,hughesdale,All properties,400.0,4.0,6.0,0.0,1.0,Secondary,1.0
+20300,narre warren,1 bedroom flats,300.0,8.0,17.0,5.0,1.0,Primary,5.0
+20301,narre warren,1 bedroom flats,300.0,8.0,17.0,5.0,1.0,Secondary,1.0
+20302,hampton park,1 bedroom flats,300.0,8.0,13.0,0.0,0.0,Primary,5.0
+20303,hampton park,1 bedroom flats,300.0,8.0,13.0,0.0,0.0,Secondary,1.0
+20304,narre warren,2 bedroom flats,350.0,8.0,17.0,5.0,1.0,Primary,5.0
+20305,narre warren,2 bedroom flats,350.0,8.0,17.0,5.0,1.0,Secondary,1.0
+20306,hampton park,2 bedroom flats,350.0,8.0,13.0,0.0,0.0,Primary,5.0
+20307,hampton park,2 bedroom flats,350.0,8.0,13.0,0.0,0.0,Secondary,1.0
+20308,narre warren,2 bedroom houses,368.0,8.0,17.0,5.0,1.0,Primary,5.0
+20309,narre warren,2 bedroom houses,368.0,8.0,17.0,5.0,1.0,Secondary,1.0
+20310,hampton park,2 bedroom houses,368.0,8.0,13.0,0.0,0.0,Primary,5.0
+20311,hampton park,2 bedroom houses,368.0,8.0,13.0,0.0,0.0,Secondary,1.0
+20312,narre warren,3 bedroom flats,390.0,8.0,17.0,5.0,1.0,Primary,5.0
+20313,narre warren,3 bedroom flats,390.0,8.0,17.0,5.0,1.0,Secondary,1.0
+20314,hampton park,3 bedroom flats,390.0,8.0,13.0,0.0,0.0,Primary,5.0
+20315,hampton park,3 bedroom flats,390.0,8.0,13.0,0.0,0.0,Secondary,1.0
+20316,narre warren,3 bedroom houses,400.0,8.0,17.0,5.0,1.0,Primary,5.0
+20317,narre warren,3 bedroom houses,400.0,8.0,17.0,5.0,1.0,Secondary,1.0
+20318,hampton park,3 bedroom houses,400.0,8.0,13.0,0.0,0.0,Primary,5.0
+20319,hampton park,3 bedroom houses,400.0,8.0,13.0,0.0,0.0,Secondary,1.0
+20320,narre warren,4 bedroom houses,470.0,8.0,17.0,5.0,1.0,Primary,5.0
+20321,narre warren,4 bedroom houses,470.0,8.0,17.0,5.0,1.0,Secondary,1.0
+20322,hampton park,4 bedroom houses,470.0,8.0,13.0,0.0,0.0,Primary,5.0
+20323,hampton park,4 bedroom houses,470.0,8.0,13.0,0.0,0.0,Secondary,1.0
+20324,narre warren,All properties,410.0,8.0,17.0,5.0,1.0,Primary,5.0
+20325,narre warren,All properties,410.0,8.0,17.0,5.0,1.0,Secondary,1.0
+20326,hampton park,All properties,410.0,8.0,13.0,0.0,0.0,Primary,5.0
+20327,hampton park,All properties,410.0,8.0,13.0,0.0,0.0,Secondary,1.0
+20468,newport,1 bedroom flats,300.0,12.0,16.0,0.0,1.0,Primary,4.0
+20469,spotswood,1 bedroom flats,300.0,2.0,6.0,0.0,1.0,Primary,2.0
+20470,newport,2 bedroom flats,380.0,12.0,16.0,0.0,1.0,Primary,4.0
+20471,spotswood,2 bedroom flats,380.0,2.0,6.0,0.0,1.0,Primary,2.0
+20472,newport,2 bedroom houses,443.0,12.0,16.0,0.0,1.0,Primary,4.0
+20473,spotswood,2 bedroom houses,443.0,2.0,6.0,0.0,1.0,Primary,2.0
+20474,newport,3 bedroom flats,550.0,12.0,16.0,0.0,1.0,Primary,4.0
+20475,spotswood,3 bedroom flats,550.0,2.0,6.0,0.0,1.0,Primary,2.0
+20476,newport,3 bedroom houses,550.0,12.0,16.0,0.0,1.0,Primary,4.0
+20477,spotswood,3 bedroom houses,550.0,2.0,6.0,0.0,1.0,Primary,2.0
+20478,newport,4 bedroom houses,750.0,12.0,16.0,0.0,1.0,Primary,4.0
+20479,spotswood,4 bedroom houses,750.0,2.0,6.0,0.0,1.0,Primary,2.0
+20480,newport,All properties,495.0,12.0,16.0,0.0,1.0,Primary,4.0
+20481,spotswood,All properties,495.0,2.0,6.0,0.0,1.0,Primary,2.0
+20692,newtown,1 bedroom flats,285.0,14.0,18.0,0.0,0.0,Pri/Sec,1.0
+20693,newtown,1 bedroom flats,285.0,14.0,18.0,0.0,0.0,Primary,4.0
+20694,newtown,1 bedroom flats,285.0,14.0,18.0,0.0,0.0,Secondary,2.0
+20695,newtown,2 bedroom flats,390.0,14.0,18.0,0.0,0.0,Pri/Sec,1.0
+20696,newtown,2 bedroom flats,390.0,14.0,18.0,0.0,0.0,Primary,4.0
+20697,newtown,2 bedroom flats,390.0,14.0,18.0,0.0,0.0,Secondary,2.0
+20698,newtown,2 bedroom houses,425.0,14.0,18.0,0.0,0.0,Pri/Sec,1.0
+20699,newtown,2 bedroom houses,425.0,14.0,18.0,0.0,0.0,Primary,4.0
+20700,newtown,2 bedroom houses,425.0,14.0,18.0,0.0,0.0,Secondary,2.0
+20701,newtown,3 bedroom flats,500.0,14.0,18.0,0.0,0.0,Pri/Sec,1.0
+20702,newtown,3 bedroom flats,500.0,14.0,18.0,0.0,0.0,Primary,4.0
+20703,newtown,3 bedroom flats,500.0,14.0,18.0,0.0,0.0,Secondary,2.0
+20704,newtown,3 bedroom houses,480.0,14.0,18.0,0.0,0.0,Pri/Sec,1.0
+20705,newtown,3 bedroom houses,480.0,14.0,18.0,0.0,0.0,Primary,4.0
+20706,newtown,3 bedroom houses,480.0,14.0,18.0,0.0,0.0,Secondary,2.0
+20707,newtown,4 bedroom houses,600.0,14.0,18.0,0.0,0.0,Pri/Sec,1.0
+20708,newtown,4 bedroom houses,600.0,14.0,18.0,0.0,0.0,Primary,4.0
+20709,newtown,4 bedroom houses,600.0,14.0,18.0,0.0,0.0,Secondary,2.0
+20710,newtown,All properties,430.0,14.0,18.0,0.0,0.0,Pri/Sec,1.0
+20711,newtown,All properties,430.0,14.0,18.0,0.0,0.0,Primary,4.0
+20712,newtown,All properties,430.0,14.0,18.0,0.0,0.0,Secondary,2.0
+20923,noble park,1 bedroom flats,250.0,9.0,10.0,0.0,2.0,Pri/Sec,1.0
+20924,noble park,1 bedroom flats,250.0,9.0,10.0,0.0,2.0,Primary,5.0
+20925,noble park,1 bedroom flats,250.0,9.0,10.0,0.0,2.0,Secondary,1.0
+20926,noble park,2 bedroom flats,350.0,9.0,10.0,0.0,2.0,Pri/Sec,1.0
+20927,noble park,2 bedroom flats,350.0,9.0,10.0,0.0,2.0,Primary,5.0
+20928,noble park,2 bedroom flats,350.0,9.0,10.0,0.0,2.0,Secondary,1.0
+20929,noble park,2 bedroom houses,373.0,9.0,10.0,0.0,2.0,Pri/Sec,1.0
+20930,noble park,2 bedroom houses,373.0,9.0,10.0,0.0,2.0,Primary,5.0
+20931,noble park,2 bedroom houses,373.0,9.0,10.0,0.0,2.0,Secondary,1.0
+20932,noble park,3 bedroom flats,405.0,9.0,10.0,0.0,2.0,Pri/Sec,1.0
+20933,noble park,3 bedroom flats,405.0,9.0,10.0,0.0,2.0,Primary,5.0
+20934,noble park,3 bedroom flats,405.0,9.0,10.0,0.0,2.0,Secondary,1.0
+20935,noble park,3 bedroom houses,390.0,9.0,10.0,0.0,2.0,Pri/Sec,1.0
+20936,noble park,3 bedroom houses,390.0,9.0,10.0,0.0,2.0,Primary,5.0
+20937,noble park,3 bedroom houses,390.0,9.0,10.0,0.0,2.0,Secondary,1.0
+20938,noble park,4 bedroom houses,450.0,9.0,10.0,0.0,2.0,Pri/Sec,1.0
+20939,noble park,4 bedroom houses,450.0,9.0,10.0,0.0,2.0,Primary,5.0
+20940,noble park,4 bedroom houses,450.0,9.0,10.0,0.0,2.0,Secondary,1.0
+20941,noble park,All properties,370.0,9.0,10.0,0.0,2.0,Pri/Sec,1.0
+20942,noble park,All properties,370.0,9.0,10.0,0.0,2.0,Primary,5.0
+20943,noble park,All properties,370.0,9.0,10.0,0.0,2.0,Secondary,1.0
+21014,north bendigo,1 bedroom flats,240.0,2.0,4.0,33.0,0.0,0,0.0
+21015,north bendigo,2 bedroom flats,300.0,2.0,4.0,33.0,0.0,0,0.0
+21016,north bendigo,2 bedroom houses,340.0,2.0,4.0,33.0,0.0,0,0.0
+21017,north bendigo,3 bedroom flats,380.0,2.0,4.0,33.0,0.0,0,0.0
+21018,north bendigo,3 bedroom houses,380.0,2.0,4.0,33.0,0.0,0,0.0
+21019,north bendigo,4 bedroom houses,440.0,2.0,4.0,33.0,0.0,0,0.0
+21020,north bendigo,All properties,380.0,2.0,4.0,33.0,0.0,0,0.0
+21091,north geelong,1 bedroom flats,250.0,4.0,10.0,34.0,0.0,Secondary,1.0
+21092,north geelong,2 bedroom flats,370.0,4.0,10.0,34.0,0.0,Secondary,1.0
+21093,north geelong,2 bedroom houses,370.0,4.0,10.0,34.0,0.0,Secondary,1.0
+21094,north geelong,3 bedroom flats,430.0,4.0,10.0,34.0,0.0,Secondary,1.0
+21095,north geelong,3 bedroom houses,418.0,4.0,10.0,34.0,0.0,Secondary,1.0
+21096,north geelong,4 bedroom houses,500.0,4.0,10.0,34.0,0.0,Secondary,1.0
+21097,north geelong,All properties,400.0,4.0,10.0,34.0,0.0,Secondary,1.0
+21308,north melbourne,1 bedroom flats,300.0,23.0,56.0,0.0,2.0,Primary,2.0
+21309,north melbourne,1 bedroom flats,300.0,23.0,56.0,0.0,2.0,Secondary,1.0
+21310,west melbourne,1 bedroom flats,300.0,11.0,11.0,0.0,1.0,Secondary,1.0
+21311,north melbourne,2 bedroom flats,440.0,23.0,56.0,0.0,2.0,Primary,2.0
+21312,north melbourne,2 bedroom flats,440.0,23.0,56.0,0.0,2.0,Secondary,1.0
+21313,west melbourne,2 bedroom flats,440.0,11.0,11.0,0.0,1.0,Secondary,1.0
+21314,north melbourne,2 bedroom houses,540.0,23.0,56.0,0.0,2.0,Primary,2.0
+21315,north melbourne,2 bedroom houses,540.0,23.0,56.0,0.0,2.0,Secondary,1.0
+21316,west melbourne,2 bedroom houses,540.0,11.0,11.0,0.0,1.0,Secondary,1.0
+21317,north melbourne,3 bedroom flats,600.0,23.0,56.0,0.0,2.0,Primary,2.0
+21318,north melbourne,3 bedroom flats,600.0,23.0,56.0,0.0,2.0,Secondary,1.0
+21319,west melbourne,3 bedroom flats,600.0,11.0,11.0,0.0,1.0,Secondary,1.0
+21320,north melbourne,3 bedroom houses,680.0,23.0,56.0,0.0,2.0,Primary,2.0
+21321,north melbourne,3 bedroom houses,680.0,23.0,56.0,0.0,2.0,Secondary,1.0
+21322,west melbourne,3 bedroom houses,680.0,11.0,11.0,0.0,1.0,Secondary,1.0
+21323,north melbourne,4 bedroom houses,930.0,23.0,56.0,0.0,2.0,Primary,2.0
+21324,north melbourne,4 bedroom houses,930.0,23.0,56.0,0.0,2.0,Secondary,1.0
+21325,west melbourne,4 bedroom houses,930.0,11.0,11.0,0.0,1.0,Secondary,1.0
+21326,north melbourne,All properties,380.0,23.0,56.0,0.0,2.0,Primary,2.0
+21327,north melbourne,All properties,380.0,23.0,56.0,0.0,2.0,Secondary,1.0
+21328,west melbourne,All properties,380.0,11.0,11.0,0.0,1.0,Secondary,1.0
+21469,northcote,1 bedroom flats,320.0,18.0,32.0,0.0,5.0,Primary,3.0
+21470,northcote,1 bedroom flats,320.0,18.0,32.0,0.0,5.0,Secondary,2.0
+21471,northcote,2 bedroom flats,450.0,18.0,32.0,0.0,5.0,Primary,3.0
+21472,northcote,2 bedroom flats,450.0,18.0,32.0,0.0,5.0,Secondary,2.0
+21473,northcote,2 bedroom houses,600.0,18.0,32.0,0.0,5.0,Primary,3.0
+21474,northcote,2 bedroom houses,600.0,18.0,32.0,0.0,5.0,Secondary,2.0
+21475,northcote,3 bedroom flats,660.0,18.0,32.0,0.0,5.0,Primary,3.0
+21476,northcote,3 bedroom flats,660.0,18.0,32.0,0.0,5.0,Secondary,2.0
+21477,northcote,3 bedroom houses,725.0,18.0,32.0,0.0,5.0,Primary,3.0
+21478,northcote,3 bedroom houses,725.0,18.0,32.0,0.0,5.0,Secondary,2.0
+21479,northcote,4 bedroom houses,975.0,18.0,32.0,0.0,5.0,Primary,3.0
+21480,northcote,4 bedroom houses,975.0,18.0,32.0,0.0,5.0,Secondary,2.0
+21481,northcote,All properties,490.0,18.0,32.0,0.0,5.0,Primary,3.0
+21482,northcote,All properties,490.0,18.0,32.0,0.0,5.0,Secondary,2.0
+21763,nunawading,1 bedroom flats,330.0,6.0,11.0,0.0,1.0,Primary,2.0
+21764,nunawading,1 bedroom flats,330.0,6.0,11.0,0.0,1.0,Secondary,1.0
+21765,mitcham,1 bedroom flats,330.0,13.0,26.0,0.0,1.0,Primary,4.0
+21766,mitcham,1 bedroom flats,330.0,13.0,26.0,0.0,1.0,Secondary,1.0
+21767,nunawading,2 bedroom flats,390.0,6.0,11.0,0.0,1.0,Primary,2.0
+21768,nunawading,2 bedroom flats,390.0,6.0,11.0,0.0,1.0,Secondary,1.0
+21769,mitcham,2 bedroom flats,390.0,13.0,26.0,0.0,1.0,Primary,4.0
+21770,mitcham,2 bedroom flats,390.0,13.0,26.0,0.0,1.0,Secondary,1.0
+21771,nunawading,2 bedroom houses,400.0,6.0,11.0,0.0,1.0,Primary,2.0
+21772,nunawading,2 bedroom houses,400.0,6.0,11.0,0.0,1.0,Secondary,1.0
+21773,mitcham,2 bedroom houses,400.0,13.0,26.0,0.0,1.0,Primary,4.0
+21774,mitcham,2 bedroom houses,400.0,13.0,26.0,0.0,1.0,Secondary,1.0
+21775,nunawading,3 bedroom flats,485.0,6.0,11.0,0.0,1.0,Primary,2.0
+21776,nunawading,3 bedroom flats,485.0,6.0,11.0,0.0,1.0,Secondary,1.0
+21777,mitcham,3 bedroom flats,485.0,13.0,26.0,0.0,1.0,Primary,4.0
+21778,mitcham,3 bedroom flats,485.0,13.0,26.0,0.0,1.0,Secondary,1.0
+21779,nunawading,3 bedroom houses,470.0,6.0,11.0,0.0,1.0,Primary,2.0
+21780,nunawading,3 bedroom houses,470.0,6.0,11.0,0.0,1.0,Secondary,1.0
+21781,mitcham,3 bedroom houses,470.0,13.0,26.0,0.0,1.0,Primary,4.0
+21782,mitcham,3 bedroom houses,470.0,13.0,26.0,0.0,1.0,Secondary,1.0
+21783,nunawading,4 bedroom houses,550.0,6.0,11.0,0.0,1.0,Primary,2.0
+21784,nunawading,4 bedroom houses,550.0,6.0,11.0,0.0,1.0,Secondary,1.0
+21785,mitcham,4 bedroom houses,550.0,13.0,26.0,0.0,1.0,Primary,4.0
+21786,mitcham,4 bedroom houses,550.0,13.0,26.0,0.0,1.0,Secondary,1.0
+21787,nunawading,All properties,430.0,6.0,11.0,0.0,1.0,Primary,2.0
+21788,nunawading,All properties,430.0,6.0,11.0,0.0,1.0,Secondary,1.0
+21789,mitcham,All properties,430.0,13.0,26.0,0.0,1.0,Primary,4.0
+21790,mitcham,All properties,430.0,13.0,26.0,0.0,1.0,Secondary,1.0
+22211,oak park,1 bedroom flats,280.0,5.0,4.0,0.0,1.0,Primary,2.0
+22212,glenroy,1 bedroom flats,280.0,11.0,14.0,0.0,3.0,Pri/Sec,1.0
+22213,glenroy,1 bedroom flats,280.0,11.0,14.0,0.0,3.0,Primary,4.0
+22214,glenroy,1 bedroom flats,280.0,11.0,14.0,0.0,3.0,Secondary,1.0
+22215,fawkner,1 bedroom flats,280.0,5.0,7.0,0.0,1.0,Primary,3.0
+22216,fawkner,1 bedroom flats,280.0,5.0,7.0,0.0,1.0,Secondary,1.0
+22217,oak park,2 bedroom flats,350.0,5.0,4.0,0.0,1.0,Primary,2.0
+22218,glenroy,2 bedroom flats,350.0,11.0,14.0,0.0,3.0,Pri/Sec,1.0
+22219,glenroy,2 bedroom flats,350.0,11.0,14.0,0.0,3.0,Primary,4.0
+22220,glenroy,2 bedroom flats,350.0,11.0,14.0,0.0,3.0,Secondary,1.0
+22221,fawkner,2 bedroom flats,350.0,5.0,7.0,0.0,1.0,Primary,3.0
+22222,fawkner,2 bedroom flats,350.0,5.0,7.0,0.0,1.0,Secondary,1.0
+22223,oak park,2 bedroom houses,360.0,5.0,4.0,0.0,1.0,Primary,2.0
+22224,glenroy,2 bedroom houses,360.0,11.0,14.0,0.0,3.0,Pri/Sec,1.0
+22225,glenroy,2 bedroom houses,360.0,11.0,14.0,0.0,3.0,Primary,4.0
+22226,glenroy,2 bedroom houses,360.0,11.0,14.0,0.0,3.0,Secondary,1.0
+22227,fawkner,2 bedroom houses,360.0,5.0,7.0,0.0,1.0,Primary,3.0
+22228,fawkner,2 bedroom houses,360.0,5.0,7.0,0.0,1.0,Secondary,1.0
+22229,oak park,3 bedroom flats,430.0,5.0,4.0,0.0,1.0,Primary,2.0
+22230,glenroy,3 bedroom flats,430.0,11.0,14.0,0.0,3.0,Pri/Sec,1.0
+22231,glenroy,3 bedroom flats,430.0,11.0,14.0,0.0,3.0,Primary,4.0
+22232,glenroy,3 bedroom flats,430.0,11.0,14.0,0.0,3.0,Secondary,1.0
+22233,fawkner,3 bedroom flats,430.0,5.0,7.0,0.0,1.0,Primary,3.0
+22234,fawkner,3 bedroom flats,430.0,5.0,7.0,0.0,1.0,Secondary,1.0
+22235,oak park,3 bedroom houses,420.0,5.0,4.0,0.0,1.0,Primary,2.0
+22236,glenroy,3 bedroom houses,420.0,11.0,14.0,0.0,3.0,Pri/Sec,1.0
+22237,glenroy,3 bedroom houses,420.0,11.0,14.0,0.0,3.0,Primary,4.0
+22238,glenroy,3 bedroom houses,420.0,11.0,14.0,0.0,3.0,Secondary,1.0
+22239,fawkner,3 bedroom houses,420.0,5.0,7.0,0.0,1.0,Primary,3.0
+22240,fawkner,3 bedroom houses,420.0,5.0,7.0,0.0,1.0,Secondary,1.0
+22241,oak park,4 bedroom houses,495.0,5.0,4.0,0.0,1.0,Primary,2.0
+22242,glenroy,4 bedroom houses,495.0,11.0,14.0,0.0,3.0,Pri/Sec,1.0
+22243,glenroy,4 bedroom houses,495.0,11.0,14.0,0.0,3.0,Primary,4.0
+22244,glenroy,4 bedroom houses,495.0,11.0,14.0,0.0,3.0,Secondary,1.0
+22245,fawkner,4 bedroom houses,495.0,5.0,7.0,0.0,1.0,Primary,3.0
+22246,fawkner,4 bedroom houses,495.0,5.0,7.0,0.0,1.0,Secondary,1.0
+22247,oak park,All properties,388.0,5.0,4.0,0.0,1.0,Primary,2.0
+22248,glenroy,All properties,388.0,11.0,14.0,0.0,3.0,Pri/Sec,1.0
+22249,glenroy,All properties,388.0,11.0,14.0,0.0,3.0,Primary,4.0
+22250,glenroy,All properties,388.0,11.0,14.0,0.0,3.0,Secondary,1.0
+22251,fawkner,All properties,388.0,5.0,7.0,0.0,1.0,Primary,3.0
+22252,fawkner,All properties,388.0,5.0,7.0,0.0,1.0,Secondary,1.0
+22393,ocean grove,1 bedroom flats,275.0,6.0,11.0,56.0,0.0,Primary,3.0
+22394,barwon heads,1 bedroom flats,275.0,2.0,6.0,25.0,0.0,Primary,1.0
+22395,ocean grove,2 bedroom flats,420.0,6.0,11.0,56.0,0.0,Primary,3.0
+22396,barwon heads,2 bedroom flats,420.0,2.0,6.0,25.0,0.0,Primary,1.0
+22397,ocean grove,2 bedroom houses,460.0,6.0,11.0,56.0,0.0,Primary,3.0
+22398,barwon heads,2 bedroom houses,460.0,2.0,6.0,25.0,0.0,Primary,1.0
+22399,ocean grove,3 bedroom flats,500.0,6.0,11.0,56.0,0.0,Primary,3.0
+22400,barwon heads,3 bedroom flats,500.0,2.0,6.0,25.0,0.0,Primary,1.0
+22401,ocean grove,3 bedroom houses,520.0,6.0,11.0,56.0,0.0,Primary,3.0
+22402,barwon heads,3 bedroom houses,520.0,2.0,6.0,25.0,0.0,Primary,1.0
+22403,ocean grove,4 bedroom houses,605.0,6.0,11.0,56.0,0.0,Primary,3.0
+22404,barwon heads,4 bedroom houses,605.0,2.0,6.0,25.0,0.0,Primary,1.0
+22405,ocean grove,All properties,540.0,6.0,11.0,56.0,0.0,Primary,3.0
+22406,barwon heads,All properties,540.0,2.0,6.0,25.0,0.0,Primary,1.0
+22617,pakenham,1 bedroom flats,275.0,13.0,14.0,27.0,2.0,Pri/Sec,2.0
+22618,pakenham,1 bedroom flats,275.0,13.0,14.0,27.0,2.0,Primary,7.0
+22619,pakenham,1 bedroom flats,275.0,13.0,14.0,27.0,2.0,Secondary,2.0
+22620,pakenham,2 bedroom flats,330.0,13.0,14.0,27.0,2.0,Pri/Sec,2.0
+22621,pakenham,2 bedroom flats,330.0,13.0,14.0,27.0,2.0,Primary,7.0
+22622,pakenham,2 bedroom flats,330.0,13.0,14.0,27.0,2.0,Secondary,2.0
+22623,pakenham,2 bedroom houses,340.0,13.0,14.0,27.0,2.0,Pri/Sec,2.0
+22624,pakenham,2 bedroom houses,340.0,13.0,14.0,27.0,2.0,Primary,7.0
+22625,pakenham,2 bedroom houses,340.0,13.0,14.0,27.0,2.0,Secondary,2.0
+22626,pakenham,3 bedroom flats,360.0,13.0,14.0,27.0,2.0,Pri/Sec,2.0
+22627,pakenham,3 bedroom flats,360.0,13.0,14.0,27.0,2.0,Primary,7.0
+22628,pakenham,3 bedroom flats,360.0,13.0,14.0,27.0,2.0,Secondary,2.0
+22629,pakenham,3 bedroom houses,385.0,13.0,14.0,27.0,2.0,Pri/Sec,2.0
+22630,pakenham,3 bedroom houses,385.0,13.0,14.0,27.0,2.0,Primary,7.0
+22631,pakenham,3 bedroom houses,385.0,13.0,14.0,27.0,2.0,Secondary,2.0
+22632,pakenham,4 bedroom houses,450.0,13.0,14.0,27.0,2.0,Pri/Sec,2.0
+22633,pakenham,4 bedroom houses,450.0,13.0,14.0,27.0,2.0,Primary,7.0
+22634,pakenham,4 bedroom houses,450.0,13.0,14.0,27.0,2.0,Secondary,2.0
+22635,pakenham,All properties,390.0,13.0,14.0,27.0,2.0,Pri/Sec,2.0
+22636,pakenham,All properties,390.0,13.0,14.0,27.0,2.0,Primary,7.0
+22637,pakenham,All properties,390.0,13.0,14.0,27.0,2.0,Secondary,2.0
+22848,pascoe vale,1 bedroom flats,238.0,6.0,7.0,0.0,1.0,Primary,4.0
+22849,pascoe vale,1 bedroom flats,238.0,6.0,7.0,0.0,1.0,Secondary,1.0
+22850,coburg north,1 bedroom flats,238.0,4.0,3.0,0.0,2.0,0,0.0
+22851,pascoe vale,2 bedroom flats,385.0,6.0,7.0,0.0,1.0,Primary,4.0
+22852,pascoe vale,2 bedroom flats,385.0,6.0,7.0,0.0,1.0,Secondary,1.0
+22853,coburg north,2 bedroom flats,385.0,4.0,3.0,0.0,2.0,0,0.0
+22854,pascoe vale,2 bedroom houses,410.0,6.0,7.0,0.0,1.0,Primary,4.0
+22855,pascoe vale,2 bedroom houses,410.0,6.0,7.0,0.0,1.0,Secondary,1.0
+22856,coburg north,2 bedroom houses,410.0,4.0,3.0,0.0,2.0,0,0.0
+22857,pascoe vale,3 bedroom flats,480.0,6.0,7.0,0.0,1.0,Primary,4.0
+22858,pascoe vale,3 bedroom flats,480.0,6.0,7.0,0.0,1.0,Secondary,1.0
+22859,coburg north,3 bedroom flats,480.0,4.0,3.0,0.0,2.0,0,0.0
+22860,pascoe vale,3 bedroom houses,495.0,6.0,7.0,0.0,1.0,Primary,4.0
+22861,pascoe vale,3 bedroom houses,495.0,6.0,7.0,0.0,1.0,Secondary,1.0
+22862,coburg north,3 bedroom houses,495.0,4.0,3.0,0.0,2.0,0,0.0
+22863,pascoe vale,4 bedroom houses,580.0,6.0,7.0,0.0,1.0,Primary,4.0
+22864,pascoe vale,4 bedroom houses,580.0,6.0,7.0,0.0,1.0,Secondary,1.0
+22865,coburg north,4 bedroom houses,580.0,4.0,3.0,0.0,2.0,0,0.0
+22866,pascoe vale,All properties,420.0,6.0,7.0,0.0,1.0,Primary,4.0
+22867,pascoe vale,All properties,420.0,6.0,7.0,0.0,1.0,Secondary,1.0
+22868,coburg north,All properties,420.0,4.0,3.0,0.0,2.0,0,0.0
+23009,port melbourne,1 bedroom flats,420.0,12.0,19.0,0.0,0.0,Primary,1.0
+23010,port melbourne,1 bedroom flats,420.0,12.0,19.0,0.0,0.0,Secondary,1.0
+23011,port melbourne,2 bedroom flats,570.0,12.0,19.0,0.0,0.0,Primary,1.0
+23012,port melbourne,2 bedroom flats,570.0,12.0,19.0,0.0,0.0,Secondary,1.0
+23013,port melbourne,2 bedroom houses,598.0,12.0,19.0,0.0,0.0,Primary,1.0
+23014,port melbourne,2 bedroom houses,598.0,12.0,19.0,0.0,0.0,Secondary,1.0
+23015,port melbourne,3 bedroom flats,887.0,12.0,19.0,0.0,0.0,Primary,1.0
+23016,port melbourne,3 bedroom flats,887.0,12.0,19.0,0.0,0.0,Secondary,1.0
+23017,port melbourne,3 bedroom houses,800.0,12.0,19.0,0.0,0.0,Primary,1.0
+23018,port melbourne,3 bedroom houses,800.0,12.0,19.0,0.0,0.0,Secondary,1.0
+23019,port melbourne,4 bedroom houses,1100.0,12.0,19.0,0.0,0.0,Primary,1.0
+23020,port melbourne,4 bedroom houses,1100.0,12.0,19.0,0.0,0.0,Secondary,1.0
+23021,port melbourne,All properties,600.0,12.0,19.0,0.0,0.0,Primary,1.0
+23022,port melbourne,All properties,600.0,12.0,19.0,0.0,0.0,Secondary,1.0
+23163,portland,1 bedroom flats,250.0,15.0,24.0,58.0,0.0,Primary,5.0
+23164,portland,1 bedroom flats,250.0,15.0,24.0,58.0,0.0,Secondary,2.0
+23165,portland,2 bedroom flats,300.0,15.0,24.0,58.0,0.0,Primary,5.0
+23166,portland,2 bedroom flats,300.0,15.0,24.0,58.0,0.0,Secondary,2.0
+23167,portland,2 bedroom houses,320.0,15.0,24.0,58.0,0.0,Primary,5.0
+23168,portland,2 bedroom houses,320.0,15.0,24.0,58.0,0.0,Secondary,2.0
+23169,portland,3 bedroom flats,0.0,15.0,24.0,58.0,0.0,Primary,5.0
+23170,portland,3 bedroom flats,0.0,15.0,24.0,58.0,0.0,Secondary,2.0
+23171,portland,3 bedroom houses,370.0,15.0,24.0,58.0,0.0,Primary,5.0
+23172,portland,3 bedroom houses,370.0,15.0,24.0,58.0,0.0,Secondary,2.0
+23173,portland,4 bedroom houses,420.0,15.0,24.0,58.0,0.0,Primary,5.0
+23174,portland,4 bedroom houses,420.0,15.0,24.0,58.0,0.0,Secondary,2.0
+23175,portland,All properties,350.0,15.0,24.0,58.0,0.0,Primary,5.0
+23176,portland,All properties,350.0,15.0,24.0,58.0,0.0,Secondary,2.0
+23387,prahran,1 bedroom flats,315.0,7.0,16.0,0.0,1.0,0,0.0
+23388,windsor,1 bedroom flats,315.0,6.0,7.0,0.0,1.0,Primary,1.0
+23389,windsor,1 bedroom flats,315.0,6.0,7.0,0.0,1.0,Secondary,1.0
+23390,prahran,2 bedroom flats,450.0,7.0,16.0,0.0,1.0,0,0.0
+23391,windsor,2 bedroom flats,450.0,6.0,7.0,0.0,1.0,Primary,1.0
+23392,windsor,2 bedroom flats,450.0,6.0,7.0,0.0,1.0,Secondary,1.0
+23393,prahran,2 bedroom houses,623.0,7.0,16.0,0.0,1.0,0,0.0
+23394,windsor,2 bedroom houses,623.0,6.0,7.0,0.0,1.0,Primary,1.0
+23395,windsor,2 bedroom houses,623.0,6.0,7.0,0.0,1.0,Secondary,1.0
+23396,prahran,3 bedroom flats,695.0,7.0,16.0,0.0,1.0,0,0.0
+23397,windsor,3 bedroom flats,695.0,6.0,7.0,0.0,1.0,Primary,1.0
+23398,windsor,3 bedroom flats,695.0,6.0,7.0,0.0,1.0,Secondary,1.0
+23399,prahran,3 bedroom houses,800.0,7.0,16.0,0.0,1.0,0,0.0
+23400,windsor,3 bedroom houses,800.0,6.0,7.0,0.0,1.0,Primary,1.0
+23401,windsor,3 bedroom houses,800.0,6.0,7.0,0.0,1.0,Secondary,1.0
+23402,prahran,4 bedroom houses,1075.0,7.0,16.0,0.0,1.0,0,0.0
+23403,windsor,4 bedroom houses,1075.0,6.0,7.0,0.0,1.0,Primary,1.0
+23404,windsor,4 bedroom houses,1075.0,6.0,7.0,0.0,1.0,Secondary,1.0
+23405,prahran,All properties,410.0,7.0,16.0,0.0,1.0,0,0.0
+23406,windsor,All properties,410.0,6.0,7.0,0.0,1.0,Primary,1.0
+23407,windsor,All properties,410.0,6.0,7.0,0.0,1.0,Secondary,1.0
+23618,preston,1 bedroom flats,310.0,25.0,34.0,0.0,2.0,Pri/Sec,1.0
+23619,preston,1 bedroom flats,310.0,25.0,34.0,0.0,2.0,Primary,6.0
+23620,preston,1 bedroom flats,310.0,25.0,34.0,0.0,2.0,Secondary,2.0
+23621,preston,2 bedroom flats,390.0,25.0,34.0,0.0,2.0,Pri/Sec,1.0
+23622,preston,2 bedroom flats,390.0,25.0,34.0,0.0,2.0,Primary,6.0
+23623,preston,2 bedroom flats,390.0,25.0,34.0,0.0,2.0,Secondary,2.0
+23624,preston,2 bedroom houses,450.0,25.0,34.0,0.0,2.0,Pri/Sec,1.0
+23625,preston,2 bedroom houses,450.0,25.0,34.0,0.0,2.0,Primary,6.0
+23626,preston,2 bedroom houses,450.0,25.0,34.0,0.0,2.0,Secondary,2.0
+23627,preston,3 bedroom flats,500.0,25.0,34.0,0.0,2.0,Pri/Sec,1.0
+23628,preston,3 bedroom flats,500.0,25.0,34.0,0.0,2.0,Primary,6.0
+23629,preston,3 bedroom flats,500.0,25.0,34.0,0.0,2.0,Secondary,2.0
+23630,preston,3 bedroom houses,520.0,25.0,34.0,0.0,2.0,Pri/Sec,1.0
+23631,preston,3 bedroom houses,520.0,25.0,34.0,0.0,2.0,Primary,6.0
+23632,preston,3 bedroom houses,520.0,25.0,34.0,0.0,2.0,Secondary,2.0
+23633,preston,4 bedroom houses,615.0,25.0,34.0,0.0,2.0,Pri/Sec,1.0
+23634,preston,4 bedroom houses,615.0,25.0,34.0,0.0,2.0,Primary,6.0
+23635,preston,4 bedroom houses,615.0,25.0,34.0,0.0,2.0,Secondary,2.0
+23636,preston,All properties,410.0,25.0,34.0,0.0,2.0,Pri/Sec,1.0
+23637,preston,All properties,410.0,25.0,34.0,0.0,2.0,Primary,6.0
+23638,preston,All properties,410.0,25.0,34.0,0.0,2.0,Secondary,2.0
+23779,reservoir,1 bedroom flats,300.0,14.0,20.0,0.0,3.0,Primary,7.0
+23780,reservoir,1 bedroom flats,300.0,14.0,20.0,0.0,3.0,Secondary,2.0
+23781,reservoir,2 bedroom flats,360.0,14.0,20.0,0.0,3.0,Primary,7.0
+23782,reservoir,2 bedroom flats,360.0,14.0,20.0,0.0,3.0,Secondary,2.0
+23783,reservoir,2 bedroom houses,360.0,14.0,20.0,0.0,3.0,Primary,7.0
+23784,reservoir,2 bedroom houses,360.0,14.0,20.0,0.0,3.0,Secondary,2.0
+23785,reservoir,3 bedroom flats,445.0,14.0,20.0,0.0,3.0,Primary,7.0
+23786,reservoir,3 bedroom flats,445.0,14.0,20.0,0.0,3.0,Secondary,2.0
+23787,reservoir,3 bedroom houses,420.0,14.0,20.0,0.0,3.0,Primary,7.0
+23788,reservoir,3 bedroom houses,420.0,14.0,20.0,0.0,3.0,Secondary,2.0
+23789,reservoir,4 bedroom houses,485.0,14.0,20.0,0.0,3.0,Primary,7.0
+23790,reservoir,4 bedroom houses,485.0,14.0,20.0,0.0,3.0,Secondary,2.0
+23791,reservoir,All properties,380.0,14.0,20.0,0.0,3.0,Primary,7.0
+23792,reservoir,All properties,380.0,14.0,20.0,0.0,3.0,Secondary,2.0
+24003,richmond,1 bedroom flats,360.0,33.0,63.0,0.0,4.0,Primary,4.0
+24004,richmond,1 bedroom flats,360.0,33.0,63.0,0.0,4.0,Secondary,4.0
+24005,burnley,1 bedroom flats,360.0,1.0,2.0,0.0,1.0,0,0.0
+24006,richmond,2 bedroom flats,495.0,33.0,63.0,0.0,4.0,Primary,4.0
+24007,richmond,2 bedroom flats,495.0,33.0,63.0,0.0,4.0,Secondary,4.0
+24008,burnley,2 bedroom flats,495.0,1.0,2.0,0.0,1.0,0,0.0
+24009,richmond,2 bedroom houses,615.0,33.0,63.0,0.0,4.0,Primary,4.0
+24010,richmond,2 bedroom houses,615.0,33.0,63.0,0.0,4.0,Secondary,4.0
+24011,burnley,2 bedroom houses,615.0,1.0,2.0,0.0,1.0,0,0.0
+24012,richmond,3 bedroom flats,770.0,33.0,63.0,0.0,4.0,Primary,4.0
+24013,richmond,3 bedroom flats,770.0,33.0,63.0,0.0,4.0,Secondary,4.0
+24014,burnley,3 bedroom flats,770.0,1.0,2.0,0.0,1.0,0,0.0
+24015,richmond,3 bedroom houses,800.0,33.0,63.0,0.0,4.0,Primary,4.0
+24016,richmond,3 bedroom houses,800.0,33.0,63.0,0.0,4.0,Secondary,4.0
+24017,burnley,3 bedroom houses,800.0,1.0,2.0,0.0,1.0,0,0.0
+24018,richmond,4 bedroom houses,1050.0,33.0,63.0,0.0,4.0,Primary,4.0
+24019,richmond,4 bedroom houses,1050.0,33.0,63.0,0.0,4.0,Secondary,4.0
+24020,burnley,4 bedroom houses,1050.0,1.0,2.0,0.0,1.0,0,0.0
+24021,richmond,All properties,475.0,33.0,63.0,0.0,4.0,Primary,4.0
+24022,richmond,All properties,475.0,33.0,63.0,0.0,4.0,Secondary,4.0
+24023,burnley,All properties,475.0,1.0,2.0,0.0,1.0,0,0.0
+24234,ringwood,1 bedroom flats,350.0,18.0,20.0,0.0,2.0,Pri/Sec,1.0
+24235,ringwood,1 bedroom flats,350.0,18.0,20.0,0.0,2.0,Primary,3.0
+24236,ringwood,1 bedroom flats,350.0,18.0,20.0,0.0,2.0,Secondary,3.0
+24237,ringwood,2 bedroom flats,390.0,18.0,20.0,0.0,2.0,Pri/Sec,1.0
+24238,ringwood,2 bedroom flats,390.0,18.0,20.0,0.0,2.0,Primary,3.0
+24239,ringwood,2 bedroom flats,390.0,18.0,20.0,0.0,2.0,Secondary,3.0
+24240,ringwood,2 bedroom houses,400.0,18.0,20.0,0.0,2.0,Pri/Sec,1.0
+24241,ringwood,2 bedroom houses,400.0,18.0,20.0,0.0,2.0,Primary,3.0
+24242,ringwood,2 bedroom houses,400.0,18.0,20.0,0.0,2.0,Secondary,3.0
+24243,ringwood,3 bedroom flats,480.0,18.0,20.0,0.0,2.0,Pri/Sec,1.0
+24244,ringwood,3 bedroom flats,480.0,18.0,20.0,0.0,2.0,Primary,3.0
+24245,ringwood,3 bedroom flats,480.0,18.0,20.0,0.0,2.0,Secondary,3.0
+24246,ringwood,3 bedroom houses,460.0,18.0,20.0,0.0,2.0,Pri/Sec,1.0
+24247,ringwood,3 bedroom houses,460.0,18.0,20.0,0.0,2.0,Primary,3.0
+24248,ringwood,3 bedroom houses,460.0,18.0,20.0,0.0,2.0,Secondary,3.0
+24249,ringwood,4 bedroom houses,568.0,18.0,20.0,0.0,2.0,Pri/Sec,1.0
+24250,ringwood,4 bedroom houses,568.0,18.0,20.0,0.0,2.0,Primary,3.0
+24251,ringwood,4 bedroom houses,568.0,18.0,20.0,0.0,2.0,Secondary,3.0
+24252,ringwood,All properties,420.0,18.0,20.0,0.0,2.0,Pri/Sec,1.0
+24253,ringwood,All properties,420.0,18.0,20.0,0.0,2.0,Primary,3.0
+24254,ringwood,All properties,420.0,18.0,20.0,0.0,2.0,Secondary,3.0
+24395,rowville,1 bedroom flats,0.0,9.0,19.0,0.0,0.0,Primary,5.0
+24396,rowville,1 bedroom flats,0.0,9.0,19.0,0.0,0.0,Secondary,1.0
+24397,rowville,2 bedroom flats,398.0,9.0,19.0,0.0,0.0,Primary,5.0
+24398,rowville,2 bedroom flats,398.0,9.0,19.0,0.0,0.0,Secondary,1.0
+24399,rowville,2 bedroom houses,0.0,9.0,19.0,0.0,0.0,Primary,5.0
+24400,rowville,2 bedroom houses,0.0,9.0,19.0,0.0,0.0,Secondary,1.0
+24401,rowville,3 bedroom flats,450.0,9.0,19.0,0.0,0.0,Primary,5.0
+24402,rowville,3 bedroom flats,450.0,9.0,19.0,0.0,0.0,Secondary,1.0
+24403,rowville,3 bedroom houses,480.0,9.0,19.0,0.0,0.0,Primary,5.0
+24404,rowville,3 bedroom houses,480.0,9.0,19.0,0.0,0.0,Secondary,1.0
+24405,rowville,4 bedroom houses,550.0,9.0,19.0,0.0,0.0,Primary,5.0
+24406,rowville,4 bedroom houses,550.0,9.0,19.0,0.0,0.0,Secondary,1.0
+24407,rowville,All properties,490.0,9.0,19.0,0.0,0.0,Primary,5.0
+24408,rowville,All properties,490.0,9.0,19.0,0.0,0.0,Secondary,1.0
+24759,sale,1 bedroom flats,230.0,11.0,14.0,68.0,0.0,Pri/Sec,1.0
+24760,sale,1 bedroom flats,230.0,11.0,14.0,68.0,0.0,Primary,5.0
+24761,sale,1 bedroom flats,230.0,11.0,14.0,68.0,0.0,Secondary,2.0
+24762,maffra,1 bedroom flats,230.0,5.0,8.0,14.0,0.0,Primary,2.0
+24763,maffra,1 bedroom flats,230.0,5.0,8.0,14.0,0.0,Secondary,1.0
+24764,sale,2 bedroom flats,320.0,11.0,14.0,68.0,0.0,Pri/Sec,1.0
+24765,sale,2 bedroom flats,320.0,11.0,14.0,68.0,0.0,Primary,5.0
+24766,sale,2 bedroom flats,320.0,11.0,14.0,68.0,0.0,Secondary,2.0
+24767,maffra,2 bedroom flats,320.0,5.0,8.0,14.0,0.0,Primary,2.0
+24768,maffra,2 bedroom flats,320.0,5.0,8.0,14.0,0.0,Secondary,1.0
+24769,sale,2 bedroom houses,320.0,11.0,14.0,68.0,0.0,Pri/Sec,1.0
+24770,sale,2 bedroom houses,320.0,11.0,14.0,68.0,0.0,Primary,5.0
+24771,sale,2 bedroom houses,320.0,11.0,14.0,68.0,0.0,Secondary,2.0
+24772,maffra,2 bedroom houses,320.0,5.0,8.0,14.0,0.0,Primary,2.0
+24773,maffra,2 bedroom houses,320.0,5.0,8.0,14.0,0.0,Secondary,1.0
+24774,sale,3 bedroom flats,390.0,11.0,14.0,68.0,0.0,Pri/Sec,1.0
+24775,sale,3 bedroom flats,390.0,11.0,14.0,68.0,0.0,Primary,5.0
+24776,sale,3 bedroom flats,390.0,11.0,14.0,68.0,0.0,Secondary,2.0
+24777,maffra,3 bedroom flats,390.0,5.0,8.0,14.0,0.0,Primary,2.0
+24778,maffra,3 bedroom flats,390.0,5.0,8.0,14.0,0.0,Secondary,1.0
+24779,sale,3 bedroom houses,380.0,11.0,14.0,68.0,0.0,Pri/Sec,1.0
+24780,sale,3 bedroom houses,380.0,11.0,14.0,68.0,0.0,Primary,5.0
+24781,sale,3 bedroom houses,380.0,11.0,14.0,68.0,0.0,Secondary,2.0
+24782,maffra,3 bedroom houses,380.0,5.0,8.0,14.0,0.0,Primary,2.0
+24783,maffra,3 bedroom houses,380.0,5.0,8.0,14.0,0.0,Secondary,1.0
+24784,sale,4 bedroom houses,450.0,11.0,14.0,68.0,0.0,Pri/Sec,1.0
+24785,sale,4 bedroom houses,450.0,11.0,14.0,68.0,0.0,Primary,5.0
+24786,sale,4 bedroom houses,450.0,11.0,14.0,68.0,0.0,Secondary,2.0
+24787,maffra,4 bedroom houses,450.0,5.0,8.0,14.0,0.0,Primary,2.0
+24788,maffra,4 bedroom houses,450.0,5.0,8.0,14.0,0.0,Secondary,1.0
+24789,sale,All properties,380.0,11.0,14.0,68.0,0.0,Pri/Sec,1.0
+24790,sale,All properties,380.0,11.0,14.0,68.0,0.0,Primary,5.0
+24791,sale,All properties,380.0,11.0,14.0,68.0,0.0,Secondary,2.0
+24792,maffra,All properties,380.0,5.0,8.0,14.0,0.0,Primary,2.0
+24793,maffra,All properties,380.0,5.0,8.0,14.0,0.0,Secondary,1.0
+25074,seaford,1 bedroom flats,280.0,11.0,18.0,0.0,2.0,Primary,6.0
+25075,seaford,1 bedroom flats,280.0,11.0,18.0,0.0,2.0,Secondary,1.0
+25076,carrum downs,1 bedroom flats,280.0,12.0,13.0,0.0,0.0,Primary,3.0
+25077,carrum downs,1 bedroom flats,280.0,12.0,13.0,0.0,0.0,Secondary,1.0
+25078,seaford,2 bedroom flats,368.0,11.0,18.0,0.0,2.0,Primary,6.0
+25079,seaford,2 bedroom flats,368.0,11.0,18.0,0.0,2.0,Secondary,1.0
+25080,carrum downs,2 bedroom flats,368.0,12.0,13.0,0.0,0.0,Primary,3.0
+25081,carrum downs,2 bedroom flats,368.0,12.0,13.0,0.0,0.0,Secondary,1.0
+25082,seaford,2 bedroom houses,390.0,11.0,18.0,0.0,2.0,Primary,6.0
+25083,seaford,2 bedroom houses,390.0,11.0,18.0,0.0,2.0,Secondary,1.0
+25084,carrum downs,2 bedroom houses,390.0,12.0,13.0,0.0,0.0,Primary,3.0
+25085,carrum downs,2 bedroom houses,390.0,12.0,13.0,0.0,0.0,Secondary,1.0
+25086,seaford,3 bedroom flats,439.0,11.0,18.0,0.0,2.0,Primary,6.0
+25087,seaford,3 bedroom flats,439.0,11.0,18.0,0.0,2.0,Secondary,1.0
+25088,carrum downs,3 bedroom flats,439.0,12.0,13.0,0.0,0.0,Primary,3.0
+25089,carrum downs,3 bedroom flats,439.0,12.0,13.0,0.0,0.0,Secondary,1.0
+25090,seaford,3 bedroom houses,430.0,11.0,18.0,0.0,2.0,Primary,6.0
+25091,seaford,3 bedroom houses,430.0,11.0,18.0,0.0,2.0,Secondary,1.0
+25092,carrum downs,3 bedroom houses,430.0,12.0,13.0,0.0,0.0,Primary,3.0
+25093,carrum downs,3 bedroom houses,430.0,12.0,13.0,0.0,0.0,Secondary,1.0
+25094,seaford,4 bedroom houses,520.0,11.0,18.0,0.0,2.0,Primary,6.0
+25095,seaford,4 bedroom houses,520.0,11.0,18.0,0.0,2.0,Secondary,1.0
+25096,carrum downs,4 bedroom houses,520.0,12.0,13.0,0.0,0.0,Primary,3.0
+25097,carrum downs,4 bedroom houses,520.0,12.0,13.0,0.0,0.0,Secondary,1.0
+25098,seaford,All properties,420.0,11.0,18.0,0.0,2.0,Primary,6.0
+25099,seaford,All properties,420.0,11.0,18.0,0.0,2.0,Secondary,1.0
+25100,carrum downs,All properties,420.0,12.0,13.0,0.0,0.0,Primary,3.0
+25101,carrum downs,All properties,420.0,12.0,13.0,0.0,0.0,Secondary,1.0
+25312,sebastopol,1 bedroom flats,210.0,5.0,6.0,42.0,0.0,Pri/Sec,2.0
+25313,sebastopol,1 bedroom flats,210.0,5.0,6.0,42.0,0.0,Primary,2.0
+25314,delacombe,1 bedroom flats,210.0,1.0,1.0,33.0,0.0,Primary,2.0
+25315,sebastopol,2 bedroom flats,283.0,5.0,6.0,42.0,0.0,Pri/Sec,2.0
+25316,sebastopol,2 bedroom flats,283.0,5.0,6.0,42.0,0.0,Primary,2.0
+25317,delacombe,2 bedroom flats,283.0,1.0,1.0,33.0,0.0,Primary,2.0
+25318,sebastopol,2 bedroom houses,300.0,5.0,6.0,42.0,0.0,Pri/Sec,2.0
+25319,sebastopol,2 bedroom houses,300.0,5.0,6.0,42.0,0.0,Primary,2.0
+25320,delacombe,2 bedroom houses,300.0,1.0,1.0,33.0,0.0,Primary,2.0
+25321,sebastopol,3 bedroom flats,330.0,5.0,6.0,42.0,0.0,Pri/Sec,2.0
+25322,sebastopol,3 bedroom flats,330.0,5.0,6.0,42.0,0.0,Primary,2.0
+25323,delacombe,3 bedroom flats,330.0,1.0,1.0,33.0,0.0,Primary,2.0
+25324,sebastopol,3 bedroom houses,350.0,5.0,6.0,42.0,0.0,Pri/Sec,2.0
+25325,sebastopol,3 bedroom houses,350.0,5.0,6.0,42.0,0.0,Primary,2.0
+25326,delacombe,3 bedroom houses,350.0,1.0,1.0,33.0,0.0,Primary,2.0
+25327,sebastopol,4 bedroom houses,420.0,5.0,6.0,42.0,0.0,Pri/Sec,2.0
+25328,sebastopol,4 bedroom houses,420.0,5.0,6.0,42.0,0.0,Primary,2.0
+25329,delacombe,4 bedroom houses,420.0,1.0,1.0,33.0,0.0,Primary,2.0
+25330,sebastopol,All properties,370.0,5.0,6.0,42.0,0.0,Pri/Sec,2.0
+25331,sebastopol,All properties,370.0,5.0,6.0,42.0,0.0,Primary,2.0
+25332,delacombe,All properties,370.0,1.0,1.0,33.0,0.0,Primary,2.0
+25403,seymour,1 bedroom flats,190.0,9.0,11.0,56.0,0.0,Pri/Sec,2.0
+25404,seymour,2 bedroom flats,283.0,9.0,11.0,56.0,0.0,Pri/Sec,2.0
+25405,seymour,2 bedroom houses,350.0,9.0,11.0,56.0,0.0,Pri/Sec,2.0
+25406,seymour,3 bedroom flats,0.0,9.0,11.0,56.0,0.0,Pri/Sec,2.0
+25407,seymour,3 bedroom houses,360.0,9.0,11.0,56.0,0.0,Pri/Sec,2.0
+25408,seymour,4 bedroom houses,440.0,9.0,11.0,56.0,0.0,Pri/Sec,2.0
+25409,seymour,All properties,350.0,9.0,11.0,56.0,0.0,Pri/Sec,2.0
+25620,shepparton,1 bedroom flats,220.0,27.0,55.0,286.0,0.0,Pri/Sec,2.0
+25621,shepparton,1 bedroom flats,220.0,27.0,55.0,286.0,0.0,Primary,6.0
+25622,shepparton,1 bedroom flats,220.0,27.0,55.0,286.0,0.0,Secondary,3.0
+25623,shepparton,2 bedroom flats,280.0,27.0,55.0,286.0,0.0,Pri/Sec,2.0
+25624,shepparton,2 bedroom flats,280.0,27.0,55.0,286.0,0.0,Primary,6.0
+25625,shepparton,2 bedroom flats,280.0,27.0,55.0,286.0,0.0,Secondary,3.0
+25626,shepparton,2 bedroom houses,300.0,27.0,55.0,286.0,0.0,Pri/Sec,2.0
+25627,shepparton,2 bedroom houses,300.0,27.0,55.0,286.0,0.0,Primary,6.0
+25628,shepparton,2 bedroom houses,300.0,27.0,55.0,286.0,0.0,Secondary,3.0
+25629,shepparton,3 bedroom flats,360.0,27.0,55.0,286.0,0.0,Pri/Sec,2.0
+25630,shepparton,3 bedroom flats,360.0,27.0,55.0,286.0,0.0,Primary,6.0
+25631,shepparton,3 bedroom flats,360.0,27.0,55.0,286.0,0.0,Secondary,3.0
+25632,shepparton,3 bedroom houses,360.0,27.0,55.0,286.0,0.0,Pri/Sec,2.0
+25633,shepparton,3 bedroom houses,360.0,27.0,55.0,286.0,0.0,Primary,6.0
+25634,shepparton,3 bedroom houses,360.0,27.0,55.0,286.0,0.0,Secondary,3.0
+25635,shepparton,4 bedroom houses,450.0,27.0,55.0,286.0,0.0,Pri/Sec,2.0
+25636,shepparton,4 bedroom houses,450.0,27.0,55.0,286.0,0.0,Primary,6.0
+25637,shepparton,4 bedroom houses,450.0,27.0,55.0,286.0,0.0,Secondary,3.0
+25638,shepparton,All properties,350.0,27.0,55.0,286.0,0.0,Pri/Sec,2.0
+25639,shepparton,All properties,350.0,27.0,55.0,286.0,0.0,Primary,6.0
+25640,shepparton,All properties,350.0,27.0,55.0,286.0,0.0,Secondary,3.0
+25781,south melbourne,1 bedroom flats,360.0,31.0,59.0,0.0,0.0,Primary,1.0
+25782,south melbourne,1 bedroom flats,360.0,31.0,59.0,0.0,0.0,Secondary,1.0
+25783,south melbourne,2 bedroom flats,500.0,31.0,59.0,0.0,0.0,Primary,1.0
+25784,south melbourne,2 bedroom flats,500.0,31.0,59.0,0.0,0.0,Secondary,1.0
+25785,south melbourne,2 bedroom houses,600.0,31.0,59.0,0.0,0.0,Primary,1.0
+25786,south melbourne,2 bedroom houses,600.0,31.0,59.0,0.0,0.0,Secondary,1.0
+25787,south melbourne,3 bedroom flats,660.0,31.0,59.0,0.0,0.0,Primary,1.0
+25788,south melbourne,3 bedroom flats,660.0,31.0,59.0,0.0,0.0,Secondary,1.0
+25789,south melbourne,3 bedroom houses,833.0,31.0,59.0,0.0,0.0,Primary,1.0
+25790,south melbourne,3 bedroom houses,833.0,31.0,59.0,0.0,0.0,Secondary,1.0
+25791,south melbourne,4 bedroom houses,0.0,31.0,59.0,0.0,0.0,Primary,1.0
+25792,south melbourne,4 bedroom houses,0.0,31.0,59.0,0.0,0.0,Secondary,1.0
+25793,south melbourne,All properties,460.0,31.0,59.0,0.0,0.0,Primary,1.0
+25794,south melbourne,All properties,460.0,31.0,59.0,0.0,0.0,Secondary,1.0
+26005,south yarra,1 bedroom flats,350.0,16.0,26.0,0.0,2.0,Pri/Sec,1.0
+26006,south yarra,1 bedroom flats,350.0,16.0,26.0,0.0,2.0,Primary,2.0
+26007,south yarra,1 bedroom flats,350.0,16.0,26.0,0.0,2.0,Secondary,2.0
+26008,south yarra,2 bedroom flats,500.0,16.0,26.0,0.0,2.0,Pri/Sec,1.0
+26009,south yarra,2 bedroom flats,500.0,16.0,26.0,0.0,2.0,Primary,2.0
+26010,south yarra,2 bedroom flats,500.0,16.0,26.0,0.0,2.0,Secondary,2.0
+26011,south yarra,2 bedroom houses,650.0,16.0,26.0,0.0,2.0,Pri/Sec,1.0
+26012,south yarra,2 bedroom houses,650.0,16.0,26.0,0.0,2.0,Primary,2.0
+26013,south yarra,2 bedroom houses,650.0,16.0,26.0,0.0,2.0,Secondary,2.0
+26014,south yarra,3 bedroom flats,800.0,16.0,26.0,0.0,2.0,Pri/Sec,1.0
+26015,south yarra,3 bedroom flats,800.0,16.0,26.0,0.0,2.0,Primary,2.0
+26016,south yarra,3 bedroom flats,800.0,16.0,26.0,0.0,2.0,Secondary,2.0
+26017,south yarra,3 bedroom houses,895.0,16.0,26.0,0.0,2.0,Pri/Sec,1.0
+26018,south yarra,3 bedroom houses,895.0,16.0,26.0,0.0,2.0,Primary,2.0
+26019,south yarra,3 bedroom houses,895.0,16.0,26.0,0.0,2.0,Secondary,2.0
+26020,south yarra,4 bedroom houses,1150.0,16.0,26.0,0.0,2.0,Pri/Sec,1.0
+26021,south yarra,4 bedroom houses,1150.0,16.0,26.0,0.0,2.0,Primary,2.0
+26022,south yarra,4 bedroom houses,1150.0,16.0,26.0,0.0,2.0,Secondary,2.0
+26023,south yarra,All properties,410.0,16.0,26.0,0.0,2.0,Pri/Sec,1.0
+26024,south yarra,All properties,410.0,16.0,26.0,0.0,2.0,Primary,2.0
+26025,south yarra,All properties,410.0,16.0,26.0,0.0,2.0,Secondary,2.0
+26166,southbank,1 bedroom flats,360.0,25.0,42.0,0.0,0.0,Primary,1.0
+26167,southbank,1 bedroom flats,360.0,25.0,42.0,0.0,0.0,Secondary,1.0
+26168,southbank,2 bedroom flats,470.0,25.0,42.0,0.0,0.0,Primary,1.0
+26169,southbank,2 bedroom flats,470.0,25.0,42.0,0.0,0.0,Secondary,1.0
+26170,southbank,2 bedroom houses,0.0,25.0,42.0,0.0,0.0,Primary,1.0
+26171,southbank,2 bedroom houses,0.0,25.0,42.0,0.0,0.0,Secondary,1.0
+26172,southbank,3 bedroom flats,680.0,25.0,42.0,0.0,0.0,Primary,1.0
+26173,southbank,3 bedroom flats,680.0,25.0,42.0,0.0,0.0,Secondary,1.0
+26174,southbank,3 bedroom houses,0.0,25.0,42.0,0.0,0.0,Primary,1.0
+26175,southbank,3 bedroom houses,0.0,25.0,42.0,0.0,0.0,Secondary,1.0
+26176,southbank,4 bedroom houses,0.0,25.0,42.0,0.0,0.0,Primary,1.0
+26177,southbank,4 bedroom houses,0.0,25.0,42.0,0.0,0.0,Secondary,1.0
+26178,southbank,All properties,440.0,25.0,42.0,0.0,0.0,Primary,1.0
+26179,southbank,All properties,440.0,25.0,42.0,0.0,0.0,Secondary,1.0
+26390,springvale,1 bedroom flats,270.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+26391,springvale,1 bedroom flats,270.0,15.0,20.0,0.0,2.0,Primary,4.0
+26392,springvale,1 bedroom flats,270.0,15.0,20.0,0.0,2.0,Secondary,1.0
+26393,springvale,2 bedroom flats,360.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+26394,springvale,2 bedroom flats,360.0,15.0,20.0,0.0,2.0,Primary,4.0
+26395,springvale,2 bedroom flats,360.0,15.0,20.0,0.0,2.0,Secondary,1.0
+26396,springvale,2 bedroom houses,390.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+26397,springvale,2 bedroom houses,390.0,15.0,20.0,0.0,2.0,Primary,4.0
+26398,springvale,2 bedroom houses,390.0,15.0,20.0,0.0,2.0,Secondary,1.0
+26399,springvale,3 bedroom flats,450.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+26400,springvale,3 bedroom flats,450.0,15.0,20.0,0.0,2.0,Primary,4.0
+26401,springvale,3 bedroom flats,450.0,15.0,20.0,0.0,2.0,Secondary,1.0
+26402,springvale,3 bedroom houses,410.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+26403,springvale,3 bedroom houses,410.0,15.0,20.0,0.0,2.0,Primary,4.0
+26404,springvale,3 bedroom houses,410.0,15.0,20.0,0.0,2.0,Secondary,1.0
+26405,springvale,4 bedroom houses,485.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+26406,springvale,4 bedroom houses,485.0,15.0,20.0,0.0,2.0,Primary,4.0
+26407,springvale,4 bedroom houses,485.0,15.0,20.0,0.0,2.0,Secondary,1.0
+26408,springvale,All properties,400.0,15.0,20.0,0.0,2.0,Pri/Sec,1.0
+26409,springvale,All properties,400.0,15.0,20.0,0.0,2.0,Primary,4.0
+26410,springvale,All properties,400.0,15.0,20.0,0.0,2.0,Secondary,1.0
+26621,st albans,1 bedroom flats,290.0,20.0,30.0,0.0,3.0,Primary,9.0
+26622,st albans,1 bedroom flats,290.0,20.0,30.0,0.0,3.0,Secondary,2.0
+26623,deer park,1 bedroom flats,290.0,7.0,9.0,1.0,0.0,Primary,3.0
+26624,st albans,2 bedroom flats,320.0,20.0,30.0,0.0,3.0,Primary,9.0
+26625,st albans,2 bedroom flats,320.0,20.0,30.0,0.0,3.0,Secondary,2.0
+26626,deer park,2 bedroom flats,320.0,7.0,9.0,1.0,0.0,Primary,3.0
+26627,st albans,2 bedroom houses,330.0,20.0,30.0,0.0,3.0,Primary,9.0
+26628,st albans,2 bedroom houses,330.0,20.0,30.0,0.0,3.0,Secondary,2.0
+26629,deer park,2 bedroom houses,330.0,7.0,9.0,1.0,0.0,Primary,3.0
+26630,st albans,3 bedroom flats,360.0,20.0,30.0,0.0,3.0,Primary,9.0
+26631,st albans,3 bedroom flats,360.0,20.0,30.0,0.0,3.0,Secondary,2.0
+26632,deer park,3 bedroom flats,360.0,7.0,9.0,1.0,0.0,Primary,3.0
+26633,st albans,3 bedroom houses,360.0,20.0,30.0,0.0,3.0,Primary,9.0
+26634,st albans,3 bedroom houses,360.0,20.0,30.0,0.0,3.0,Secondary,2.0
+26635,deer park,3 bedroom houses,360.0,7.0,9.0,1.0,0.0,Primary,3.0
+26636,st albans,4 bedroom houses,420.0,20.0,30.0,0.0,3.0,Primary,9.0
+26637,st albans,4 bedroom houses,420.0,20.0,30.0,0.0,3.0,Secondary,2.0
+26638,deer park,4 bedroom houses,420.0,7.0,9.0,1.0,0.0,Primary,3.0
+26639,st albans,All properties,360.0,20.0,30.0,0.0,3.0,Primary,9.0
+26640,st albans,All properties,360.0,20.0,30.0,0.0,3.0,Secondary,2.0
+26641,deer park,All properties,360.0,7.0,9.0,1.0,0.0,Primary,3.0
+26782,st kilda,1 bedroom flats,320.0,26.0,59.0,0.0,0.0,Pri/Sec,2.0
+26783,st kilda,1 bedroom flats,320.0,26.0,59.0,0.0,0.0,Primary,2.0
+26784,st kilda,2 bedroom flats,445.0,26.0,59.0,0.0,0.0,Pri/Sec,2.0
+26785,st kilda,2 bedroom flats,445.0,26.0,59.0,0.0,0.0,Primary,2.0
+26786,st kilda,2 bedroom houses,593.0,26.0,59.0,0.0,0.0,Pri/Sec,2.0
+26787,st kilda,2 bedroom houses,593.0,26.0,59.0,0.0,0.0,Primary,2.0
+26788,st kilda,3 bedroom flats,590.0,26.0,59.0,0.0,0.0,Pri/Sec,2.0
+26789,st kilda,3 bedroom flats,590.0,26.0,59.0,0.0,0.0,Primary,2.0
+26790,st kilda,3 bedroom houses,750.0,26.0,59.0,0.0,0.0,Pri/Sec,2.0
+26791,st kilda,3 bedroom houses,750.0,26.0,59.0,0.0,0.0,Primary,2.0
+26792,st kilda,4 bedroom houses,1045.0,26.0,59.0,0.0,0.0,Pri/Sec,2.0
+26793,st kilda,4 bedroom houses,1045.0,26.0,59.0,0.0,0.0,Primary,2.0
+26794,st kilda,All properties,380.0,26.0,59.0,0.0,0.0,Pri/Sec,2.0
+26795,st kilda,All properties,380.0,26.0,59.0,0.0,0.0,Primary,2.0
+27006,sunbury,1 bedroom flats,265.0,19.0,22.0,1.0,1.0,Pri/Sec,1.0
+27007,sunbury,1 bedroom flats,265.0,19.0,22.0,1.0,1.0,Primary,9.0
+27008,sunbury,1 bedroom flats,265.0,19.0,22.0,1.0,1.0,Secondary,3.0
+27009,sunbury,2 bedroom flats,360.0,19.0,22.0,1.0,1.0,Pri/Sec,1.0
+27010,sunbury,2 bedroom flats,360.0,19.0,22.0,1.0,1.0,Primary,9.0
+27011,sunbury,2 bedroom flats,360.0,19.0,22.0,1.0,1.0,Secondary,3.0
+27012,sunbury,2 bedroom houses,360.0,19.0,22.0,1.0,1.0,Pri/Sec,1.0
+27013,sunbury,2 bedroom houses,360.0,19.0,22.0,1.0,1.0,Primary,9.0
+27014,sunbury,2 bedroom houses,360.0,19.0,22.0,1.0,1.0,Secondary,3.0
+27015,sunbury,3 bedroom flats,380.0,19.0,22.0,1.0,1.0,Pri/Sec,1.0
+27016,sunbury,3 bedroom flats,380.0,19.0,22.0,1.0,1.0,Primary,9.0
+27017,sunbury,3 bedroom flats,380.0,19.0,22.0,1.0,1.0,Secondary,3.0
+27018,sunbury,3 bedroom houses,390.0,19.0,22.0,1.0,1.0,Pri/Sec,1.0
+27019,sunbury,3 bedroom houses,390.0,19.0,22.0,1.0,1.0,Primary,9.0
+27020,sunbury,3 bedroom houses,390.0,19.0,22.0,1.0,1.0,Secondary,3.0
+27021,sunbury,4 bedroom houses,460.0,19.0,22.0,1.0,1.0,Pri/Sec,1.0
+27022,sunbury,4 bedroom houses,460.0,19.0,22.0,1.0,1.0,Primary,9.0
+27023,sunbury,4 bedroom houses,460.0,19.0,22.0,1.0,1.0,Secondary,3.0
+27024,sunbury,All properties,400.0,19.0,22.0,1.0,1.0,Pri/Sec,1.0
+27025,sunbury,All properties,400.0,19.0,22.0,1.0,1.0,Primary,9.0
+27026,sunbury,All properties,400.0,19.0,22.0,1.0,1.0,Secondary,3.0
+27097,sunshine,1 bedroom flats,240.0,15.0,26.0,0.0,1.0,Primary,4.0
+27098,sunshine,2 bedroom flats,325.0,15.0,26.0,0.0,1.0,Primary,4.0
+27099,sunshine,2 bedroom houses,350.0,15.0,26.0,0.0,1.0,Primary,4.0
+27100,sunshine,3 bedroom flats,380.0,15.0,26.0,0.0,1.0,Primary,4.0
+27101,sunshine,3 bedroom houses,365.0,15.0,26.0,0.0,1.0,Primary,4.0
+27102,sunshine,4 bedroom houses,440.0,15.0,26.0,0.0,1.0,Primary,4.0
+27103,sunshine,All properties,360.0,15.0,26.0,0.0,1.0,Primary,4.0
+27244,swan hill,1 bedroom flats,170.0,9.0,18.0,48.0,0.0,Primary,4.0
+27245,swan hill,1 bedroom flats,170.0,9.0,18.0,48.0,0.0,Secondary,2.0
+27246,swan hill,2 bedroom flats,270.0,9.0,18.0,48.0,0.0,Primary,4.0
+27247,swan hill,2 bedroom flats,270.0,9.0,18.0,48.0,0.0,Secondary,2.0
+27248,swan hill,2 bedroom houses,300.0,9.0,18.0,48.0,0.0,Primary,4.0
+27249,swan hill,2 bedroom houses,300.0,9.0,18.0,48.0,0.0,Secondary,2.0
+27250,swan hill,3 bedroom flats,363.0,9.0,18.0,48.0,0.0,Primary,4.0
+27251,swan hill,3 bedroom flats,363.0,9.0,18.0,48.0,0.0,Secondary,2.0
+27252,swan hill,3 bedroom houses,340.0,9.0,18.0,48.0,0.0,Primary,4.0
+27253,swan hill,3 bedroom houses,340.0,9.0,18.0,48.0,0.0,Secondary,2.0
+27254,swan hill,4 bedroom houses,400.0,9.0,18.0,48.0,0.0,Primary,4.0
+27255,swan hill,4 bedroom houses,400.0,9.0,18.0,48.0,0.0,Secondary,2.0
+27256,swan hill,All properties,300.0,9.0,18.0,48.0,0.0,Primary,4.0
+27257,swan hill,All properties,300.0,9.0,18.0,48.0,0.0,Secondary,2.0
+27398,sydenham,1 bedroom flats,340.0,2.0,5.0,0.0,1.0,Primary,2.0
+27399,sydenham,1 bedroom flats,340.0,2.0,5.0,0.0,1.0,Secondary,1.0
+27400,sydenham,2 bedroom flats,365.0,2.0,5.0,0.0,1.0,Primary,2.0
+27401,sydenham,2 bedroom flats,365.0,2.0,5.0,0.0,1.0,Secondary,1.0
+27402,sydenham,2 bedroom houses,370.0,2.0,5.0,0.0,1.0,Primary,2.0
+27403,sydenham,2 bedroom houses,370.0,2.0,5.0,0.0,1.0,Secondary,1.0
+27404,sydenham,3 bedroom flats,375.0,2.0,5.0,0.0,1.0,Primary,2.0
+27405,sydenham,3 bedroom flats,375.0,2.0,5.0,0.0,1.0,Secondary,1.0
+27406,sydenham,3 bedroom houses,400.0,2.0,5.0,0.0,1.0,Primary,2.0
+27407,sydenham,3 bedroom houses,400.0,2.0,5.0,0.0,1.0,Secondary,1.0
+27408,sydenham,4 bedroom houses,440.0,2.0,5.0,0.0,1.0,Primary,2.0
+27409,sydenham,4 bedroom houses,440.0,2.0,5.0,0.0,1.0,Secondary,1.0
+27410,sydenham,All properties,410.0,2.0,5.0,0.0,1.0,Primary,2.0
+27411,sydenham,All properties,410.0,2.0,5.0,0.0,1.0,Secondary,1.0
+27692,thomastown,1 bedroom flats,300.0,11.0,13.0,0.0,2.0,Primary,5.0
+27693,thomastown,1 bedroom flats,300.0,11.0,13.0,0.0,2.0,Secondary,1.0
+27694,lalor,1 bedroom flats,300.0,7.0,9.0,0.0,1.0,Primary,4.0
+27695,lalor,1 bedroom flats,300.0,7.0,9.0,0.0,1.0,Secondary,2.0
+27696,thomastown,2 bedroom flats,330.0,11.0,13.0,0.0,2.0,Primary,5.0
+27697,thomastown,2 bedroom flats,330.0,11.0,13.0,0.0,2.0,Secondary,1.0
+27698,lalor,2 bedroom flats,330.0,7.0,9.0,0.0,1.0,Primary,4.0
+27699,lalor,2 bedroom flats,330.0,7.0,9.0,0.0,1.0,Secondary,2.0
+27700,thomastown,2 bedroom houses,350.0,11.0,13.0,0.0,2.0,Primary,5.0
+27701,thomastown,2 bedroom houses,350.0,11.0,13.0,0.0,2.0,Secondary,1.0
+27702,lalor,2 bedroom houses,350.0,7.0,9.0,0.0,1.0,Primary,4.0
+27703,lalor,2 bedroom houses,350.0,7.0,9.0,0.0,1.0,Secondary,2.0
+27704,thomastown,3 bedroom flats,385.0,11.0,13.0,0.0,2.0,Primary,5.0
+27705,thomastown,3 bedroom flats,385.0,11.0,13.0,0.0,2.0,Secondary,1.0
+27706,lalor,3 bedroom flats,385.0,7.0,9.0,0.0,1.0,Primary,4.0
+27707,lalor,3 bedroom flats,385.0,7.0,9.0,0.0,1.0,Secondary,2.0
+27708,thomastown,3 bedroom houses,380.0,11.0,13.0,0.0,2.0,Primary,5.0
+27709,thomastown,3 bedroom houses,380.0,11.0,13.0,0.0,2.0,Secondary,1.0
+27710,lalor,3 bedroom houses,380.0,7.0,9.0,0.0,1.0,Primary,4.0
+27711,lalor,3 bedroom houses,380.0,7.0,9.0,0.0,1.0,Secondary,2.0
+27712,thomastown,4 bedroom houses,431.0,11.0,13.0,0.0,2.0,Primary,5.0
+27713,thomastown,4 bedroom houses,431.0,11.0,13.0,0.0,2.0,Secondary,1.0
+27714,lalor,4 bedroom houses,431.0,7.0,9.0,0.0,1.0,Primary,4.0
+27715,lalor,4 bedroom houses,431.0,7.0,9.0,0.0,1.0,Secondary,2.0
+27716,thomastown,All properties,370.0,11.0,13.0,0.0,2.0,Primary,5.0
+27717,thomastown,All properties,370.0,11.0,13.0,0.0,2.0,Secondary,1.0
+27718,lalor,All properties,370.0,7.0,9.0,0.0,1.0,Primary,4.0
+27719,lalor,All properties,370.0,7.0,9.0,0.0,1.0,Secondary,2.0
+27930,thornbury,1 bedroom flats,290.0,19.0,26.0,0.0,1.0,Pri/Sec,2.0
+27931,thornbury,1 bedroom flats,290.0,19.0,26.0,0.0,1.0,Primary,4.0
+27932,thornbury,1 bedroom flats,290.0,19.0,26.0,0.0,1.0,Secondary,1.0
+27933,thornbury,2 bedroom flats,400.0,19.0,26.0,0.0,1.0,Pri/Sec,2.0
+27934,thornbury,2 bedroom flats,400.0,19.0,26.0,0.0,1.0,Primary,4.0
+27935,thornbury,2 bedroom flats,400.0,19.0,26.0,0.0,1.0,Secondary,1.0
+27936,thornbury,2 bedroom houses,550.0,19.0,26.0,0.0,1.0,Pri/Sec,2.0
+27937,thornbury,2 bedroom houses,550.0,19.0,26.0,0.0,1.0,Primary,4.0
+27938,thornbury,2 bedroom houses,550.0,19.0,26.0,0.0,1.0,Secondary,1.0
+27939,thornbury,3 bedroom flats,600.0,19.0,26.0,0.0,1.0,Pri/Sec,2.0
+27940,thornbury,3 bedroom flats,600.0,19.0,26.0,0.0,1.0,Primary,4.0
+27941,thornbury,3 bedroom flats,600.0,19.0,26.0,0.0,1.0,Secondary,1.0
+27942,thornbury,3 bedroom houses,655.0,19.0,26.0,0.0,1.0,Pri/Sec,2.0
+27943,thornbury,3 bedroom houses,655.0,19.0,26.0,0.0,1.0,Primary,4.0
+27944,thornbury,3 bedroom houses,655.0,19.0,26.0,0.0,1.0,Secondary,1.0
+27945,thornbury,4 bedroom houses,825.0,19.0,26.0,0.0,1.0,Pri/Sec,2.0
+27946,thornbury,4 bedroom houses,825.0,19.0,26.0,0.0,1.0,Primary,4.0
+27947,thornbury,4 bedroom houses,825.0,19.0,26.0,0.0,1.0,Secondary,1.0
+27948,thornbury,All properties,400.0,19.0,26.0,0.0,1.0,Pri/Sec,2.0
+27949,thornbury,All properties,400.0,19.0,26.0,0.0,1.0,Primary,4.0
+27950,thornbury,All properties,400.0,19.0,26.0,0.0,1.0,Secondary,1.0
+28091,toorak,1 bedroom flats,315.0,19.0,23.0,0.0,1.0,Pri/Sec,3.0
+28092,toorak,1 bedroom flats,315.0,19.0,23.0,0.0,1.0,Primary,1.0
+28093,toorak,2 bedroom flats,495.0,19.0,23.0,0.0,1.0,Pri/Sec,3.0
+28094,toorak,2 bedroom flats,495.0,19.0,23.0,0.0,1.0,Primary,1.0
+28095,toorak,2 bedroom houses,590.0,19.0,23.0,0.0,1.0,Pri/Sec,3.0
+28096,toorak,2 bedroom houses,590.0,19.0,23.0,0.0,1.0,Primary,1.0
+28097,toorak,3 bedroom flats,700.0,19.0,23.0,0.0,1.0,Pri/Sec,3.0
+28098,toorak,3 bedroom flats,700.0,19.0,23.0,0.0,1.0,Primary,1.0
+28099,toorak,3 bedroom houses,1025.0,19.0,23.0,0.0,1.0,Pri/Sec,3.0
+28100,toorak,3 bedroom houses,1025.0,19.0,23.0,0.0,1.0,Primary,1.0
+28101,toorak,4 bedroom houses,1400.0,19.0,23.0,0.0,1.0,Pri/Sec,3.0
+28102,toorak,4 bedroom houses,1400.0,19.0,23.0,0.0,1.0,Primary,1.0
+28103,toorak,All properties,500.0,19.0,23.0,0.0,1.0,Pri/Sec,3.0
+28104,toorak,All properties,500.0,19.0,23.0,0.0,1.0,Primary,1.0
+28245,torquay,1 bedroom flats,315.0,6.0,8.0,60.0,0.0,Primary,3.0
+28246,torquay,1 bedroom flats,315.0,6.0,8.0,60.0,0.0,Secondary,1.0
+28247,torquay,2 bedroom flats,450.0,6.0,8.0,60.0,0.0,Primary,3.0
+28248,torquay,2 bedroom flats,450.0,6.0,8.0,60.0,0.0,Secondary,1.0
+28249,torquay,2 bedroom houses,500.0,6.0,8.0,60.0,0.0,Primary,3.0
+28250,torquay,2 bedroom houses,500.0,6.0,8.0,60.0,0.0,Secondary,1.0
+28251,torquay,3 bedroom flats,555.0,6.0,8.0,60.0,0.0,Primary,3.0
+28252,torquay,3 bedroom flats,555.0,6.0,8.0,60.0,0.0,Secondary,1.0
+28253,torquay,3 bedroom houses,580.0,6.0,8.0,60.0,0.0,Primary,3.0
+28254,torquay,3 bedroom houses,580.0,6.0,8.0,60.0,0.0,Secondary,1.0
+28255,torquay,4 bedroom houses,650.0,6.0,8.0,60.0,0.0,Primary,3.0
+28256,torquay,4 bedroom houses,650.0,6.0,8.0,60.0,0.0,Secondary,1.0
+28257,torquay,All properties,600.0,6.0,8.0,60.0,0.0,Primary,3.0
+28258,torquay,All properties,600.0,6.0,8.0,60.0,0.0,Secondary,1.0
+28399,traralgon,1 bedroom flats,245.0,16.0,27.0,141.0,0.0,Primary,5.0
+28400,traralgon,1 bedroom flats,245.0,16.0,27.0,141.0,0.0,Secondary,2.0
+28401,traralgon,2 bedroom flats,300.0,16.0,27.0,141.0,0.0,Primary,5.0
+28402,traralgon,2 bedroom flats,300.0,16.0,27.0,141.0,0.0,Secondary,2.0
+28403,traralgon,2 bedroom houses,340.0,16.0,27.0,141.0,0.0,Primary,5.0
+28404,traralgon,2 bedroom houses,340.0,16.0,27.0,141.0,0.0,Secondary,2.0
+28405,traralgon,3 bedroom flats,380.0,16.0,27.0,141.0,0.0,Primary,5.0
+28406,traralgon,3 bedroom flats,380.0,16.0,27.0,141.0,0.0,Secondary,2.0
+28407,traralgon,3 bedroom houses,380.0,16.0,27.0,141.0,0.0,Primary,5.0
+28408,traralgon,3 bedroom houses,380.0,16.0,27.0,141.0,0.0,Secondary,2.0
+28409,traralgon,4 bedroom houses,460.0,16.0,27.0,141.0,0.0,Primary,5.0
+28410,traralgon,4 bedroom houses,460.0,16.0,27.0,141.0,0.0,Secondary,2.0
+28411,traralgon,All properties,380.0,16.0,27.0,141.0,0.0,Primary,5.0
+28412,traralgon,All properties,380.0,16.0,27.0,141.0,0.0,Secondary,2.0
+28763,vermont,1 bedroom flats,350.0,2.0,4.0,0.0,0.0,Primary,3.0
+28764,vermont,1 bedroom flats,350.0,2.0,4.0,0.0,0.0,Secondary,1.0
+28765,forest hill,1 bedroom flats,350.0,4.0,10.0,0.0,0.0,Primary,1.0
+28766,burwood east,1 bedroom flats,350.0,7.0,7.0,0.0,0.0,Primary,2.0
+28767,burwood east,1 bedroom flats,350.0,7.0,7.0,0.0,0.0,Secondary,1.0
+28768,vermont,2 bedroom flats,400.0,2.0,4.0,0.0,0.0,Primary,3.0
+28769,vermont,2 bedroom flats,400.0,2.0,4.0,0.0,0.0,Secondary,1.0
+28770,forest hill,2 bedroom flats,400.0,4.0,10.0,0.0,0.0,Primary,1.0
+28771,burwood east,2 bedroom flats,400.0,7.0,7.0,0.0,0.0,Primary,2.0
+28772,burwood east,2 bedroom flats,400.0,7.0,7.0,0.0,0.0,Secondary,1.0
+28773,vermont,2 bedroom houses,395.0,2.0,4.0,0.0,0.0,Primary,3.0
+28774,vermont,2 bedroom houses,395.0,2.0,4.0,0.0,0.0,Secondary,1.0
+28775,forest hill,2 bedroom houses,395.0,4.0,10.0,0.0,0.0,Primary,1.0
+28776,burwood east,2 bedroom houses,395.0,7.0,7.0,0.0,0.0,Primary,2.0
+28777,burwood east,2 bedroom houses,395.0,7.0,7.0,0.0,0.0,Secondary,1.0
+28778,vermont,3 bedroom flats,488.0,2.0,4.0,0.0,0.0,Primary,3.0
+28779,vermont,3 bedroom flats,488.0,2.0,4.0,0.0,0.0,Secondary,1.0
+28780,forest hill,3 bedroom flats,488.0,4.0,10.0,0.0,0.0,Primary,1.0
+28781,burwood east,3 bedroom flats,488.0,7.0,7.0,0.0,0.0,Primary,2.0
+28782,burwood east,3 bedroom flats,488.0,7.0,7.0,0.0,0.0,Secondary,1.0
+28783,vermont,3 bedroom houses,460.0,2.0,4.0,0.0,0.0,Primary,3.0
+28784,vermont,3 bedroom houses,460.0,2.0,4.0,0.0,0.0,Secondary,1.0
+28785,forest hill,3 bedroom houses,460.0,4.0,10.0,0.0,0.0,Primary,1.0
+28786,burwood east,3 bedroom houses,460.0,7.0,7.0,0.0,0.0,Primary,2.0
+28787,burwood east,3 bedroom houses,460.0,7.0,7.0,0.0,0.0,Secondary,1.0
+28788,vermont,4 bedroom houses,560.0,2.0,4.0,0.0,0.0,Primary,3.0
+28789,vermont,4 bedroom houses,560.0,2.0,4.0,0.0,0.0,Secondary,1.0
+28790,forest hill,4 bedroom houses,560.0,4.0,10.0,0.0,0.0,Primary,1.0
+28791,burwood east,4 bedroom houses,560.0,7.0,7.0,0.0,0.0,Primary,2.0
+28792,burwood east,4 bedroom houses,560.0,7.0,7.0,0.0,0.0,Secondary,1.0
+28793,vermont,All properties,475.0,2.0,4.0,0.0,0.0,Primary,3.0
+28794,vermont,All properties,475.0,2.0,4.0,0.0,0.0,Secondary,1.0
+28795,forest hill,All properties,475.0,4.0,10.0,0.0,0.0,Primary,1.0
+28796,burwood east,All properties,475.0,7.0,7.0,0.0,0.0,Primary,2.0
+28797,burwood east,All properties,475.0,7.0,7.0,0.0,0.0,Secondary,1.0
+28868,wanagaratta,1 bedroom flats,220.0,0.0,0.0,0.0,0.0,0,0.0
+28869,wanagaratta,2 bedroom flats,290.0,0.0,0.0,0.0,0.0,0,0.0
+28870,wanagaratta,2 bedroom houses,340.0,0.0,0.0,0.0,0.0,0,0.0
+28871,wanagaratta,3 bedroom flats,385.0,0.0,0.0,0.0,0.0,0,0.0
+28872,wanagaratta,3 bedroom houses,390.0,0.0,0.0,0.0,0.0,0,0.0
+28873,wanagaratta,4 bedroom houses,470.0,0.0,0.0,0.0,0.0,0,0.0
+28874,wanagaratta,All properties,380.0,0.0,0.0,0.0,0.0,0,0.0
+29155,wantirna,1 bedroom flats,350.0,12.0,18.0,0.0,0.0,Primary,4.0
+29156,wantirna,1 bedroom flats,350.0,12.0,18.0,0.0,0.0,Secondary,1.0
+29157,scoresby,1 bedroom flats,350.0,10.0,11.0,0.0,0.0,Primary,2.0
+29158,scoresby,1 bedroom flats,350.0,10.0,11.0,0.0,0.0,Secondary,1.0
+29159,wantirna,2 bedroom flats,410.0,12.0,18.0,0.0,0.0,Primary,4.0
+29160,wantirna,2 bedroom flats,410.0,12.0,18.0,0.0,0.0,Secondary,1.0
+29161,scoresby,2 bedroom flats,410.0,10.0,11.0,0.0,0.0,Primary,2.0
+29162,scoresby,2 bedroom flats,410.0,10.0,11.0,0.0,0.0,Secondary,1.0
+29163,wantirna,2 bedroom houses,420.0,12.0,18.0,0.0,0.0,Primary,4.0
+29164,wantirna,2 bedroom houses,420.0,12.0,18.0,0.0,0.0,Secondary,1.0
+29165,scoresby,2 bedroom houses,420.0,10.0,11.0,0.0,0.0,Primary,2.0
+29166,scoresby,2 bedroom houses,420.0,10.0,11.0,0.0,0.0,Secondary,1.0
+29167,wantirna,3 bedroom flats,460.0,12.0,18.0,0.0,0.0,Primary,4.0
+29168,wantirna,3 bedroom flats,460.0,12.0,18.0,0.0,0.0,Secondary,1.0
+29169,scoresby,3 bedroom flats,460.0,10.0,11.0,0.0,0.0,Primary,2.0
+29170,scoresby,3 bedroom flats,460.0,10.0,11.0,0.0,0.0,Secondary,1.0
+29171,wantirna,3 bedroom houses,450.0,12.0,18.0,0.0,0.0,Primary,4.0
+29172,wantirna,3 bedroom houses,450.0,12.0,18.0,0.0,0.0,Secondary,1.0
+29173,scoresby,3 bedroom houses,450.0,10.0,11.0,0.0,0.0,Primary,2.0
+29174,scoresby,3 bedroom houses,450.0,10.0,11.0,0.0,0.0,Secondary,1.0
+29175,wantirna,4 bedroom houses,550.0,12.0,18.0,0.0,0.0,Primary,4.0
+29176,wantirna,4 bedroom houses,550.0,12.0,18.0,0.0,0.0,Secondary,1.0
+29177,scoresby,4 bedroom houses,550.0,10.0,11.0,0.0,0.0,Primary,2.0
+29178,scoresby,4 bedroom houses,550.0,10.0,11.0,0.0,0.0,Secondary,1.0
+29179,wantirna,All properties,460.0,12.0,18.0,0.0,0.0,Primary,4.0
+29180,wantirna,All properties,460.0,12.0,18.0,0.0,0.0,Secondary,1.0
+29181,scoresby,All properties,460.0,10.0,11.0,0.0,0.0,Primary,2.0
+29182,scoresby,All properties,460.0,10.0,11.0,0.0,0.0,Secondary,1.0
+29393,warragul,1 bedroom flats,0.0,16.0,20.0,88.0,0.0,Pri/Sec,1.0
+29394,warragul,1 bedroom flats,0.0,16.0,20.0,88.0,0.0,Primary,4.0
+29395,warragul,1 bedroom flats,0.0,16.0,20.0,88.0,0.0,Secondary,2.0
+29396,warragul,2 bedroom flats,320.0,16.0,20.0,88.0,0.0,Pri/Sec,1.0
+29397,warragul,2 bedroom flats,320.0,16.0,20.0,88.0,0.0,Primary,4.0
+29398,warragul,2 bedroom flats,320.0,16.0,20.0,88.0,0.0,Secondary,2.0
+29399,warragul,2 bedroom houses,340.0,16.0,20.0,88.0,0.0,Pri/Sec,1.0
+29400,warragul,2 bedroom houses,340.0,16.0,20.0,88.0,0.0,Primary,4.0
+29401,warragul,2 bedroom houses,340.0,16.0,20.0,88.0,0.0,Secondary,2.0
+29402,warragul,3 bedroom flats,360.0,16.0,20.0,88.0,0.0,Pri/Sec,1.0
+29403,warragul,3 bedroom flats,360.0,16.0,20.0,88.0,0.0,Primary,4.0
+29404,warragul,3 bedroom flats,360.0,16.0,20.0,88.0,0.0,Secondary,2.0
+29405,warragul,3 bedroom houses,390.0,16.0,20.0,88.0,0.0,Pri/Sec,1.0
+29406,warragul,3 bedroom houses,390.0,16.0,20.0,88.0,0.0,Primary,4.0
+29407,warragul,3 bedroom houses,390.0,16.0,20.0,88.0,0.0,Secondary,2.0
+29408,warragul,4 bedroom houses,450.0,16.0,20.0,88.0,0.0,Pri/Sec,1.0
+29409,warragul,4 bedroom houses,450.0,16.0,20.0,88.0,0.0,Primary,4.0
+29410,warragul,4 bedroom houses,450.0,16.0,20.0,88.0,0.0,Secondary,2.0
+29411,warragul,All properties,400.0,16.0,20.0,88.0,0.0,Pri/Sec,1.0
+29412,warragul,All properties,400.0,16.0,20.0,88.0,0.0,Primary,4.0
+29413,warragul,All properties,400.0,16.0,20.0,88.0,0.0,Secondary,2.0
+29624,warrnambool,1 bedroom flats,240.0,44.0,62.0,164.0,0.0,Pri/Sec,1.0
+29625,warrnambool,1 bedroom flats,240.0,44.0,62.0,164.0,0.0,Primary,5.0
+29626,warrnambool,1 bedroom flats,240.0,44.0,62.0,164.0,0.0,Secondary,3.0
+29627,warrnambool,2 bedroom flats,320.0,44.0,62.0,164.0,0.0,Pri/Sec,1.0
+29628,warrnambool,2 bedroom flats,320.0,44.0,62.0,164.0,0.0,Primary,5.0
+29629,warrnambool,2 bedroom flats,320.0,44.0,62.0,164.0,0.0,Secondary,3.0
+29630,warrnambool,2 bedroom houses,380.0,44.0,62.0,164.0,0.0,Pri/Sec,1.0
+29631,warrnambool,2 bedroom houses,380.0,44.0,62.0,164.0,0.0,Primary,5.0
+29632,warrnambool,2 bedroom houses,380.0,44.0,62.0,164.0,0.0,Secondary,3.0
+29633,warrnambool,3 bedroom flats,430.0,44.0,62.0,164.0,0.0,Pri/Sec,1.0
+29634,warrnambool,3 bedroom flats,430.0,44.0,62.0,164.0,0.0,Primary,5.0
+29635,warrnambool,3 bedroom flats,430.0,44.0,62.0,164.0,0.0,Secondary,3.0
+29636,warrnambool,3 bedroom houses,438.0,44.0,62.0,164.0,0.0,Pri/Sec,1.0
+29637,warrnambool,3 bedroom houses,438.0,44.0,62.0,164.0,0.0,Primary,5.0
+29638,warrnambool,3 bedroom houses,438.0,44.0,62.0,164.0,0.0,Secondary,3.0
+29639,warrnambool,4 bedroom houses,500.0,44.0,62.0,164.0,0.0,Pri/Sec,1.0
+29640,warrnambool,4 bedroom houses,500.0,44.0,62.0,164.0,0.0,Primary,5.0
+29641,warrnambool,4 bedroom houses,500.0,44.0,62.0,164.0,0.0,Secondary,3.0
+29642,warrnambool,All properties,400.0,44.0,62.0,164.0,0.0,Pri/Sec,1.0
+29643,warrnambool,All properties,400.0,44.0,62.0,164.0,0.0,Primary,5.0
+29644,warrnambool,All properties,400.0,44.0,62.0,164.0,0.0,Secondary,3.0
+29925,wendouree,1 bedroom flats,210.0,11.0,12.0,89.0,0.0,Pri/Sec,2.0
+29926,wendouree,1 bedroom flats,210.0,11.0,12.0,89.0,0.0,Primary,3.0
+29927,wendouree,1 bedroom flats,210.0,11.0,12.0,89.0,0.0,Secondary,1.0
+29928,alfredton,1 bedroom flats,210.0,4.0,6.0,44.0,0.0,Primary,2.0
+29929,wendouree,2 bedroom flats,300.0,11.0,12.0,89.0,0.0,Pri/Sec,2.0
+29930,wendouree,2 bedroom flats,300.0,11.0,12.0,89.0,0.0,Primary,3.0
+29931,wendouree,2 bedroom flats,300.0,11.0,12.0,89.0,0.0,Secondary,1.0
+29932,alfredton,2 bedroom flats,300.0,4.0,6.0,44.0,0.0,Primary,2.0
+29933,wendouree,2 bedroom houses,320.0,11.0,12.0,89.0,0.0,Pri/Sec,2.0
+29934,wendouree,2 bedroom houses,320.0,11.0,12.0,89.0,0.0,Primary,3.0
+29935,wendouree,2 bedroom houses,320.0,11.0,12.0,89.0,0.0,Secondary,1.0
+29936,alfredton,2 bedroom houses,320.0,4.0,6.0,44.0,0.0,Primary,2.0
+29937,wendouree,3 bedroom flats,370.0,11.0,12.0,89.0,0.0,Pri/Sec,2.0
+29938,wendouree,3 bedroom flats,370.0,11.0,12.0,89.0,0.0,Primary,3.0
+29939,wendouree,3 bedroom flats,370.0,11.0,12.0,89.0,0.0,Secondary,1.0
+29940,alfredton,3 bedroom flats,370.0,4.0,6.0,44.0,0.0,Primary,2.0
+29941,wendouree,3 bedroom houses,370.0,11.0,12.0,89.0,0.0,Pri/Sec,2.0
+29942,wendouree,3 bedroom houses,370.0,11.0,12.0,89.0,0.0,Primary,3.0
+29943,wendouree,3 bedroom houses,370.0,11.0,12.0,89.0,0.0,Secondary,1.0
+29944,alfredton,3 bedroom houses,370.0,4.0,6.0,44.0,0.0,Primary,2.0
+29945,wendouree,4 bedroom houses,440.0,11.0,12.0,89.0,0.0,Pri/Sec,2.0
+29946,wendouree,4 bedroom houses,440.0,11.0,12.0,89.0,0.0,Primary,3.0
+29947,wendouree,4 bedroom houses,440.0,11.0,12.0,89.0,0.0,Secondary,1.0
+29948,alfredton,4 bedroom houses,440.0,4.0,6.0,44.0,0.0,Primary,2.0
+29949,wendouree,All properties,385.0,11.0,12.0,89.0,0.0,Pri/Sec,2.0
+29950,wendouree,All properties,385.0,11.0,12.0,89.0,0.0,Primary,3.0
+29951,wendouree,All properties,385.0,11.0,12.0,89.0,0.0,Secondary,1.0
+29952,alfredton,All properties,385.0,4.0,6.0,44.0,0.0,Primary,2.0
+30373,werribee,1 bedroom flats,290.0,22.0,37.0,0.0,1.0,Pri/Sec,1.0
+30374,werribee,1 bedroom flats,290.0,22.0,37.0,0.0,1.0,Primary,9.0
+30375,werribee,1 bedroom flats,290.0,22.0,37.0,0.0,1.0,Secondary,4.0
+30376,hoppers crossing,1 bedroom flats,290.0,16.0,24.0,0.0,1.0,Pri/Sec,2.0
+30377,hoppers crossing,1 bedroom flats,290.0,16.0,24.0,0.0,1.0,Primary,5.0
+30378,hoppers crossing,1 bedroom flats,290.0,16.0,24.0,0.0,1.0,Secondary,1.0
+30379,werribee,2 bedroom flats,310.0,22.0,37.0,0.0,1.0,Pri/Sec,1.0
+30380,werribee,2 bedroom flats,310.0,22.0,37.0,0.0,1.0,Primary,9.0
+30381,werribee,2 bedroom flats,310.0,22.0,37.0,0.0,1.0,Secondary,4.0
+30382,hoppers crossing,2 bedroom flats,310.0,16.0,24.0,0.0,1.0,Pri/Sec,2.0
+30383,hoppers crossing,2 bedroom flats,310.0,16.0,24.0,0.0,1.0,Primary,5.0
+30384,hoppers crossing,2 bedroom flats,310.0,16.0,24.0,0.0,1.0,Secondary,1.0
+30385,werribee,2 bedroom houses,325.0,22.0,37.0,0.0,1.0,Pri/Sec,1.0
+30386,werribee,2 bedroom houses,325.0,22.0,37.0,0.0,1.0,Primary,9.0
+30387,werribee,2 bedroom houses,325.0,22.0,37.0,0.0,1.0,Secondary,4.0
+30388,hoppers crossing,2 bedroom houses,325.0,16.0,24.0,0.0,1.0,Pri/Sec,2.0
+30389,hoppers crossing,2 bedroom houses,325.0,16.0,24.0,0.0,1.0,Primary,5.0
+30390,hoppers crossing,2 bedroom houses,325.0,16.0,24.0,0.0,1.0,Secondary,1.0
+30391,werribee,3 bedroom flats,350.0,22.0,37.0,0.0,1.0,Pri/Sec,1.0
+30392,werribee,3 bedroom flats,350.0,22.0,37.0,0.0,1.0,Primary,9.0
+30393,werribee,3 bedroom flats,350.0,22.0,37.0,0.0,1.0,Secondary,4.0
+30394,hoppers crossing,3 bedroom flats,350.0,16.0,24.0,0.0,1.0,Pri/Sec,2.0
+30395,hoppers crossing,3 bedroom flats,350.0,16.0,24.0,0.0,1.0,Primary,5.0
+30396,hoppers crossing,3 bedroom flats,350.0,16.0,24.0,0.0,1.0,Secondary,1.0
+30397,werribee,3 bedroom houses,350.0,22.0,37.0,0.0,1.0,Pri/Sec,1.0
+30398,werribee,3 bedroom houses,350.0,22.0,37.0,0.0,1.0,Primary,9.0
+30399,werribee,3 bedroom houses,350.0,22.0,37.0,0.0,1.0,Secondary,4.0
+30400,hoppers crossing,3 bedroom houses,350.0,16.0,24.0,0.0,1.0,Pri/Sec,2.0
+30401,hoppers crossing,3 bedroom houses,350.0,16.0,24.0,0.0,1.0,Primary,5.0
+30402,hoppers crossing,3 bedroom houses,350.0,16.0,24.0,0.0,1.0,Secondary,1.0
+30403,werribee,4 bedroom houses,400.0,22.0,37.0,0.0,1.0,Pri/Sec,1.0
+30404,werribee,4 bedroom houses,400.0,22.0,37.0,0.0,1.0,Primary,9.0
+30405,werribee,4 bedroom houses,400.0,22.0,37.0,0.0,1.0,Secondary,4.0
+30406,hoppers crossing,4 bedroom houses,400.0,16.0,24.0,0.0,1.0,Pri/Sec,2.0
+30407,hoppers crossing,4 bedroom houses,400.0,16.0,24.0,0.0,1.0,Primary,5.0
+30408,hoppers crossing,4 bedroom houses,400.0,16.0,24.0,0.0,1.0,Secondary,1.0
+30409,werribee,All properties,370.0,22.0,37.0,0.0,1.0,Pri/Sec,1.0
+30410,werribee,All properties,370.0,22.0,37.0,0.0,1.0,Primary,9.0
+30411,werribee,All properties,370.0,22.0,37.0,0.0,1.0,Secondary,4.0
+30412,hoppers crossing,All properties,370.0,16.0,24.0,0.0,1.0,Pri/Sec,2.0
+30413,hoppers crossing,All properties,370.0,16.0,24.0,0.0,1.0,Primary,5.0
+30414,hoppers crossing,All properties,370.0,16.0,24.0,0.0,1.0,Secondary,1.0
+30485,west brunswick,1 bedroom flats,290.0,0.0,0.0,0.0,0.0,0,0.0
+30486,west brunswick,2 bedroom flats,370.0,0.0,0.0,0.0,0.0,0,0.0
+30487,west brunswick,2 bedroom houses,500.0,0.0,0.0,0.0,0.0,0,0.0
+30488,west brunswick,3 bedroom flats,550.0,0.0,0.0,0.0,0.0,0,0.0
+30489,west brunswick,3 bedroom houses,595.0,0.0,0.0,0.0,0.0,0,0.0
+30490,west brunswick,4 bedroom houses,780.0,0.0,0.0,0.0,0.0,0,0.0
+30491,west brunswick,All properties,360.0,0.0,0.0,0.0,0.0,0,0.0
+30562,west footscray,1 bedroom flats,250.0,2.0,7.0,0.0,2.0,Primary,1.0
+30563,west footscray,2 bedroom flats,350.0,2.0,7.0,0.0,2.0,Primary,1.0
+30564,west footscray,2 bedroom houses,400.0,2.0,7.0,0.0,2.0,Primary,1.0
+30565,west footscray,3 bedroom flats,460.0,2.0,7.0,0.0,2.0,Primary,1.0
+30566,west footscray,3 bedroom houses,450.0,2.0,7.0,0.0,2.0,Primary,1.0
+30567,west footscray,4 bedroom houses,575.0,2.0,7.0,0.0,2.0,Primary,1.0
+30568,west footscray,All properties,400.0,2.0,7.0,0.0,2.0,Primary,1.0
+30709,whittlesea,1 bedroom flats,290.0,8.0,10.0,0.0,0.0,Primary,2.0
+30710,whittlesea,1 bedroom flats,290.0,8.0,10.0,0.0,0.0,Secondary,1.0
+30711,whittlesea,2 bedroom flats,330.0,8.0,10.0,0.0,0.0,Primary,2.0
+30712,whittlesea,2 bedroom flats,330.0,8.0,10.0,0.0,0.0,Secondary,1.0
+30713,whittlesea,2 bedroom houses,350.0,8.0,10.0,0.0,0.0,Primary,2.0
+30714,whittlesea,2 bedroom houses,350.0,8.0,10.0,0.0,0.0,Secondary,1.0
+30715,whittlesea,3 bedroom flats,385.0,8.0,10.0,0.0,0.0,Primary,2.0
+30716,whittlesea,3 bedroom flats,385.0,8.0,10.0,0.0,0.0,Secondary,1.0
+30717,whittlesea,3 bedroom houses,400.0,8.0,10.0,0.0,0.0,Primary,2.0
+30718,whittlesea,3 bedroom houses,400.0,8.0,10.0,0.0,0.0,Secondary,1.0
+30719,whittlesea,4 bedroom houses,440.0,8.0,10.0,0.0,0.0,Primary,2.0
+30720,whittlesea,4 bedroom houses,440.0,8.0,10.0,0.0,0.0,Secondary,1.0
+30721,whittlesea,All properties,410.0,8.0,10.0,0.0,0.0,Primary,2.0
+30722,whittlesea,All properties,410.0,8.0,10.0,0.0,0.0,Secondary,1.0
+30933,williamstown,1 bedroom flats,347.0,12.0,12.0,0.0,3.0,Pri/Sec,1.0
+30934,williamstown,1 bedroom flats,347.0,12.0,12.0,0.0,3.0,Primary,4.0
+30935,williamstown,1 bedroom flats,347.0,12.0,12.0,0.0,3.0,Secondary,1.0
+30936,williamstown,2 bedroom flats,393.0,12.0,12.0,0.0,3.0,Pri/Sec,1.0
+30937,williamstown,2 bedroom flats,393.0,12.0,12.0,0.0,3.0,Primary,4.0
+30938,williamstown,2 bedroom flats,393.0,12.0,12.0,0.0,3.0,Secondary,1.0
+30939,williamstown,2 bedroom houses,500.0,12.0,12.0,0.0,3.0,Pri/Sec,1.0
+30940,williamstown,2 bedroom houses,500.0,12.0,12.0,0.0,3.0,Primary,4.0
+30941,williamstown,2 bedroom houses,500.0,12.0,12.0,0.0,3.0,Secondary,1.0
+30942,williamstown,3 bedroom flats,560.0,12.0,12.0,0.0,3.0,Pri/Sec,1.0
+30943,williamstown,3 bedroom flats,560.0,12.0,12.0,0.0,3.0,Primary,4.0
+30944,williamstown,3 bedroom flats,560.0,12.0,12.0,0.0,3.0,Secondary,1.0
+30945,williamstown,3 bedroom houses,650.0,12.0,12.0,0.0,3.0,Pri/Sec,1.0
+30946,williamstown,3 bedroom houses,650.0,12.0,12.0,0.0,3.0,Primary,4.0
+30947,williamstown,3 bedroom houses,650.0,12.0,12.0,0.0,3.0,Secondary,1.0
+30948,williamstown,4 bedroom houses,850.0,12.0,12.0,0.0,3.0,Pri/Sec,1.0
+30949,williamstown,4 bedroom houses,850.0,12.0,12.0,0.0,3.0,Primary,4.0
+30950,williamstown,4 bedroom houses,850.0,12.0,12.0,0.0,3.0,Secondary,1.0
+30951,williamstown,All properties,520.0,12.0,12.0,0.0,3.0,Pri/Sec,1.0
+30952,williamstown,All properties,520.0,12.0,12.0,0.0,3.0,Primary,4.0
+30953,williamstown,All properties,520.0,12.0,12.0,0.0,3.0,Secondary,1.0
+31164,wodonga,1 bedroom flats,220.0,9.0,23.0,70.0,0.0,Pri/Sec,2.0
+31165,wodonga,1 bedroom flats,220.0,9.0,23.0,70.0,0.0,Primary,4.0
+31166,wodonga,1 bedroom flats,220.0,9.0,23.0,70.0,0.0,Secondary,2.0
+31167,wodonga,2 bedroom flats,300.0,9.0,23.0,70.0,0.0,Pri/Sec,2.0
+31168,wodonga,2 bedroom flats,300.0,9.0,23.0,70.0,0.0,Primary,4.0
+31169,wodonga,2 bedroom flats,300.0,9.0,23.0,70.0,0.0,Secondary,2.0
+31170,wodonga,2 bedroom houses,335.0,9.0,23.0,70.0,0.0,Pri/Sec,2.0
+31171,wodonga,2 bedroom houses,335.0,9.0,23.0,70.0,0.0,Primary,4.0
+31172,wodonga,2 bedroom houses,335.0,9.0,23.0,70.0,0.0,Secondary,2.0
+31173,wodonga,3 bedroom flats,365.0,9.0,23.0,70.0,0.0,Pri/Sec,2.0
+31174,wodonga,3 bedroom flats,365.0,9.0,23.0,70.0,0.0,Primary,4.0
+31175,wodonga,3 bedroom flats,365.0,9.0,23.0,70.0,0.0,Secondary,2.0
+31176,wodonga,3 bedroom houses,400.0,9.0,23.0,70.0,0.0,Pri/Sec,2.0
+31177,wodonga,3 bedroom houses,400.0,9.0,23.0,70.0,0.0,Primary,4.0
+31178,wodonga,3 bedroom houses,400.0,9.0,23.0,70.0,0.0,Secondary,2.0
+31179,wodonga,4 bedroom houses,460.0,9.0,23.0,70.0,0.0,Pri/Sec,2.0
+31180,wodonga,4 bedroom houses,460.0,9.0,23.0,70.0,0.0,Primary,4.0
+31181,wodonga,4 bedroom houses,460.0,9.0,23.0,70.0,0.0,Secondary,2.0
+31182,wodonga,All properties,390.0,9.0,23.0,70.0,0.0,Pri/Sec,2.0
+31183,wodonga,All properties,390.0,9.0,23.0,70.0,0.0,Primary,4.0
+31184,wodonga,All properties,390.0,9.0,23.0,70.0,0.0,Secondary,2.0
+31255,yarra ranges,1 bedroom flats,300.0,0.0,0.0,0.0,0.0,0,0.0
+31256,yarra ranges,2 bedroom flats,370.0,0.0,0.0,0.0,0.0,0,0.0
+31257,yarra ranges,2 bedroom houses,390.0,0.0,0.0,0.0,0.0,0,0.0
+31258,yarra ranges,3 bedroom flats,430.0,0.0,0.0,0.0,0.0,0,0.0
+31259,yarra ranges,3 bedroom houses,460.0,0.0,0.0,0.0,0.0,0,0.0
+31260,yarra ranges,4 bedroom houses,570.0,0.0,0.0,0.0,0.0,0,0.0
+31261,yarra ranges,All properties,450.0,0.0,0.0,0.0,0.0,0,0.0
+31402,yarraville,1 bedroom flats,295.0,11.0,14.0,0.0,1.0,Primary,4.0
+31403,seddon,1 bedroom flats,295.0,0.0,3.0,0.0,1.0,0,0.0
+31404,yarraville,2 bedroom flats,388.0,11.0,14.0,0.0,1.0,Primary,4.0
+31405,seddon,2 bedroom flats,388.0,0.0,3.0,0.0,1.0,0,0.0
+31406,yarraville,2 bedroom houses,500.0,11.0,14.0,0.0,1.0,Primary,4.0
+31407,seddon,2 bedroom houses,500.0,0.0,3.0,0.0,1.0,0,0.0
+31408,yarraville,3 bedroom flats,550.0,11.0,14.0,0.0,1.0,Primary,4.0
+31409,seddon,3 bedroom flats,550.0,0.0,3.0,0.0,1.0,0,0.0
+31410,yarraville,3 bedroom houses,575.0,11.0,14.0,0.0,1.0,Primary,4.0
+31411,seddon,3 bedroom houses,575.0,0.0,3.0,0.0,1.0,0,0.0
+31412,yarraville,4 bedroom houses,680.0,11.0,14.0,0.0,1.0,Primary,4.0
+31413,seddon,4 bedroom houses,680.0,0.0,3.0,0.0,1.0,0,0.0
+31414,yarraville,All properties,470.0,11.0,14.0,0.0,1.0,Primary,4.0
+31415,seddon,All properties,470.0,0.0,3.0,0.0,1.0,0,0.0
