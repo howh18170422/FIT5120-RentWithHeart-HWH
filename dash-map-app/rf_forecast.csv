@@ -1,0 +1,1023 @@
+,Region,Suburb,Housing_Type,Median Price - Last Quarter,Forecasted Price,Difference,Percentage Difference
+0,Inner Melbourne,Albert Park-Middle Park-West St Kilda,1 bedroom flats,340.0,346.95,6.949999999999989,2.04
+1,Inner Melbourne,Armadale,1 bedroom flats,340.0,371.09,31.089999999999975,9.14
+2,Inner Melbourne,Carlton North,1 bedroom flats,320.0,345.18199999999996,25.18199999999996,7.87
+3,Inner Melbourne,Carlton-Parkville,1 bedroom flats,299.0,295.76,-3.240000000000009,-1.08
+4,Inner Melbourne,CBD-St Kilda Rd,1 bedroom flats,364.0,350.07,-13.930000000000007,-3.83
+5,Inner Melbourne,Collingwood-Abbotsford,1 bedroom flats,385.0,382.0,-3.0,-0.78
+6,Inner Melbourne,Docklands,1 bedroom flats,400.0,Insufficient Data for Forecast,0.0,0.0
+7,Inner Melbourne,East Melbourne,1 bedroom flats,395.0,352.94,-42.06,-10.65
+8,Inner Melbourne,East St Kilda,1 bedroom flats,300.0,301.25,1.25,0.42
+9,Inner Melbourne,Elwood,1 bedroom flats,320.0,311.96,-8.04000000000002,-2.51
+10,Inner Melbourne,Fitzroy,1 bedroom flats,400.0,399.17,-0.8299999999999841,-0.21
+11,Inner Melbourne,Fitzroy North-Clifton Hill,1 bedroom flats,345.0,345.42,0.4200000000000159,0.12
+12,Inner Melbourne,Flemington-Kensington,1 bedroom flats,325.0,341.55,16.55000000000001,5.09
+13,Inner Melbourne,North Melbourne-West Melbourne,1 bedroom flats,320.0,315.2,-4.800000000000011,-1.5
+14,Inner Melbourne,Port Melbourne,1 bedroom flats,425.0,416.6,-8.399999999999977,-1.98
+15,Inner Melbourne,Prahran-Windsor,1 bedroom flats,320.0,319.8,-0.19999999999998863,-0.06
+16,Inner Melbourne,Richmond-Burnley,1 bedroom flats,375.0,371.0,-4.0,-1.07
+17,Inner Melbourne,South Melbourne,1 bedroom flats,380.0,385.5,5.5,1.45
+18,Inner Melbourne,South Yarra,1 bedroom flats,360.0,358.15,-1.8500000000000227,-0.51
+19,Inner Melbourne,Southbank,1 bedroom flats,390.0,365.3,-24.69999999999999,-6.33
+20,Inner Melbourne,St Kilda,1 bedroom flats,325.0,328.2,3.1999999999999886,0.98
+21,Inner Melbourne,Toorak,1 bedroom flats,326.0,323.47,-2.5299999999999727,-0.78
+23,Inner Eastern Melbourne,Balwyn,1 bedroom flats,355.0,Insufficient Data for Forecast,0.0,0.0
+24,Inner Eastern Melbourne,Blackburn,1 bedroom flats,350.0,349.5,-0.5,-0.14
+25,Inner Eastern Melbourne,Box Hill,1 bedroom flats,313.0,295.96,-17.04000000000002,-5.44
+26,Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,1 bedroom flats,360.0,370.4925,10.492500000000007,2.91
+27,Inner Eastern Melbourne,Burwood-Ashburton,1 bedroom flats,225.0,Insufficient Data for Forecast,0.0,0.0
+28,Inner Eastern Melbourne,Camberwell-Glen Iris,1 bedroom flats,330.0,343.18,13.180000000000007,3.99
+29,Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,1 bedroom flats,328.0,Insufficient Data for Forecast,0.0,0.0
+30,Inner Eastern Melbourne,Chadstone-Oakleigh,1 bedroom flats,360.0,354.53,-5.470000000000027,-1.52
+31,Inner Eastern Melbourne,Clayton,1 bedroom flats,300.0,288.69,-11.310000000000002,-3.77
+32,Inner Eastern Melbourne,Doncaster East-Donvale,1 bedroom flats,350.0,350.85,0.8500000000000227,0.24
+33,Inner Eastern Melbourne,East Hawthorn,1 bedroom flats,330.0,336.75,6.75,2.05
+34,Inner Eastern Melbourne,Glen Waverley-Mulgrave,1 bedroom flats,370.0,Insufficient Data for Forecast,0.0,0.0
+35,Inner Eastern Melbourne,Hawthorn,1 bedroom flats,293.0,290.66,-2.339999999999975,-0.8
+36,Inner Eastern Melbourne,Kew,1 bedroom flats,360.0,333.94833333333327,-26.051666666666733,-7.24
+37,Inner Eastern Melbourne,Mount Waverley,1 bedroom flats,340.0,Insufficient Data for Forecast,0.0,0.0
+38,Inner Eastern Melbourne,Nunawading-Mitcham,1 bedroom flats,333.0,333.42666666666673,0.42666666666673336,0.13
+39,Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,1 bedroom flats,357.0,Insufficient Data for Forecast,0.0,0.0
+41,Southern Melbourne,Aspendale-Chelsea-Carrum,1 bedroom flats,300.0,291.66,-8.339999999999975,-2.78
+42,Southern Melbourne,Bentleigh,1 bedroom flats,315.0,316.75,1.75,0.56
+43,Southern Melbourne,Brighton,1 bedroom flats,380.0,400.16666666666674,20.166666666666742,5.31
+44,Southern Melbourne,Brighton East,1 bedroom flats,,Insufficient Data for Forecast,0.0,
+45,Southern Melbourne,Carnegie,1 bedroom flats,295.0,294.65,-0.35000000000002274,-0.12
+46,Southern Melbourne,Caulfield,1 bedroom flats,295.0,298.55,3.5500000000000114,1.2
+47,Southern Melbourne,Cheltenham,1 bedroom flats,350.0,350.0,0.0,0.0
+48,Southern Melbourne,Elsternwick,1 bedroom flats,320.0,321.79,1.7900000000000205,0.56
+49,Southern Melbourne,Hampton-Beaumaris,1 bedroom flats,360.0,358.65,-1.3500000000000227,-0.38
+50,Southern Melbourne,Malvern,1 bedroom flats,330.0,322.15,-7.850000000000023,-2.38
+51,Southern Melbourne,Malvern East,1 bedroom flats,275.0,313.005,38.004999999999995,13.82
+52,Southern Melbourne,Mentone-Parkdale-Mordialloc,1 bedroom flats,315.0,309.2975,-5.702499999999986,-1.81
+53,Southern Melbourne,Murrumbeena-Hughesdale,1 bedroom flats,295.0,290.1,-4.899999999999977,-1.66
+55,Outer Western Melbourne,Altona,1 bedroom flats,285.0,286.9,1.8999999999999773,0.67
+56,Outer Western Melbourne,Footscray,1 bedroom flats,300.0,299.92,-0.07999999999998408,-0.03
+57,Outer Western Melbourne,Keilor East-Avondale Heights,1 bedroom flats,335.0,335.65,0.6499999999999773,0.19
+58,Outer Western Melbourne,Melton,1 bedroom flats,320.0,Insufficient Data for Forecast,0.0,0.0
+59,Outer Western Melbourne,Newport-Spotswood,1 bedroom flats,310.0,304.73,-5.269999999999982,-1.7
+60,Outer Western Melbourne,St Albans-Deer Park,1 bedroom flats,283.0,278.98,-4.019999999999982,-1.42
+61,Outer Western Melbourne,Sunshine,1 bedroom flats,250.0,243.25,-6.75,-2.7
+62,Outer Western Melbourne,Sydenham,1 bedroom flats,340.0,Insufficient Data for Forecast,0.0,0.0
+63,Outer Western Melbourne,Werribee-Hoppers Crossing,1 bedroom flats,295.0,294.02,-0.9800000000000182,-0.33
+64,Outer Western Melbourne,West Footscray,1 bedroom flats,250.0,260.8258333333334,10.825833333333378,4.33
+65,Outer Western Melbourne,Williamstown,1 bedroom flats,348.0,340.14,-7.860000000000014,-2.26
+66,Outer Western Melbourne,Yarraville-Seddon,1 bedroom flats,295.0,294.93,-0.06999999999999318,-0.02
+68,North Western Melbourne,Broadmeadows-Roxburgh Park,1 bedroom flats,280.0,256.91,-23.089999999999975,-8.25
+69,North Western Melbourne,Brunswick,1 bedroom flats,330.0,343.8,13.800000000000011,4.18
+70,North Western Melbourne,Coburg-Pascoe Vale South,1 bedroom flats,315.0,318.1,3.1000000000000227,0.98
+71,North Western Melbourne,Craigieburn,1 bedroom flats,320.0,Insufficient Data for Forecast,0.0,0.0
+72,North Western Melbourne,East Brunswick,1 bedroom flats,360.0,357.81333333333333,-2.1866666666666674,-0.61
+73,North Western Melbourne,Essendon,1 bedroom flats,315.0,315.45,0.44999999999998863,0.14
+74,North Western Melbourne,Gladstone Park-Tullamarine,1 bedroom flats,285.0,Insufficient Data for Forecast,0.0,0.0
+75,North Western Melbourne,Keilor,1 bedroom flats,,Insufficient Data for Forecast,0.0,
+76,North Western Melbourne,Moonee Ponds-Ascot Vale,1 bedroom flats,330.0,330.64,0.6399999999999864,0.19
+77,North Western Melbourne,Oak Park-Glenroy-Fawkner,1 bedroom flats,280.0,282.096,2.0960000000000036,0.75
+78,North Western Melbourne,Pascoe Vale-Coburg North,1 bedroom flats,230.0,269.6946309523809,39.69463095238092,17.26
+79,North Western Melbourne,Sunbury,1 bedroom flats,265.0,Insufficient Data for Forecast,0.0,0.0
+80,North Western Melbourne,West Brunswick,1 bedroom flats,295.0,298.1,3.1000000000000227,1.05
+82,North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,1 bedroom flats,300.0,300.0,0.0,0.0
+83,North Eastern Melbourne,Eltham-Research-Montmorency,1 bedroom flats,300.0,328.4,28.399999999999977,9.47
+84,North Eastern Melbourne,Fairfield-Alphington,1 bedroom flats,290.0,301.35,11.350000000000023,3.91
+85,North Eastern Melbourne,Heidelberg-Heidelberg West,1 bedroom flats,340.0,339.63,-0.37000000000000455,-0.11
+86,North Eastern Melbourne,Ivanhoe-Ivanhoe East,1 bedroom flats,350.0,352.4,2.3999999999999773,0.69
+87,North Eastern Melbourne,Mill Park-Epping,1 bedroom flats,300.0,Insufficient Data for Forecast,0.0,0.0
+88,North Eastern Melbourne,Northcote,1 bedroom flats,320.0,317.71666666666664,-2.28333333333336,-0.71
+89,North Eastern Melbourne,Preston,1 bedroom flats,320.0,328.93,8.930000000000007,2.79
+90,North Eastern Melbourne,Reservoir,1 bedroom flats,305.0,311.3,6.300000000000011,2.07
+91,North Eastern Melbourne,Thomastown-Lalor,1 bedroom flats,300.0,Insufficient Data for Forecast,0.0,0.0
+92,North Eastern Melbourne,Thornbury,1 bedroom flats,295.0,294.10833333333335,-0.8916666666666515,-0.3
+93,North Eastern Melbourne,Whittlesea,1 bedroom flats,300.0,Insufficient Data for Forecast,0.0,0.0
+95,Outer Eastern Melbourne,Bayswater,1 bedroom flats,310.0,Insufficient Data for Forecast,0.0,0.0
+96,Outer Eastern Melbourne,Boronia,1 bedroom flats,330.0,330.08,0.07999999999998408,0.02
+97,Outer Eastern Melbourne,Croydon-Lilydale,1 bedroom flats,320.0,317.3,-2.6999999999999886,-0.84
+98,Outer Eastern Melbourne,Ferntree Gully,1 bedroom flats,,Insufficient Data for Forecast,0.0,
+99,Outer Eastern Melbourne,Ringwood,1 bedroom flats,350.0,347.06,-2.9399999999999977,-0.84
+100,Outer Eastern Melbourne,Rowville,1 bedroom flats,,Insufficient Data for Forecast,0.0,
+101,Outer Eastern Melbourne,Wantirna-Scoresby,1 bedroom flats,350.0,Insufficient Data for Forecast,0.0,0.0
+102,Outer Eastern Melbourne,Yarra Ranges,1 bedroom flats,305.0,300.65,-4.350000000000023,-1.43
+104,South Eastern Melbourne,Berwick,1 bedroom flats,310.0,Insufficient Data for Forecast,0.0,0.0
+105,South Eastern Melbourne,Cranbourne,1 bedroom flats,300.0,Insufficient Data for Forecast,0.0,0.0
+106,South Eastern Melbourne,Dandenong,1 bedroom flats,270.0,269.45,-0.5500000000000114,-0.2
+107,South Eastern Melbourne,Dandenong North-Endeavour Hills,1 bedroom flats,278.0,Insufficient Data for Forecast,0.0,0.0
+108,South Eastern Melbourne,Narre Warren-Hampton Park,1 bedroom flats,320.0,Insufficient Data for Forecast,0.0,0.0
+109,South Eastern Melbourne,Noble Park,1 bedroom flats,260.0,253.65,-6.349999999999994,-2.44
+110,South Eastern Melbourne,Pakenham,1 bedroom flats,275.0,Insufficient Data for Forecast,0.0,0.0
+111,South Eastern Melbourne,Springvale,1 bedroom flats,275.0,265.98,-9.019999999999982,-3.28
+113,Mornington Peninsula,Dromana-Portsea,1 bedroom flats,335.0,259.7,-75.30000000000001,-22.48
+114,Mornington Peninsula,Frankston,1 bedroom flats,265.0,259.83,-5.170000000000016,-1.95
+115,Mornington Peninsula,Hastings-Flinders,1 bedroom flats,,Insufficient Data for Forecast,0.0,
+116,Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,1 bedroom flats,330.0,Insufficient Data for Forecast,0.0,0.0
+117,Mornington Peninsula,Seaford-Carrum Downs,1 bedroom flats,280.0,255.1,-24.900000000000006,-8.89
+119,Geelong,Belmont-Grovedale,1 bedroom flats,290.0,269.525,-20.475000000000023,-7.06
+120,Geelong,Corio,1 bedroom flats,250.0,243.83880952380957,-6.161190476190427,-2.46
+121,Geelong,Geelong-Newcombe,1 bedroom flats,320.0,293.9,-26.100000000000023,-8.16
+122,Geelong,Herne Hill-Geelong West,1 bedroom flats,275.0,268.2,-6.800000000000011,-2.47
+123,Geelong,Lara,1 bedroom flats,,Insufficient Data for Forecast,0.0,
+124,Geelong,Newtown,1 bedroom flats,285.0,278.62,-6.3799999999999955,-2.24
+125,Geelong,North Geelong,1 bedroom flats,250.0,248.3,-1.6999999999999886,-0.68
+127,Ballarat,Ballarat,1 bedroom flats,220.0,216.94,-3.0600000000000023,-1.39
+128,Ballarat,Mount Clear-Buninyong,1 bedroom flats,,Insufficient Data for Forecast,0.0,
+129,Ballarat,Sebastopol-Delacombe,1 bedroom flats,220.0,221.9,1.9000000000000057,0.86
+130,Ballarat,Wendouree-Alfredton,1 bedroom flats,215.0,206.4,-8.599999999999994,-4.0
+132,Bendigo,Bendigo,1 bedroom flats,270.0,268.4,-1.6000000000000227,-0.59
+133,Bendigo,Flora Hill-Bendigo East,1 bedroom flats,245.0,227.39583333333331,-17.604166666666686,-7.19
+134,Bendigo,Golden Square-Kangaroo Flat,1 bedroom flats,260.0,243.65,-16.349999999999994,-6.29
+135,Bendigo,North Bendigo,1 bedroom flats,245.0,Insufficient Data for Forecast,0.0,0.0
+137,Other Regional Centres,Bairnsdale,1 bedroom flats,250.0,239.9,-10.099999999999994,-4.04
+138,Other Regional Centres,Benalla,1 bedroom flats,230.0,219.53,-10.469999999999999,-4.55
+139,Other Regional Centres,Castlemaine,1 bedroom flats,,Insufficient Data for Forecast,0.0,
+140,Other Regional Centres,Echuca,1 bedroom flats,218.0,183.03,-34.97,-16.04
+141,Other Regional Centres,Hamilton,1 bedroom flats,220.0,204.8,-15.199999999999989,-6.91
+142,Other Regional Centres,Horsham,1 bedroom flats,275.0,203.885,-71.11500000000001,-25.86
+143,Other Regional Centres,Mildura,1 bedroom flats,225.0,219.85,-5.150000000000006,-2.29
+144,Other Regional Centres,Moe-Newborough,1 bedroom flats,210.0,205.8,-4.199999999999989,-2.0
+145,Other Regional Centres,Morwell,1 bedroom flats,210.0,198.85,-11.150000000000006,-5.31
+146,Other Regional Centres,Ocean Grove-Barwon Heads,1 bedroom flats,300.0,Insufficient Data for Forecast,0.0,0.0
+147,Other Regional Centres,Portland,1 bedroom flats,250.0,242.8,-7.199999999999989,-2.88
+148,Other Regional Centres,Sale-Maffra,1 bedroom flats,240.0,224.8,-15.199999999999989,-6.33
+149,Other Regional Centres,Seymour,1 bedroom flats,,Insufficient Data for Forecast,0.0,
+150,Other Regional Centres,Shepparton,1 bedroom flats,220.0,218.45,-1.5500000000000114,-0.7
+151,Other Regional Centres,Swan Hill,1 bedroom flats,170.0,164.48125,-5.518750000000011,-3.25
+152,Other Regional Centres,Torquay,1 bedroom flats,315.0,Insufficient Data for Forecast,0.0,0.0
+153,Other Regional Centres,Traralgon,1 bedroom flats,250.0,243.35666666666668,-6.643333333333317,-2.66
+154,Other Regional Centres,Wanagaratta,1 bedroom flats,220.0,207.86,-12.139999999999986,-5.52
+155,Other Regional Centres,Warragul,1 bedroom flats,,Insufficient Data for Forecast,0.0,
+156,Other Regional Centres,Warrnambool,1 bedroom flats,240.0,240.0,0.0,0.0
+157,Other Regional Centres,Wodonga,1 bedroom flats,220.0,214.4,-5.599999999999994,-2.55
+159,Inner Melbourne,Albert Park-Middle Park-West St Kilda,2 bedroom flats,460.0,458.5,-1.5,-0.33
+160,Inner Melbourne,Armadale,2 bedroom flats,450.0,471.42,21.420000000000016,4.76
+161,Inner Melbourne,Carlton North,2 bedroom flats,455.0,440.03,-14.970000000000027,-3.29
+162,Inner Melbourne,Carlton-Parkville,2 bedroom flats,440.0,436.27,-3.730000000000018,-0.85
+163,Inner Melbourne,CBD-St Kilda Rd,2 bedroom flats,500.0,479.5,-20.5,-4.1
+164,Inner Melbourne,Collingwood-Abbotsford,2 bedroom flats,520.0,513.925,-6.0750000000000455,-1.17
+165,Inner Melbourne,Docklands,2 bedroom flats,550.0,Insufficient Data for Forecast,0.0,0.0
+166,Inner Melbourne,East Melbourne,2 bedroom flats,545.0,520.0,-25.0,-4.59
+167,Inner Melbourne,East St Kilda,2 bedroom flats,415.0,411.4,-3.6000000000000227,-0.87
+168,Inner Melbourne,Elwood,2 bedroom flats,450.0,449.2,-0.8000000000000114,-0.18
+169,Inner Melbourne,Fitzroy,2 bedroom flats,590.0,584.8,-5.2000000000000455,-0.88
+170,Inner Melbourne,Fitzroy North-Clifton Hill,2 bedroom flats,490.0,488.95,-1.0500000000000114,-0.21
+171,Inner Melbourne,Flemington-Kensington,2 bedroom flats,390.0,380.6,-9.399999999999977,-2.41
+172,Inner Melbourne,North Melbourne-West Melbourne,2 bedroom flats,460.0,449.58,-10.420000000000016,-2.27
+173,Inner Melbourne,Port Melbourne,2 bedroom flats,590.0,551.6,-38.39999999999998,-6.51
+174,Inner Melbourne,Prahran-Windsor,2 bedroom flats,470.0,465.3,-4.699999999999989,-1.0
+175,Inner Melbourne,Richmond-Burnley,2 bedroom flats,500.0,502.6,2.6000000000000227,0.52
+176,Inner Melbourne,South Melbourne,2 bedroom flats,519.0,481.71,-37.29000000000002,-7.18
+177,Inner Melbourne,South Yarra,2 bedroom flats,515.0,513.58,-1.419999999999959,-0.28
+178,Inner Melbourne,Southbank,2 bedroom flats,500.0,477.2,-22.80000000000001,-4.56
+179,Inner Melbourne,St Kilda,2 bedroom flats,450.0,445.8,-4.199999999999989,-0.93
+180,Inner Melbourne,Toorak,2 bedroom flats,495.0,453.5733333333334,-41.42666666666662,-8.37
+182,Inner Eastern Melbourne,Balwyn,2 bedroom flats,420.0,423.31,3.3100000000000023,0.79
+183,Inner Eastern Melbourne,Blackburn,2 bedroom flats,403.0,410.07,7.069999999999993,1.75
+184,Inner Eastern Melbourne,Box Hill,2 bedroom flats,420.0,422.55,2.5500000000000114,0.61
+185,Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,2 bedroom flats,430.0,427.2,-2.8000000000000114,-0.65
+186,Inner Eastern Melbourne,Burwood-Ashburton,2 bedroom flats,420.0,416.3833333333334,-3.6166666666666174,-0.86
+187,Inner Eastern Melbourne,Camberwell-Glen Iris,2 bedroom flats,425.0,429.2,4.199999999999989,0.99
+188,Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,2 bedroom flats,440.0,432.55,-7.449999999999989,-1.69
+189,Inner Eastern Melbourne,Chadstone-Oakleigh,2 bedroom flats,400.0,401.0,1.0,0.25
+190,Inner Eastern Melbourne,Clayton,2 bedroom flats,400.0,383.78,-16.220000000000027,-4.06
+191,Inner Eastern Melbourne,Doncaster East-Donvale,2 bedroom flats,420.0,417.2,-2.8000000000000114,-0.67
+192,Inner Eastern Melbourne,East Hawthorn,2 bedroom flats,440.0,439.1,-0.8999999999999773,-0.2
+193,Inner Eastern Melbourne,Glen Waverley-Mulgrave,2 bedroom flats,450.0,442.5,-7.5,-1.67
+194,Inner Eastern Melbourne,Hawthorn,2 bedroom flats,420.0,418.2,-1.8000000000000114,-0.43
+195,Inner Eastern Melbourne,Kew,2 bedroom flats,420.0,418.3,-1.6999999999999886,-0.4
+196,Inner Eastern Melbourne,Mount Waverley,2 bedroom flats,410.0,410.1,0.10000000000002274,0.02
+197,Inner Eastern Melbourne,Nunawading-Mitcham,2 bedroom flats,390.0,386.65,-3.3500000000000227,-0.86
+198,Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,2 bedroom flats,410.0,396.15,-13.850000000000023,-3.38
+200,Southern Melbourne,Aspendale-Chelsea-Carrum,2 bedroom flats,420.0,410.5,-9.5,-2.26
+201,Southern Melbourne,Bentleigh,2 bedroom flats,430.0,439.45,9.449999999999989,2.2
+202,Southern Melbourne,Brighton,2 bedroom flats,550.0,544.05,-5.9500000000000455,-1.08
+203,Southern Melbourne,Brighton East,2 bedroom flats,478.0,471.17999999999995,-6.82000000000005,-1.43
+204,Southern Melbourne,Carnegie,2 bedroom flats,420.0,430.7,10.699999999999989,2.55
+205,Southern Melbourne,Caulfield,2 bedroom flats,430.0,427.69,-2.3100000000000023,-0.54
+206,Southern Melbourne,Cheltenham,2 bedroom flats,420.0,419.0,-1.0,-0.24
+207,Southern Melbourne,Elsternwick,2 bedroom flats,475.0,469.55333333333334,-5.446666666666658,-1.15
+208,Southern Melbourne,Hampton-Beaumaris,2 bedroom flats,500.0,491.29166666666674,-8.708333333333258,-1.74
+209,Southern Melbourne,Malvern,2 bedroom flats,440.0,440.1,0.10000000000002274,0.02
+210,Southern Melbourne,Malvern East,2 bedroom flats,425.0,409.66,-15.339999999999975,-3.61
+211,Southern Melbourne,Mentone-Parkdale-Mordialloc,2 bedroom flats,420.0,414.4,-5.600000000000023,-1.33
+212,Southern Melbourne,Murrumbeena-Hughesdale,2 bedroom flats,410.0,405.63,-4.3700000000000045,-1.07
+214,Outer Western Melbourne,Altona,2 bedroom flats,350.0,350.7166666666667,0.716666666666697,0.2
+215,Outer Western Melbourne,Footscray,2 bedroom flats,400.0,397.2,-2.8000000000000114,-0.7
+216,Outer Western Melbourne,Keilor East-Avondale Heights,2 bedroom flats,395.0,392.09,-2.910000000000025,-0.74
+217,Outer Western Melbourne,Melton,2 bedroom flats,290.0,290.0,0.0,0.0
+218,Outer Western Melbourne,Newport-Spotswood,2 bedroom flats,380.0,382.55,2.5500000000000114,0.67
+219,Outer Western Melbourne,St Albans-Deer Park,2 bedroom flats,320.0,325.55,5.550000000000011,1.73
+220,Outer Western Melbourne,Sunshine,2 bedroom flats,330.0,324.0,-6.0,-1.82
+221,Outer Western Melbourne,Sydenham,2 bedroom flats,370.0,359.6,-10.399999999999977,-2.81
+222,Outer Western Melbourne,Werribee-Hoppers Crossing,2 bedroom flats,315.0,313.35,-1.6499999999999773,-0.52
+223,Outer Western Melbourne,West Footscray,2 bedroom flats,350.0,356.45,6.449999999999989,1.84
+224,Outer Western Melbourne,Williamstown,2 bedroom flats,400.0,408.5,8.5,2.12
+225,Outer Western Melbourne,Yarraville-Seddon,2 bedroom flats,388.0,387.7,-0.30000000000001137,-0.08
+227,North Western Melbourne,Broadmeadows-Roxburgh Park,2 bedroom flats,340.0,346.5,6.5,1.91
+228,North Western Melbourne,Brunswick,2 bedroom flats,425.0,419.0,-6.0,-1.41
+229,North Western Melbourne,Coburg-Pascoe Vale South,2 bedroom flats,400.0,399.6,-0.39999999999997726,-0.1
+230,North Western Melbourne,Craigieburn,2 bedroom flats,340.0,Insufficient Data for Forecast,0.0,0.0
+231,North Western Melbourne,East Brunswick,2 bedroom flats,450.0,445.9,-4.100000000000023,-0.91
+232,North Western Melbourne,Essendon,2 bedroom flats,375.0,376.49,1.490000000000009,0.4
+233,North Western Melbourne,Gladstone Park-Tullamarine,2 bedroom flats,350.0,344.48666666666674,-5.513333333333264,-1.58
+234,North Western Melbourne,Keilor,2 bedroom flats,,Insufficient Data for Forecast,0.0,
+235,North Western Melbourne,Moonee Ponds-Ascot Vale,2 bedroom flats,400.0,400.8,0.8000000000000114,0.2
+236,North Western Melbourne,Oak Park-Glenroy-Fawkner,2 bedroom flats,360.0,365.05,5.050000000000011,1.4
+237,North Western Melbourne,Pascoe Vale-Coburg North,2 bedroom flats,390.0,390.0,0.0,0.0
+238,North Western Melbourne,Sunbury,2 bedroom flats,360.0,350.15,-9.850000000000023,-2.74
+239,North Western Melbourne,West Brunswick,2 bedroom flats,385.0,380.65,-4.350000000000023,-1.13
+241,North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,2 bedroom flats,370.0,368.9,-1.1000000000000227,-0.3
+242,North Eastern Melbourne,Eltham-Research-Montmorency,2 bedroom flats,415.0,401.05,-13.949999999999989,-3.36
+243,North Eastern Melbourne,Fairfield-Alphington,2 bedroom flats,435.0,434.4,-0.6000000000000227,-0.14
+244,North Eastern Melbourne,Heidelberg-Heidelberg West,2 bedroom flats,400.0,400.0,0.0,0.0
+245,North Eastern Melbourne,Ivanhoe-Ivanhoe East,2 bedroom flats,425.0,428.85,3.8500000000000227,0.91
+246,North Eastern Melbourne,Mill Park-Epping,2 bedroom flats,350.0,340.2,-9.800000000000011,-2.8
+247,North Eastern Melbourne,Northcote,2 bedroom flats,450.0,464.4649999999999,14.464999999999918,3.21
+248,North Eastern Melbourne,Preston,2 bedroom flats,400.0,398.64,-1.3600000000000136,-0.34
+249,North Eastern Melbourne,Reservoir,2 bedroom flats,360.0,360.1,0.10000000000002274,0.03
+250,North Eastern Melbourne,Thomastown-Lalor,2 bedroom flats,330.0,333.6,3.6000000000000227,1.09
+251,North Eastern Melbourne,Thornbury,2 bedroom flats,400.0,402.3,2.3000000000000114,0.58
+252,North Eastern Melbourne,Whittlesea,2 bedroom flats,340.0,325.24166666666673,-14.758333333333269,-4.34
+254,Outer Eastern Melbourne,Bayswater,2 bedroom flats,380.0,377.2,-2.8000000000000114,-0.74
+255,Outer Eastern Melbourne,Boronia,2 bedroom flats,380.0,373.3091666666667,-6.6908333333332735,-1.76
+256,Outer Eastern Melbourne,Croydon-Lilydale,2 bedroom flats,390.0,382.95,-7.050000000000011,-1.81
+257,Outer Eastern Melbourne,Ferntree Gully,2 bedroom flats,385.0,380.79,-4.2099999999999795,-1.09
+258,Outer Eastern Melbourne,Ringwood,2 bedroom flats,390.0,380.45,-9.550000000000011,-2.45
+259,Outer Eastern Melbourne,Rowville,2 bedroom flats,400.0,Insufficient Data for Forecast,0.0,0.0
+260,Outer Eastern Melbourne,Wantirna-Scoresby,2 bedroom flats,410.0,402.3,-7.699999999999989,-1.88
+261,Outer Eastern Melbourne,Yarra Ranges,2 bedroom flats,375.0,355.9,-19.100000000000023,-5.09
+263,South Eastern Melbourne,Berwick,2 bedroom flats,365.0,362.5,-2.5,-0.68
+264,South Eastern Melbourne,Cranbourne,2 bedroom flats,360.0,338.95,-21.05000000000001,-5.85
+265,South Eastern Melbourne,Dandenong,2 bedroom flats,320.0,310.1,-9.899999999999977,-3.09
+266,South Eastern Melbourne,Dandenong North-Endeavour Hills,2 bedroom flats,350.0,330.0,-20.0,-5.71
+267,South Eastern Melbourne,Narre Warren-Hampton Park,2 bedroom flats,358.0,351.4,-6.600000000000023,-1.84
+268,South Eastern Melbourne,Noble Park,2 bedroom flats,350.0,340.1,-9.899999999999977,-2.83
+269,South Eastern Melbourne,Pakenham,2 bedroom flats,340.0,331.5,-8.5,-2.5
+270,South Eastern Melbourne,Springvale,2 bedroom flats,370.0,359.3,-10.699999999999989,-2.89
+272,Mornington Peninsula,Dromana-Portsea,2 bedroom flats,420.0,406.1,-13.899999999999977,-3.31
+273,Mornington Peninsula,Frankston,2 bedroom flats,365.0,361.7,-3.3000000000000114,-0.9
+274,Mornington Peninsula,Hastings-Flinders,2 bedroom flats,380.0,373.6,-6.399999999999977,-1.68
+275,Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,2 bedroom flats,451.0,448.88,-2.1200000000000045,-0.47
+276,Mornington Peninsula,Seaford-Carrum Downs,2 bedroom flats,370.0,346.7,-23.30000000000001,-6.3
+278,Geelong,Belmont-Grovedale,2 bedroom flats,375.0,370.6,-4.399999999999977,-1.17
+279,Geelong,Corio,2 bedroom flats,320.0,303.5191666666667,-16.480833333333294,-5.15
+280,Geelong,Geelong-Newcombe,2 bedroom flats,390.0,386.7,-3.3000000000000114,-0.85
+281,Geelong,Herne Hill-Geelong West,2 bedroom flats,360.0,356.15,-3.8500000000000227,-1.07
+282,Geelong,Lara,2 bedroom flats,350.0,345.06716666666665,-4.932833333333349,-1.41
+283,Geelong,Newtown,2 bedroom flats,398.0,387.65,-10.350000000000023,-2.6
+284,Geelong,North Geelong,2 bedroom flats,370.0,352.6,-17.399999999999977,-4.7
+286,Ballarat,Ballarat,2 bedroom flats,300.0,288.75,-11.25,-3.75
+287,Ballarat,Mount Clear-Buninyong,2 bedroom flats,300.0,301.26,1.259999999999991,0.42
+288,Ballarat,Sebastopol-Delacombe,2 bedroom flats,295.0,288.9,-6.100000000000023,-2.07
+289,Ballarat,Wendouree-Alfredton,2 bedroom flats,300.0,297.54,-2.4599999999999795,-0.82
+291,Bendigo,Bendigo,2 bedroom flats,320.0,315.34,-4.660000000000025,-1.46
+292,Bendigo,Flora Hill-Bendigo East,2 bedroom flats,315.0,310.08,-4.920000000000016,-1.56
+293,Bendigo,Golden Square-Kangaroo Flat,2 bedroom flats,318.0,299.7,-18.30000000000001,-5.75
+294,Bendigo,North Bendigo,2 bedroom flats,310.0,305.735,-4.264999999999986,-1.38
+296,Other Regional Centres,Bairnsdale,2 bedroom flats,300.0,292.35,-7.649999999999977,-2.55
+297,Other Regional Centres,Benalla,2 bedroom flats,328.0,311.76,-16.24000000000001,-4.95
+298,Other Regional Centres,Castlemaine,2 bedroom flats,350.0,344.97,-5.029999999999973,-1.44
+299,Other Regional Centres,Echuca,2 bedroom flats,340.0,322.88,-17.120000000000005,-5.04
+300,Other Regional Centres,Hamilton,2 bedroom flats,273.0,267.67,-5.329999999999984,-1.95
+301,Other Regional Centres,Horsham,2 bedroom flats,280.0,277.45,-2.5500000000000114,-0.91
+302,Other Regional Centres,Mildura,2 bedroom flats,260.0,259.7,-0.30000000000001137,-0.12
+303,Other Regional Centres,Moe-Newborough,2 bedroom flats,250.0,243.91999999999996,-6.080000000000041,-2.43
+304,Other Regional Centres,Morwell,2 bedroom flats,250.0,244.66,-5.340000000000003,-2.14
+305,Other Regional Centres,Ocean Grove-Barwon Heads,2 bedroom flats,430.0,420.8,-9.199999999999989,-2.14
+306,Other Regional Centres,Portland,2 bedroom flats,300.0,298.39,-1.6100000000000136,-0.54
+307,Other Regional Centres,Sale-Maffra,2 bedroom flats,320.0,317.05,-2.9499999999999886,-0.92
+308,Other Regional Centres,Seymour,2 bedroom flats,300.0,291.04,-8.95999999999998,-2.99
+309,Other Regional Centres,Shepparton,2 bedroom flats,280.0,277.4,-2.6000000000000227,-0.93
+310,Other Regional Centres,Swan Hill,2 bedroom flats,280.0,244.0,-36.0,-12.86
+311,Other Regional Centres,Torquay,2 bedroom flats,450.0,446.65,-3.3500000000000227,-0.74
+312,Other Regional Centres,Traralgon,2 bedroom flats,300.0,299.51,-0.4900000000000091,-0.16
+313,Other Regional Centres,Wanagaratta,2 bedroom flats,293.0,288.64,-4.360000000000014,-1.49
+314,Other Regional Centres,Warragul,2 bedroom flats,330.0,325.8375,-4.162500000000023,-1.26
+315,Other Regional Centres,Warrnambool,2 bedroom flats,330.0,322.18,-7.819999999999993,-2.37
+316,Other Regional Centres,Wodonga,2 bedroom flats,300.0,298.0,-2.0,-0.67
+318,Inner Melbourne,Albert Park-Middle Park-West St Kilda,2 bedroom houses,650.0,649.37,-0.6299999999999955,-0.1
+319,Inner Melbourne,Armadale,2 bedroom houses,663.0,656.6125,-6.3875000000000455,-0.96
+320,Inner Melbourne,Carlton North,2 bedroom houses,600.0,596.77,-3.230000000000018,-0.54
+321,Inner Melbourne,Carlton-Parkville,2 bedroom houses,550.0,570.9166666666667,20.916666666666742,3.8
+322,Inner Melbourne,CBD-St Kilda Rd,2 bedroom houses,,Insufficient Data for Forecast,0.0,
+323,Inner Melbourne,Collingwood-Abbotsford,2 bedroom houses,600.0,600.01,0.009999999999990905,0.0
+324,Inner Melbourne,Docklands,2 bedroom houses,,Insufficient Data for Forecast,0.0,
+325,Inner Melbourne,East Melbourne,2 bedroom houses,,Insufficient Data for Forecast,0.0,
+326,Inner Melbourne,East St Kilda,2 bedroom houses,618.0,594.66,-23.340000000000032,-3.78
+327,Inner Melbourne,Elwood,2 bedroom houses,660.0,657.405,-2.5950000000000273,-0.39
+328,Inner Melbourne,Fitzroy,2 bedroom houses,630.0,594.62,-35.379999999999995,-5.62
+329,Inner Melbourne,Fitzroy North-Clifton Hill,2 bedroom houses,620.0,610.53,-9.470000000000027,-1.53
+330,Inner Melbourne,Flemington-Kensington,2 bedroom houses,520.0,520.5208333333333,0.5208333333332575,0.1
+331,Inner Melbourne,North Melbourne-West Melbourne,2 bedroom houses,540.0,542.84,2.840000000000032,0.53
+332,Inner Melbourne,Port Melbourne,2 bedroom houses,595.0,592.9666666666667,-2.033333333333303,-0.34
+333,Inner Melbourne,Prahran-Windsor,2 bedroom houses,625.0,622.67,-2.330000000000041,-0.37
+334,Inner Melbourne,Richmond-Burnley,2 bedroom houses,620.0,610.95,-9.049999999999955,-1.46
+335,Inner Melbourne,South Melbourne,2 bedroom houses,600.0,596.565,-3.4349999999999454,-0.57
+336,Inner Melbourne,South Yarra,2 bedroom houses,675.0,643.65,-31.350000000000023,-4.64
+337,Inner Melbourne,Southbank,2 bedroom houses,,Insufficient Data for Forecast,0.0,
+338,Inner Melbourne,St Kilda,2 bedroom houses,600.0,593.7,-6.2999999999999545,-1.05
+339,Inner Melbourne,Toorak,2 bedroom houses,650.0,Insufficient Data for Forecast,0.0,0.0
+341,Inner Eastern Melbourne,Balwyn,2 bedroom houses,445.0,447.68,2.680000000000007,0.6
+342,Inner Eastern Melbourne,Blackburn,2 bedroom houses,400.0,399.25,-0.75,-0.19
+343,Inner Eastern Melbourne,Box Hill,2 bedroom houses,415.0,403.53,-11.470000000000027,-2.76
+344,Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,2 bedroom houses,428.0,426.79,-1.2099999999999795,-0.28
+345,Inner Eastern Melbourne,Burwood-Ashburton,2 bedroom houses,420.0,419.5,-0.5,-0.12
+346,Inner Eastern Melbourne,Camberwell-Glen Iris,2 bedroom houses,500.0,517.7103571428571,17.710357142857106,3.54
+347,Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,2 bedroom houses,450.0,467.69,17.689999999999998,3.93
+348,Inner Eastern Melbourne,Chadstone-Oakleigh,2 bedroom houses,420.0,413.4,-6.600000000000023,-1.57
+349,Inner Eastern Melbourne,Clayton,2 bedroom houses,410.0,401.05,-8.949999999999989,-2.18
+350,Inner Eastern Melbourne,Doncaster East-Donvale,2 bedroom houses,395.0,387.49533333333324,-7.504666666666765,-1.9
+351,Inner Eastern Melbourne,East Hawthorn,2 bedroom houses,570.0,559.1725,-10.827499999999986,-1.9
+352,Inner Eastern Melbourne,Glen Waverley-Mulgrave,2 bedroom houses,425.0,437.47,12.470000000000027,2.93
+353,Inner Eastern Melbourne,Hawthorn,2 bedroom houses,583.0,559.19,-23.809999999999945,-4.08
+354,Inner Eastern Melbourne,Kew,2 bedroom houses,543.0,536.0203333333334,-6.979666666666617,-1.29
+355,Inner Eastern Melbourne,Mount Waverley,2 bedroom houses,405.0,406.98,1.9800000000000182,0.49
+356,Inner Eastern Melbourne,Nunawading-Mitcham,2 bedroom houses,408.0,399.98,-8.019999999999982,-1.97
+357,Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,2 bedroom houses,380.0,389.91,9.910000000000025,2.61
+359,Southern Melbourne,Aspendale-Chelsea-Carrum,2 bedroom houses,450.0,440.1975,-9.802500000000009,-2.18
+360,Southern Melbourne,Bentleigh,2 bedroom houses,490.0,483.1,-6.899999999999977,-1.41
+361,Southern Melbourne,Brighton,2 bedroom houses,620.0,614.7466666666667,-5.25333333333333,-0.85
+362,Southern Melbourne,Brighton East,2 bedroom houses,520.0,521.45,1.4500000000000455,0.28
+363,Southern Melbourne,Carnegie,2 bedroom houses,475.0,476.03,1.0299999999999727,0.22
+364,Southern Melbourne,Caulfield,2 bedroom houses,500.0,489.44466666666676,-10.555333333333238,-2.11
+365,Southern Melbourne,Cheltenham,2 bedroom houses,495.0,492.65,-2.3500000000000227,-0.47
+366,Southern Melbourne,Elsternwick,2 bedroom houses,608.0,Insufficient Data for Forecast,0.0,0.0
+367,Southern Melbourne,Hampton-Beaumaris,2 bedroom houses,550.0,543.26,-6.740000000000009,-1.23
+368,Southern Melbourne,Malvern,2 bedroom houses,590.0,602.7875,12.787500000000023,2.17
+369,Southern Melbourne,Malvern East,2 bedroom houses,480.0,486.15,6.149999999999977,1.28
+370,Southern Melbourne,Mentone-Parkdale-Mordialloc,2 bedroom houses,500.0,496.6866666666667,-3.3133333333332757,-0.66
+371,Southern Melbourne,Murrumbeena-Hughesdale,2 bedroom houses,460.0,444.94,-15.060000000000002,-3.27
+373,Outer Western Melbourne,Altona,2 bedroom houses,370.0,364.4575,-5.542500000000018,-1.5
+374,Outer Western Melbourne,Footscray,2 bedroom houses,450.0,448.2,-1.8000000000000114,-0.4
+375,Outer Western Melbourne,Keilor East-Avondale Heights,2 bedroom houses,395.0,393.91,-1.089999999999975,-0.28
+376,Outer Western Melbourne,Melton,2 bedroom houses,290.0,Insufficient Data for Forecast,0.0,0.0
+377,Outer Western Melbourne,Newport-Spotswood,2 bedroom houses,443.0,451.32666666666665,8.326666666666654,1.88
+378,Outer Western Melbourne,St Albans-Deer Park,2 bedroom houses,330.0,326.95,-3.0500000000000114,-0.92
+379,Outer Western Melbourne,Sunshine,2 bedroom houses,350.0,348.28,-1.7200000000000273,-0.49
+380,Outer Western Melbourne,Sydenham,2 bedroom houses,370.0,Insufficient Data for Forecast,0.0,0.0
+381,Outer Western Melbourne,Werribee-Hoppers Crossing,2 bedroom houses,325.0,322.62,-2.3799999999999955,-0.73
+382,Outer Western Melbourne,West Footscray,2 bedroom houses,400.0,392.71,-7.2900000000000205,-1.82
+383,Outer Western Melbourne,Williamstown,2 bedroom houses,500.0,498.86833333333334,-1.1316666666666606,-0.23
+384,Outer Western Melbourne,Yarraville-Seddon,2 bedroom houses,500.0,495.55,-4.449999999999989,-0.89
+386,North Western Melbourne,Broadmeadows-Roxburgh Park,2 bedroom houses,340.0,349.38,9.379999999999995,2.76
+387,North Western Melbourne,Brunswick,2 bedroom houses,550.0,549.8,-0.20000000000004547,-0.04
+388,North Western Melbourne,Coburg-Pascoe Vale South,2 bedroom houses,470.0,467.66666666666663,-2.3333333333333712,-0.5
+389,North Western Melbourne,Craigieburn,2 bedroom houses,350.0,Insufficient Data for Forecast,0.0,0.0
+390,North Western Melbourne,East Brunswick,2 bedroom houses,530.0,532.3,2.2999999999999545,0.43
+391,North Western Melbourne,Essendon,2 bedroom houses,410.0,409.6,-0.39999999999997726,-0.1
+392,North Western Melbourne,Gladstone Park-Tullamarine,2 bedroom houses,385.0,Insufficient Data for Forecast,0.0,0.0
+393,North Western Melbourne,Keilor,2 bedroom houses,,Insufficient Data for Forecast,0.0,
+394,North Western Melbourne,Moonee Ponds-Ascot Vale,2 bedroom houses,500.0,495.03,-4.970000000000027,-0.99
+395,North Western Melbourne,Oak Park-Glenroy-Fawkner,2 bedroom houses,375.0,368.95,-6.050000000000011,-1.61
+396,North Western Melbourne,Pascoe Vale-Coburg North,2 bedroom houses,420.0,408.64,-11.360000000000014,-2.7
+397,North Western Melbourne,Sunbury,2 bedroom houses,353.0,354.89,1.8899999999999864,0.54
+398,North Western Melbourne,West Brunswick,2 bedroom houses,515.0,509.2,-5.800000000000011,-1.13
+400,North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,2 bedroom houses,395.0,393.15,-1.8500000000000227,-0.47
+401,North Eastern Melbourne,Eltham-Research-Montmorency,2 bedroom houses,410.0,403.2,-6.800000000000011,-1.66
+402,North Eastern Melbourne,Fairfield-Alphington,2 bedroom houses,545.0,547.2166666666667,2.216666666666697,0.41
+403,North Eastern Melbourne,Heidelberg-Heidelberg West,2 bedroom houses,390.0,386.09933333333333,-3.900666666666666,-1.0
+404,North Eastern Melbourne,Ivanhoe-Ivanhoe East,2 bedroom houses,510.0,504.5,-5.5,-1.08
+405,North Eastern Melbourne,Mill Park-Epping,2 bedroom houses,360.0,350.65666666666664,-9.343333333333362,-2.6
+406,North Eastern Melbourne,Northcote,2 bedroom houses,600.0,592.395,-7.605000000000018,-1.27
+407,North Eastern Melbourne,Preston,2 bedroom houses,450.0,447.9376666666667,-2.0623333333332994,-0.46
+408,North Eastern Melbourne,Reservoir,2 bedroom houses,365.0,365.0,0.0,0.0
+409,North Eastern Melbourne,Thomastown-Lalor,2 bedroom houses,350.0,345.48333333333335,-4.5166666666666515,-1.29
+410,North Eastern Melbourne,Thornbury,2 bedroom houses,550.0,548.2,-1.7999999999999545,-0.33
+411,North Eastern Melbourne,Whittlesea,2 bedroom houses,350.0,Insufficient Data for Forecast,0.0,0.0
+413,Outer Eastern Melbourne,Bayswater,2 bedroom houses,392.0,Insufficient Data for Forecast,0.0,0.0
+414,Outer Eastern Melbourne,Boronia,2 bedroom houses,378.0,367.9,-10.100000000000023,-2.67
+415,Outer Eastern Melbourne,Croydon-Lilydale,2 bedroom houses,400.0,395.65,-4.350000000000023,-1.09
+416,Outer Eastern Melbourne,Ferntree Gully,2 bedroom houses,,Insufficient Data for Forecast,0.0,
+417,Outer Eastern Melbourne,Ringwood,2 bedroom houses,400.0,399.515,-0.48500000000001364,-0.12
+418,Outer Eastern Melbourne,Rowville,2 bedroom houses,,Insufficient Data for Forecast,0.0,
+419,Outer Eastern Melbourne,Wantirna-Scoresby,2 bedroom houses,415.0,Insufficient Data for Forecast,0.0,0.0
+420,Outer Eastern Melbourne,Yarra Ranges,2 bedroom houses,400.0,395.46,-4.5400000000000205,-1.14
+422,South Eastern Melbourne,Berwick,2 bedroom houses,360.0,355.35,-4.649999999999977,-1.29
+423,South Eastern Melbourne,Cranbourne,2 bedroom houses,370.0,360.2,-9.800000000000011,-2.65
+424,South Eastern Melbourne,Dandenong,2 bedroom houses,360.0,355.94,-4.060000000000002,-1.13
+425,South Eastern Melbourne,Dandenong North-Endeavour Hills,2 bedroom houses,333.0,327.94,-5.060000000000002,-1.52
+426,South Eastern Melbourne,Narre Warren-Hampton Park,2 bedroom houses,380.0,366.88,-13.120000000000005,-3.45
+427,South Eastern Melbourne,Noble Park,2 bedroom houses,380.0,362.36,-17.639999999999986,-4.64
+428,South Eastern Melbourne,Pakenham,2 bedroom houses,360.0,350.574,-9.425999999999988,-2.62
+429,South Eastern Melbourne,Springvale,2 bedroom houses,390.0,385.88,-4.1200000000000045,-1.06
+431,Mornington Peninsula,Dromana-Portsea,2 bedroom houses,420.0,412.25,-7.75,-1.85
+432,Mornington Peninsula,Frankston,2 bedroom houses,380.0,376.865,-3.134999999999991,-0.82
+433,Mornington Peninsula,Hastings-Flinders,2 bedroom houses,410.0,404.35,-5.649999999999977,-1.38
+434,Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,2 bedroom houses,483.0,465.26,-17.74000000000001,-3.67
+435,Mornington Peninsula,Seaford-Carrum Downs,2 bedroom houses,396.0,390.49,-5.509999999999991,-1.39
+437,Geelong,Belmont-Grovedale,2 bedroom houses,390.0,384.75,-5.25,-1.35
+438,Geelong,Corio,2 bedroom houses,310.0,305.7,-4.300000000000011,-1.39
+439,Geelong,Geelong-Newcombe,2 bedroom houses,400.0,383.8,-16.19999999999999,-4.05
+440,Geelong,Herne Hill-Geelong West,2 bedroom houses,400.0,395.75,-4.25,-1.06
+441,Geelong,Lara,2 bedroom houses,350.0,Insufficient Data for Forecast,0.0,0.0
+442,Geelong,Newtown,2 bedroom houses,430.0,420.35,-9.649999999999977,-2.24
+443,Geelong,North Geelong,2 bedroom houses,375.0,353.4,-21.600000000000023,-5.76
+445,Ballarat,Ballarat,2 bedroom houses,320.0,312.9,-7.100000000000023,-2.22
+446,Ballarat,Mount Clear-Buninyong,2 bedroom houses,320.0,Insufficient Data for Forecast,0.0,0.0
+447,Ballarat,Sebastopol-Delacombe,2 bedroom houses,300.0,294.01,-5.990000000000009,-2.0
+448,Ballarat,Wendouree-Alfredton,2 bedroom houses,320.0,312.7875,-7.212499999999977,-2.25
+450,Bendigo,Bendigo,2 bedroom houses,355.0,350.7,-4.300000000000011,-1.21
+451,Bendigo,Flora Hill-Bendigo East,2 bedroom houses,340.0,337.2666666666667,-2.7333333333332916,-0.8
+452,Bendigo,Golden Square-Kangaroo Flat,2 bedroom houses,350.0,348.9,-1.1000000000000227,-0.31
+453,Bendigo,North Bendigo,2 bedroom houses,340.0,337.5,-2.5,-0.74
+455,Other Regional Centres,Bairnsdale,2 bedroom houses,330.0,322.22,-7.779999999999973,-2.36
+456,Other Regional Centres,Benalla,2 bedroom houses,350.0,339.39,-10.610000000000014,-3.03
+457,Other Regional Centres,Castlemaine,2 bedroom houses,375.0,369.85,-5.149999999999977,-1.37
+458,Other Regional Centres,Echuca,2 bedroom houses,350.0,288.85200000000003,-61.14799999999997,-17.47
+459,Other Regional Centres,Hamilton,2 bedroom houses,280.0,283.12,3.1200000000000045,1.11
+460,Other Regional Centres,Horsham,2 bedroom houses,290.0,279.39599999999996,-10.604000000000042,-3.66
+461,Other Regional Centres,Mildura,2 bedroom houses,300.0,296.95,-3.0500000000000114,-1.02
+462,Other Regional Centres,Moe-Newborough,2 bedroom houses,290.0,276.7,-13.300000000000011,-4.59
+463,Other Regional Centres,Morwell,2 bedroom houses,280.0,273.85,-6.149999999999977,-2.2
+464,Other Regional Centres,Ocean Grove-Barwon Heads,2 bedroom houses,460.0,461.95,1.9499999999999886,0.42
+465,Other Regional Centres,Portland,2 bedroom houses,320.0,336.88,16.879999999999995,5.27
+466,Other Regional Centres,Sale-Maffra,2 bedroom houses,330.0,317.0,-13.0,-3.94
+467,Other Regional Centres,Seymour,2 bedroom houses,355.0,Insufficient Data for Forecast,0.0,0.0
+468,Other Regional Centres,Shepparton,2 bedroom houses,300.0,297.38,-2.6200000000000045,-0.87
+469,Other Regional Centres,Swan Hill,2 bedroom houses,300.0,283.0,-17.0,-5.67
+470,Other Regional Centres,Torquay,2 bedroom houses,500.0,482.9825,-17.017499999999984,-3.4
+471,Other Regional Centres,Traralgon,2 bedroom houses,343.0,338.95,-4.050000000000011,-1.18
+472,Other Regional Centres,Wanagaratta,2 bedroom houses,350.0,344.65,-5.350000000000023,-1.53
+473,Other Regional Centres,Warragul,2 bedroom houses,348.0,343.82,-4.180000000000007,-1.2
+474,Other Regional Centres,Warrnambool,2 bedroom houses,380.0,373.0,-7.0,-1.84
+475,Other Regional Centres,Wodonga,2 bedroom houses,340.0,335.12857142857143,-4.871428571428567,-1.43
+477,Inner Melbourne,Albert Park-Middle Park-West St Kilda,3 bedroom flats,660.0,810.205,150.20500000000004,22.76
+478,Inner Melbourne,Armadale,3 bedroom flats,720.0,719.6,-0.39999999999997726,-0.06
+479,Inner Melbourne,Carlton North,3 bedroom flats,620.0,617.79,-2.2100000000000364,-0.36
+480,Inner Melbourne,Carlton-Parkville,3 bedroom flats,600.0,599.4,-0.6000000000000227,-0.1
+481,Inner Melbourne,CBD-St Kilda Rd,3 bedroom flats,735.0,724.85,-10.149999999999977,-1.38
+482,Inner Melbourne,Collingwood-Abbotsford,3 bedroom flats,800.0,798.42,-1.580000000000041,-0.2
+483,Inner Melbourne,Docklands,3 bedroom flats,900.0,Insufficient Data for Forecast,0.0,0.0
+484,Inner Melbourne,East Melbourne,3 bedroom flats,843.0,859.6233333333333,16.623333333333335,1.97
+485,Inner Melbourne,East St Kilda,3 bedroom flats,575.0,560.35,-14.649999999999977,-2.55
+486,Inner Melbourne,Elwood,3 bedroom flats,593.0,614.11,21.110000000000014,3.56
+487,Inner Melbourne,Fitzroy,3 bedroom flats,850.0,786.8619047619047,-63.138095238095275,-7.43
+488,Inner Melbourne,Fitzroy North-Clifton Hill,3 bedroom flats,765.0,735.7,-29.299999999999955,-3.83
+489,Inner Melbourne,Flemington-Kensington,3 bedroom flats,550.0,536.06,-13.940000000000055,-2.53
+490,Inner Melbourne,North Melbourne-West Melbourne,3 bedroom flats,625.0,618.94,-6.059999999999945,-0.97
+491,Inner Melbourne,Port Melbourne,3 bedroom flats,898.0,887.29,-10.710000000000036,-1.19
+492,Inner Melbourne,Prahran-Windsor,3 bedroom flats,695.0,705.9,10.899999999999977,1.57
+493,Inner Melbourne,Richmond-Burnley,3 bedroom flats,770.0,772.8,2.7999999999999545,0.36
+494,Inner Melbourne,South Melbourne,3 bedroom flats,732.0,685.28,-46.72000000000003,-6.38
+495,Inner Melbourne,South Yarra,3 bedroom flats,810.0,800.55,-9.450000000000045,-1.17
+496,Inner Melbourne,Southbank,3 bedroom flats,730.0,685.74,-44.25999999999999,-6.06
+497,Inner Melbourne,St Kilda,3 bedroom flats,600.0,614.38,14.379999999999995,2.4
+498,Inner Melbourne,Toorak,3 bedroom flats,700.0,711.65,11.649999999999977,1.66
+500,Inner Eastern Melbourne,Balwyn,3 bedroom flats,630.0,620.2,-9.799999999999955,-1.56
+501,Inner Eastern Melbourne,Blackburn,3 bedroom flats,500.0,494.42,-5.579999999999984,-1.12
+502,Inner Eastern Melbourne,Box Hill,3 bedroom flats,520.0,513.49,-6.509999999999991,-1.25
+503,Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,3 bedroom flats,550.0,540.525,-9.475000000000023,-1.72
+504,Inner Eastern Melbourne,Burwood-Ashburton,3 bedroom flats,540.0,546.9766666666667,6.976666666666688,1.29
+505,Inner Eastern Melbourne,Camberwell-Glen Iris,3 bedroom flats,660.0,647.65,-12.350000000000023,-1.87
+506,Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,3 bedroom flats,650.0,608.3,-41.700000000000045,-6.42
+507,Inner Eastern Melbourne,Chadstone-Oakleigh,3 bedroom flats,515.0,510.34,-4.660000000000025,-0.9
+508,Inner Eastern Melbourne,Clayton,3 bedroom flats,463.0,461.27,-1.7300000000000182,-0.37
+509,Inner Eastern Melbourne,Doncaster East-Donvale,3 bedroom flats,520.0,502.5,-17.5,-3.37
+510,Inner Eastern Melbourne,East Hawthorn,3 bedroom flats,600.0,582.35,-17.649999999999977,-2.94
+511,Inner Eastern Melbourne,Glen Waverley-Mulgrave,3 bedroom flats,525.0,493.1,-31.899999999999977,-6.08
+512,Inner Eastern Melbourne,Hawthorn,3 bedroom flats,680.0,660.77,-19.230000000000018,-2.83
+513,Inner Eastern Melbourne,Kew,3 bedroom flats,600.0,599.65,-0.35000000000002274,-0.06
+514,Inner Eastern Melbourne,Mount Waverley,3 bedroom flats,550.0,533.45,-16.549999999999955,-3.01
+515,Inner Eastern Melbourne,Nunawading-Mitcham,3 bedroom flats,500.0,489.35,-10.649999999999977,-2.13
+516,Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,3 bedroom flats,500.0,463.79,-36.20999999999998,-7.24
+518,Southern Melbourne,Aspendale-Chelsea-Carrum,3 bedroom flats,530.0,514.0,-16.0,-3.02
+519,Southern Melbourne,Bentleigh,3 bedroom flats,620.0,603.0916666666667,-16.908333333333303,-2.73
+520,Southern Melbourne,Brighton,3 bedroom flats,793.0,792.64,-0.36000000000001364,-0.05
+521,Southern Melbourne,Brighton East,3 bedroom flats,640.0,647.93,7.92999999999995,1.24
+522,Southern Melbourne,Carnegie,3 bedroom flats,585.0,571.65,-13.350000000000023,-2.28
+523,Southern Melbourne,Caulfield,3 bedroom flats,600.0,600.92,0.9199999999999591,0.15
+524,Southern Melbourne,Cheltenham,3 bedroom flats,578.0,568.94,-9.059999999999945,-1.57
+525,Southern Melbourne,Elsternwick,3 bedroom flats,680.0,667.06,-12.940000000000055,-1.9
+526,Southern Melbourne,Hampton-Beaumaris,3 bedroom flats,700.0,692.71,-7.289999999999964,-1.04
+527,Southern Melbourne,Malvern,3 bedroom flats,690.0,687.05,-2.9500000000000455,-0.43
+528,Southern Melbourne,Malvern East,3 bedroom flats,600.0,596.55,-3.4500000000000455,-0.58
+529,Southern Melbourne,Mentone-Parkdale-Mordialloc,3 bedroom flats,585.0,561.83,-23.16999999999996,-3.96
+530,Southern Melbourne,Murrumbeena-Hughesdale,3 bedroom flats,550.0,543.85,-6.149999999999977,-1.12
+532,Outer Western Melbourne,Altona,3 bedroom flats,420.0,416.225,-3.7749999999999773,-0.9
+533,Outer Western Melbourne,Footscray,3 bedroom flats,520.0,527.6435714285715,7.643571428571477,1.47
+534,Outer Western Melbourne,Keilor East-Avondale Heights,3 bedroom flats,480.0,432.98,-47.01999999999998,-9.8
+535,Outer Western Melbourne,Melton,3 bedroom flats,320.0,319.0,-1.0,-0.31
+536,Outer Western Melbourne,Newport-Spotswood,3 bedroom flats,550.0,535.68,-14.32000000000005,-2.6
+537,Outer Western Melbourne,St Albans-Deer Park,3 bedroom flats,360.0,360.2,0.19999999999998863,0.06
+538,Outer Western Melbourne,Sunshine,3 bedroom flats,390.0,386.19,-3.8100000000000023,-0.98
+539,Outer Western Melbourne,Sydenham,3 bedroom flats,380.0,371.15,-8.850000000000023,-2.33
+540,Outer Western Melbourne,Werribee-Hoppers Crossing,3 bedroom flats,350.0,348.6,-1.3999999999999773,-0.4
+541,Outer Western Melbourne,West Footscray,3 bedroom flats,460.0,433.8,-26.19999999999999,-5.7
+542,Outer Western Melbourne,Williamstown,3 bedroom flats,590.0,612.9398333333334,22.939833333333354,3.89
+543,Outer Western Melbourne,Yarraville-Seddon,3 bedroom flats,550.0,Insufficient Data for Forecast,0.0,0.0
+545,North Western Melbourne,Broadmeadows-Roxburgh Park,3 bedroom flats,380.0,372.37,-7.6299999999999955,-2.01
+546,North Western Melbourne,Brunswick,3 bedroom flats,650.0,635.65,-14.350000000000023,-2.21
+547,North Western Melbourne,Coburg-Pascoe Vale South,3 bedroom flats,550.0,543.9,-6.100000000000023,-1.11
+548,North Western Melbourne,Craigieburn,3 bedroom flats,370.0,366.48833333333334,-3.511666666666656,-0.95
+549,North Western Melbourne,East Brunswick,3 bedroom flats,663.0,675.43,12.42999999999995,1.87
+550,North Western Melbourne,Essendon,3 bedroom flats,495.0,490.35,-4.649999999999977,-0.94
+551,North Western Melbourne,Gladstone Park-Tullamarine,3 bedroom flats,420.0,402.7416666666666,-17.258333333333383,-4.11
+552,North Western Melbourne,Keilor,3 bedroom flats,,Insufficient Data for Forecast,0.0,
+553,North Western Melbourne,Moonee Ponds-Ascot Vale,3 bedroom flats,550.0,546.8,-3.2000000000000455,-0.58
+554,North Western Melbourne,Oak Park-Glenroy-Fawkner,3 bedroom flats,440.0,440.0,0.0,0.0
+555,North Western Melbourne,Pascoe Vale-Coburg North,3 bedroom flats,490.0,487.86,-2.1399999999999864,-0.44
+556,North Western Melbourne,Sunbury,3 bedroom flats,385.0,380.45,-4.550000000000011,-1.18
+557,North Western Melbourne,West Brunswick,3 bedroom flats,550.0,Insufficient Data for Forecast,0.0,0.0
+559,North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,3 bedroom flats,473.0,450.5766666666667,-22.42333333333329,-4.74
+560,North Eastern Melbourne,Eltham-Research-Montmorency,3 bedroom flats,530.0,482.25,-47.75,-9.01
+561,North Eastern Melbourne,Fairfield-Alphington,3 bedroom flats,650.0,600.45,-49.549999999999955,-7.62
+562,North Eastern Melbourne,Heidelberg-Heidelberg West,3 bedroom flats,500.0,489.9448333333333,-10.055166666666707,-2.01
+563,North Eastern Melbourne,Ivanhoe-Ivanhoe East,3 bedroom flats,590.0,573.72,-16.279999999999973,-2.76
+564,North Eastern Melbourne,Mill Park-Epping,3 bedroom flats,378.0,369.86,-8.139999999999986,-2.15
+565,North Eastern Melbourne,Northcote,3 bedroom flats,683.0,669.58,-13.419999999999959,-1.96
+566,North Eastern Melbourne,Preston,3 bedroom flats,510.0,503.8,-6.199999999999989,-1.22
+567,North Eastern Melbourne,Reservoir,3 bedroom flats,450.0,440.95,-9.050000000000011,-2.01
+568,North Eastern Melbourne,Thomastown-Lalor,3 bedroom flats,385.0,378.32,-6.680000000000007,-1.74
+569,North Eastern Melbourne,Thornbury,3 bedroom flats,600.0,603.135,3.134999999999991,0.52
+570,North Eastern Melbourne,Whittlesea,3 bedroom flats,400.0,Insufficient Data for Forecast,0.0,0.0
+572,Outer Eastern Melbourne,Bayswater,3 bedroom flats,450.0,441.95,-8.050000000000011,-1.79
+573,Outer Eastern Melbourne,Boronia,3 bedroom flats,450.0,441.02,-8.980000000000018,-2.0
+574,Outer Eastern Melbourne,Croydon-Lilydale,3 bedroom flats,480.0,474.95,-5.050000000000011,-1.05
+575,Outer Eastern Melbourne,Ferntree Gully,3 bedroom flats,455.0,444.55499999999995,-10.44500000000005,-2.3
+576,Outer Eastern Melbourne,Ringwood,3 bedroom flats,480.0,451.8,-28.19999999999999,-5.87
+577,Outer Eastern Melbourne,Rowville,3 bedroom flats,460.0,450.62,-9.379999999999995,-2.04
+578,Outer Eastern Melbourne,Wantirna-Scoresby,3 bedroom flats,460.0,427.18,-32.81999999999999,-7.13
+579,Outer Eastern Melbourne,Yarra Ranges,3 bedroom flats,450.0,402.46,-47.54000000000002,-10.56
+581,South Eastern Melbourne,Berwick,3 bedroom flats,410.0,389.65,-20.350000000000023,-4.96
+582,South Eastern Melbourne,Cranbourne,3 bedroom flats,400.0,388.05,-11.949999999999989,-2.99
+583,South Eastern Melbourne,Dandenong,3 bedroom flats,415.0,400.0,-15.0,-3.61
+584,South Eastern Melbourne,Dandenong North-Endeavour Hills,3 bedroom flats,400.0,382.40892857142853,-17.591071428571468,-4.4
+585,South Eastern Melbourne,Narre Warren-Hampton Park,3 bedroom flats,400.0,386.68,-13.319999999999993,-3.33
+586,South Eastern Melbourne,Noble Park,3 bedroom flats,410.0,394.75,-15.25,-3.72
+587,South Eastern Melbourne,Pakenham,3 bedroom flats,378.0,350.02,-27.980000000000018,-7.4
+588,South Eastern Melbourne,Springvale,3 bedroom flats,458.0,440.98,-17.019999999999982,-3.72
+590,Mornington Peninsula,Dromana-Portsea,3 bedroom flats,520.0,502.1,-17.899999999999977,-3.44
+591,Mornington Peninsula,Frankston,3 bedroom flats,450.0,445.5,-4.5,-1.0
+592,Mornington Peninsula,Hastings-Flinders,3 bedroom flats,460.0,454.5,-5.5,-1.2
+593,Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,3 bedroom flats,560.0,556.58,-3.419999999999959,-0.61
+594,Mornington Peninsula,Seaford-Carrum Downs,3 bedroom flats,450.0,432.59,-17.410000000000025,-3.87
+596,Geelong,Belmont-Grovedale,3 bedroom flats,450.0,435.5,-14.5,-3.22
+597,Geelong,Corio,3 bedroom flats,380.0,Insufficient Data for Forecast,0.0,0.0
+598,Geelong,Geelong-Newcombe,3 bedroom flats,450.0,390.62666666666667,-59.373333333333335,-13.19
+599,Geelong,Herne Hill-Geelong West,3 bedroom flats,490.0,Insufficient Data for Forecast,0.0,0.0
+600,Geelong,Lara,3 bedroom flats,410.0,Insufficient Data for Forecast,0.0,0.0
+601,Geelong,Newtown,3 bedroom flats,490.0,Insufficient Data for Forecast,0.0,0.0
+602,Geelong,North Geelong,3 bedroom flats,440.0,Insufficient Data for Forecast,0.0,0.0
+604,Ballarat,Ballarat,3 bedroom flats,360.0,357.76,-2.240000000000009,-0.62
+605,Ballarat,Mount Clear-Buninyong,3 bedroom flats,350.0,338.18,-11.819999999999993,-3.38
+606,Ballarat,Sebastopol-Delacombe,3 bedroom flats,330.0,Insufficient Data for Forecast,0.0,0.0
+607,Ballarat,Wendouree-Alfredton,3 bedroom flats,380.0,Insufficient Data for Forecast,0.0,0.0
+609,Bendigo,Bendigo,3 bedroom flats,430.0,Insufficient Data for Forecast,0.0,0.0
+610,Bendigo,Flora Hill-Bendigo East,3 bedroom flats,380.0,373.55,-6.449999999999989,-1.7
+611,Bendigo,Golden Square-Kangaroo Flat,3 bedroom flats,380.0,371.86,-8.139999999999986,-2.14
+612,Bendigo,North Bendigo,3 bedroom flats,390.0,Insufficient Data for Forecast,0.0,0.0
+614,Other Regional Centres,Bairnsdale,3 bedroom flats,385.0,Insufficient Data for Forecast,0.0,0.0
+615,Other Regional Centres,Benalla,3 bedroom flats,,Insufficient Data for Forecast,0.0,
+616,Other Regional Centres,Castlemaine,3 bedroom flats,,Insufficient Data for Forecast,0.0,
+617,Other Regional Centres,Echuca,3 bedroom flats,390.0,381.99,-8.009999999999991,-2.05
+618,Other Regional Centres,Hamilton,3 bedroom flats,,Insufficient Data for Forecast,0.0,
+619,Other Regional Centres,Horsham,3 bedroom flats,360.0,Insufficient Data for Forecast,0.0,0.0
+620,Other Regional Centres,Mildura,3 bedroom flats,340.0,335.07,-4.930000000000007,-1.45
+621,Other Regional Centres,Moe-Newborough,3 bedroom flats,,Insufficient Data for Forecast,0.0,
+622,Other Regional Centres,Morwell,3 bedroom flats,300.0,Insufficient Data for Forecast,0.0,0.0
+623,Other Regional Centres,Ocean Grove-Barwon Heads,3 bedroom flats,520.0,504.38,-15.620000000000005,-3.0
+624,Other Regional Centres,Portland,3 bedroom flats,,Insufficient Data for Forecast,0.0,
+625,Other Regional Centres,Sale-Maffra,3 bedroom flats,410.0,396.66,-13.339999999999975,-3.25
+626,Other Regional Centres,Seymour,3 bedroom flats,,Insufficient Data for Forecast,0.0,
+627,Other Regional Centres,Shepparton,3 bedroom flats,375.0,363.7,-11.300000000000011,-3.01
+628,Other Regional Centres,Swan Hill,3 bedroom flats,375.0,Insufficient Data for Forecast,0.0,0.0
+629,Other Regional Centres,Torquay,3 bedroom flats,555.0,509.98,-45.01999999999998,-8.11
+630,Other Regional Centres,Traralgon,3 bedroom flats,380.0,378.34,-1.660000000000025,-0.44
+631,Other Regional Centres,Wanagaratta,3 bedroom flats,385.0,Insufficient Data for Forecast,0.0,0.0
+632,Other Regional Centres,Warragul,3 bedroom flats,365.0,Insufficient Data for Forecast,0.0,0.0
+633,Other Regional Centres,Warrnambool,3 bedroom flats,450.0,436.2,-13.800000000000011,-3.07
+634,Other Regional Centres,Wodonga,3 bedroom flats,370.0,363.2,-6.800000000000011,-1.84
+636,Inner Melbourne,Albert Park-Middle Park-West St Kilda,3 bedroom houses,950.0,947.75,-2.25,-0.24
+637,Inner Melbourne,Armadale,3 bedroom houses,850.0,896.41,46.40999999999997,5.46
+638,Inner Melbourne,Carlton North,3 bedroom houses,775.0,764.75,-10.25,-1.32
+639,Inner Melbourne,Carlton-Parkville,3 bedroom houses,775.0,767.0475,-7.952499999999986,-1.03
+640,Inner Melbourne,CBD-St Kilda Rd,3 bedroom houses,,Insufficient Data for Forecast,0.0,
+641,Inner Melbourne,Collingwood-Abbotsford,3 bedroom houses,790.0,790.46,0.4600000000000364,0.06
+642,Inner Melbourne,Docklands,3 bedroom houses,,Insufficient Data for Forecast,0.0,
+643,Inner Melbourne,East Melbourne,3 bedroom houses,1000.0,Insufficient Data for Forecast,0.0,0.0
+644,Inner Melbourne,East St Kilda,3 bedroom houses,710.0,734.45,24.450000000000045,3.44
+645,Inner Melbourne,Elwood,3 bedroom houses,900.0,822.76,-77.24000000000001,-8.58
+646,Inner Melbourne,Fitzroy,3 bedroom houses,877.0,867.48,-9.519999999999982,-1.09
+647,Inner Melbourne,Fitzroy North-Clifton Hill,3 bedroom houses,800.0,753.0,-47.0,-5.88
+648,Inner Melbourne,Flemington-Kensington,3 bedroom houses,640.0,635.22,-4.779999999999973,-0.75
+649,Inner Melbourne,North Melbourne-West Melbourne,3 bedroom houses,685.0,686.29,1.2899999999999636,0.19
+650,Inner Melbourne,Port Melbourne,3 bedroom houses,800.0,803.8683333333333,3.8683333333333394,0.48
+651,Inner Melbourne,Prahran-Windsor,3 bedroom houses,825.0,788.15,-36.85000000000002,-4.47
+652,Inner Melbourne,Richmond-Burnley,3 bedroom houses,800.0,797.0,-3.0,-0.38
+653,Inner Melbourne,South Melbourne,3 bedroom houses,850.0,847.025,-2.9750000000000227,-0.35
+654,Inner Melbourne,South Yarra,3 bedroom houses,910.0,890.6416666666665,-19.358333333333462,-2.13
+655,Inner Melbourne,Southbank,3 bedroom houses,,Insufficient Data for Forecast,0.0,
+656,Inner Melbourne,St Kilda,3 bedroom houses,778.0,764.27,-13.730000000000018,-1.76
+657,Inner Melbourne,Toorak,3 bedroom houses,1000.0,985.8768333333335,-14.12316666666652,-1.41
+659,Inner Eastern Melbourne,Balwyn,3 bedroom houses,590.0,586.3,-3.7000000000000455,-0.63
+660,Inner Eastern Melbourne,Blackburn,3 bedroom houses,470.0,463.24,-6.759999999999991,-1.44
+661,Inner Eastern Melbourne,Box Hill,3 bedroom houses,490.0,480.57,-9.430000000000007,-1.92
+662,Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,3 bedroom houses,500.0,497.5,-2.5,-0.5
+663,Inner Eastern Melbourne,Burwood-Ashburton,3 bedroom houses,510.0,504.54,-5.4599999999999795,-1.07
+664,Inner Eastern Melbourne,Camberwell-Glen Iris,3 bedroom houses,695.0,693.15,-1.8500000000000227,-0.27
+665,Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,3 bedroom houses,690.0,646.62,-43.379999999999995,-6.29
+666,Inner Eastern Melbourne,Chadstone-Oakleigh,3 bedroom houses,465.0,465.0666666666667,0.06666666666671972,0.01
+667,Inner Eastern Melbourne,Clayton,3 bedroom houses,450.0,451.515,1.5149999999999864,0.34
+668,Inner Eastern Melbourne,Doncaster East-Donvale,3 bedroom houses,515.0,504.04,-10.95999999999998,-2.13
+669,Inner Eastern Melbourne,East Hawthorn,3 bedroom houses,730.0,717.25,-12.75,-1.75
+670,Inner Eastern Melbourne,Glen Waverley-Mulgrave,3 bedroom houses,480.0,460.1,-19.899999999999977,-4.15
+671,Inner Eastern Melbourne,Hawthorn,3 bedroom houses,800.0,760.76,-39.24000000000001,-4.91
+672,Inner Eastern Melbourne,Kew,3 bedroom houses,700.0,690.95,-9.049999999999955,-1.29
+673,Inner Eastern Melbourne,Mount Waverley,3 bedroom houses,495.0,472.03333333333336,-22.96666666666664,-4.64
+674,Inner Eastern Melbourne,Nunawading-Mitcham,3 bedroom houses,478.0,467.38666666666666,-10.613333333333344,-2.22
+675,Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,3 bedroom houses,470.0,449.6,-20.399999999999977,-4.34
+677,Southern Melbourne,Aspendale-Chelsea-Carrum,3 bedroom houses,540.0,532.9,-7.100000000000023,-1.31
+678,Southern Melbourne,Bentleigh,3 bedroom houses,600.0,593.3,-6.7000000000000455,-1.12
+679,Southern Melbourne,Brighton,3 bedroom houses,950.0,885.3539999999999,-64.64600000000007,-6.8
+680,Southern Melbourne,Brighton East,3 bedroom houses,733.0,738.62,5.6200000000000045,0.77
+681,Southern Melbourne,Carnegie,3 bedroom houses,628.0,598.4833333333333,-29.51666666666665,-4.7
+682,Southern Melbourne,Caulfield,3 bedroom houses,700.0,687.6,-12.399999999999977,-1.77
+683,Southern Melbourne,Cheltenham,3 bedroom houses,570.0,537.73,-32.26999999999998,-5.66
+684,Southern Melbourne,Elsternwick,3 bedroom houses,750.0,761.91,11.909999999999968,1.59
+685,Southern Melbourne,Hampton-Beaumaris,3 bedroom houses,800.0,764.38,-35.620000000000005,-4.45
+686,Southern Melbourne,Malvern,3 bedroom houses,850.0,831.745,-18.254999999999995,-2.15
+687,Southern Melbourne,Malvern East,3 bedroom houses,630.0,607.96,-22.039999999999964,-3.5
+688,Southern Melbourne,Mentone-Parkdale-Mordialloc,3 bedroom houses,620.0,610.5,-9.5,-1.53
+689,Southern Melbourne,Murrumbeena-Hughesdale,3 bedroom houses,550.0,545.9,-4.100000000000023,-0.75
+691,Outer Western Melbourne,Altona,3 bedroom houses,400.0,391.6,-8.399999999999977,-2.1
+692,Outer Western Melbourne,Footscray,3 bedroom houses,520.0,509.13333333333327,-10.866666666666731,-2.09
+693,Outer Western Melbourne,Keilor East-Avondale Heights,3 bedroom houses,435.0,430.58,-4.420000000000016,-1.02
+694,Outer Western Melbourne,Melton,3 bedroom houses,340.0,330.1,-9.899999999999977,-2.91
+695,Outer Western Melbourne,Newport-Spotswood,3 bedroom houses,560.0,550.1,-9.899999999999977,-1.77
+696,Outer Western Melbourne,St Albans-Deer Park,3 bedroom houses,360.0,352.7,-7.300000000000011,-2.03
+697,Outer Western Melbourne,Sunshine,3 bedroom houses,370.0,365.45,-4.550000000000011,-1.23
+698,Outer Western Melbourne,Sydenham,3 bedroom houses,400.0,388.35,-11.649999999999977,-2.91
+699,Outer Western Melbourne,Werribee-Hoppers Crossing,3 bedroom houses,360.0,356.4,-3.6000000000000227,-1.0
+700,Outer Western Melbourne,West Footscray,3 bedroom houses,450.0,455.5,5.5,1.22
+701,Outer Western Melbourne,Williamstown,3 bedroom houses,650.0,649.0,-1.0,-0.15
+702,Outer Western Melbourne,Yarraville-Seddon,3 bedroom houses,575.0,575.1,0.10000000000002274,0.02
+704,North Western Melbourne,Broadmeadows-Roxburgh Park,3 bedroom houses,380.0,370.15,-9.850000000000023,-2.59
+705,North Western Melbourne,Brunswick,3 bedroom houses,690.0,676.8,-13.200000000000045,-1.91
+706,North Western Melbourne,Coburg-Pascoe Vale South,3 bedroom houses,550.0,549.82,-0.17999999999994998,-0.03
+707,North Western Melbourne,Craigieburn,3 bedroom houses,400.0,381.08,-18.920000000000016,-4.73
+708,North Western Melbourne,East Brunswick,3 bedroom houses,650.0,659.4,9.399999999999977,1.45
+709,North Western Melbourne,Essendon,3 bedroom houses,500.0,493.9,-6.100000000000023,-1.22
+710,North Western Melbourne,Gladstone Park-Tullamarine,3 bedroom houses,410.0,399.87666666666667,-10.123333333333335,-2.47
+711,North Western Melbourne,Keilor,3 bedroom houses,450.0,432.31523809523804,-17.684761904761956,-3.93
+712,North Western Melbourne,Moonee Ponds-Ascot Vale,3 bedroom houses,605.0,588.15,-16.850000000000023,-2.79
+713,North Western Melbourne,Oak Park-Glenroy-Fawkner,3 bedroom houses,420.0,416.35,-3.6499999999999773,-0.87
+714,North Western Melbourne,Pascoe Vale-Coburg North,3 bedroom houses,495.0,484.15,-10.850000000000023,-2.19
+715,North Western Melbourne,Sunbury,3 bedroom houses,400.0,396.2,-3.8000000000000114,-0.95
+716,North Western Melbourne,West Brunswick,3 bedroom houses,590.0,599.915,9.914999999999964,1.68
+718,North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,3 bedroom houses,440.0,432.2,-7.800000000000011,-1.77
+719,North Eastern Melbourne,Eltham-Research-Montmorency,3 bedroom houses,525.0,514.1,-10.899999999999977,-2.08
+720,North Eastern Melbourne,Fairfield-Alphington,3 bedroom houses,700.0,683.31,-16.690000000000055,-2.38
+721,North Eastern Melbourne,Heidelberg-Heidelberg West,3 bedroom houses,458.0,455.25,-2.75,-0.6
+722,North Eastern Melbourne,Ivanhoe-Ivanhoe East,3 bedroom houses,595.0,595.8,0.7999999999999545,0.13
+723,North Eastern Melbourne,Mill Park-Epping,3 bedroom houses,400.0,381.9,-18.100000000000023,-4.53
+724,North Eastern Melbourne,Northcote,3 bedroom houses,728.0,715.081,-12.918999999999983,-1.77
+725,North Eastern Melbourne,Preston,3 bedroom houses,520.0,512.8,-7.2000000000000455,-1.38
+726,North Eastern Melbourne,Reservoir,3 bedroom houses,420.0,410.4858730158731,-9.514126984126904,-2.27
+727,North Eastern Melbourne,Thomastown-Lalor,3 bedroom houses,380.0,375.19750000000005,-4.802499999999952,-1.26
+728,North Eastern Melbourne,Thornbury,3 bedroom houses,650.0,652.25,2.25,0.35
+729,North Eastern Melbourne,Whittlesea,3 bedroom houses,400.0,397.5133333333334,-2.486666666666622,-0.62
+731,Outer Eastern Melbourne,Bayswater,3 bedroom houses,440.0,432.15,-7.850000000000023,-1.78
+732,Outer Eastern Melbourne,Boronia,3 bedroom houses,440.0,433.03,-6.970000000000027,-1.58
+733,Outer Eastern Melbourne,Croydon-Lilydale,3 bedroom houses,470.0,461.3,-8.699999999999989,-1.85
+734,Outer Eastern Melbourne,Ferntree Gully,3 bedroom houses,450.0,437.85,-12.149999999999977,-2.7
+735,Outer Eastern Melbourne,Ringwood,3 bedroom houses,460.0,458.45,-1.5500000000000114,-0.34
+736,Outer Eastern Melbourne,Rowville,3 bedroom houses,480.0,467.55,-12.449999999999989,-2.59
+737,Outer Eastern Melbourne,Wantirna-Scoresby,3 bedroom houses,450.0,449.33,-0.6700000000000159,-0.15
+738,Outer Eastern Melbourne,Yarra Ranges,3 bedroom houses,470.0,464.5,-5.5,-1.17
+740,South Eastern Melbourne,Berwick,3 bedroom houses,425.0,407.5,-17.5,-4.12
+741,South Eastern Melbourne,Cranbourne,3 bedroom houses,410.0,405.15,-4.850000000000023,-1.18
+742,South Eastern Melbourne,Dandenong,3 bedroom houses,420.0,409.9,-10.100000000000023,-2.4
+743,South Eastern Melbourne,Dandenong North-Endeavour Hills,3 bedroom houses,390.0,381.5,-8.5,-2.18
+744,South Eastern Melbourne,Narre Warren-Hampton Park,3 bedroom houses,400.0,392.0,-8.0,-2.0
+745,South Eastern Melbourne,Noble Park,3 bedroom houses,395.0,380.15,-14.850000000000023,-3.76
+746,South Eastern Melbourne,Pakenham,3 bedroom houses,395.0,385.45,-9.550000000000011,-2.42
+747,South Eastern Melbourne,Springvale,3 bedroom houses,420.0,399.7,-20.30000000000001,-4.83
+749,Mornington Peninsula,Dromana-Portsea,3 bedroom houses,500.0,493.85,-6.149999999999977,-1.23
+750,Mornington Peninsula,Frankston,3 bedroom houses,460.0,453.6,-6.399999999999977,-1.39
+751,Mornington Peninsula,Hastings-Flinders,3 bedroom houses,500.0,495.2,-4.800000000000011,-0.96
+752,Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,3 bedroom houses,600.0,590.95,-9.049999999999955,-1.51
+753,Mornington Peninsula,Seaford-Carrum Downs,3 bedroom houses,440.0,434.6,-5.399999999999977,-1.23
+755,Geelong,Belmont-Grovedale,3 bedroom houses,450.0,438.75,-11.25,-2.5
+756,Geelong,Corio,3 bedroom houses,350.0,346.55,-3.4499999999999886,-0.99
+757,Geelong,Geelong-Newcombe,3 bedroom houses,420.0,413.9,-6.100000000000023,-1.45
+758,Geelong,Herne Hill-Geelong West,3 bedroom houses,470.0,466.7,-3.3000000000000114,-0.7
+759,Geelong,Lara,3 bedroom houses,450.0,430.95,-19.05000000000001,-4.23
+760,Geelong,Newtown,3 bedroom houses,475.0,455.65,-19.350000000000023,-4.07
+761,Geelong,North Geelong,3 bedroom houses,420.0,416.11,-3.8899999999999864,-0.93
+763,Ballarat,Ballarat,3 bedroom houses,370.0,366.4,-3.6000000000000227,-0.97
+764,Ballarat,Mount Clear-Buninyong,3 bedroom houses,370.0,356.61,-13.389999999999986,-3.62
+765,Ballarat,Sebastopol-Delacombe,3 bedroom houses,350.0,339.9,-10.100000000000023,-2.89
+766,Ballarat,Wendouree-Alfredton,3 bedroom houses,375.0,366.25,-8.75,-2.33
+768,Bendigo,Bendigo,3 bedroom houses,400.0,385.9,-14.100000000000023,-3.53
+769,Bendigo,Flora Hill-Bendigo East,3 bedroom houses,400.0,399.35,-0.6499999999999773,-0.16
+770,Bendigo,Golden Square-Kangaroo Flat,3 bedroom houses,398.0,393.12,-4.8799999999999955,-1.23
+771,Bendigo,North Bendigo,3 bedroom houses,390.0,381.5,-8.5,-2.18
+773,Other Regional Centres,Bairnsdale,3 bedroom houses,400.0,391.0,-9.0,-2.25
+774,Other Regional Centres,Benalla,3 bedroom houses,400.0,391.7,-8.300000000000011,-2.08
+775,Other Regional Centres,Castlemaine,3 bedroom houses,450.0,441.7666666666667,-8.233333333333292,-1.83
+776,Other Regional Centres,Echuca,3 bedroom houses,400.0,397.1,-2.8999999999999773,-0.72
+777,Other Regional Centres,Hamilton,3 bedroom houses,350.0,346.9,-3.1000000000000227,-0.89
+778,Other Regional Centres,Horsham,3 bedroom houses,350.0,349.5,-0.5,-0.14
+779,Other Regional Centres,Mildura,3 bedroom houses,370.0,359.25,-10.75,-2.91
+780,Other Regional Centres,Moe-Newborough,3 bedroom houses,350.0,343.3,-6.699999999999989,-1.91
+781,Other Regional Centres,Morwell,3 bedroom houses,330.0,315.2,-14.800000000000011,-4.48
+782,Other Regional Centres,Ocean Grove-Barwon Heads,3 bedroom houses,550.0,526.135,-23.86500000000001,-4.34
+783,Other Regional Centres,Portland,3 bedroom houses,378.0,366.34,-11.660000000000025,-3.08
+784,Other Regional Centres,Sale-Maffra,3 bedroom houses,400.0,389.6,-10.399999999999977,-2.6
+785,Other Regional Centres,Seymour,3 bedroom houses,360.0,357.0,-3.0,-0.83
+786,Other Regional Centres,Shepparton,3 bedroom houses,370.0,364.4,-5.600000000000023,-1.51
+787,Other Regional Centres,Swan Hill,3 bedroom houses,340.0,337.65,-2.3500000000000227,-0.69
+788,Other Regional Centres,Torquay,3 bedroom houses,590.0,578.8,-11.200000000000045,-1.9
+789,Other Regional Centres,Traralgon,3 bedroom houses,390.0,382.86,-7.139999999999986,-1.83
+790,Other Regional Centres,Wanagaratta,3 bedroom houses,400.0,379.85,-20.149999999999977,-5.04
+791,Other Regional Centres,Warragul,3 bedroom houses,400.0,390.7,-9.300000000000011,-2.33
+792,Other Regional Centres,Warrnambool,3 bedroom houses,450.0,434.08,-15.920000000000016,-3.54
+793,Other Regional Centres,Wodonga,3 bedroom houses,400.0,398.0,-2.0,-0.5
+795,Inner Melbourne,Albert Park-Middle Park-West St Kilda,4 bedroom houses,1100.0,1168.52,68.51999999999998,6.23
+796,Inner Melbourne,Armadale,4 bedroom houses,1150.0,Insufficient Data for Forecast,0.0,0.0
+797,Inner Melbourne,Carlton North,4 bedroom houses,1075.0,Insufficient Data for Forecast,0.0,0.0
+798,Inner Melbourne,Carlton-Parkville,4 bedroom houses,930.0,933.55,3.5499999999999545,0.38
+799,Inner Melbourne,CBD-St Kilda Rd,4 bedroom houses,,Insufficient Data for Forecast,0.0,
+800,Inner Melbourne,Collingwood-Abbotsford,4 bedroom houses,1000.0,Insufficient Data for Forecast,0.0,0.0
+801,Inner Melbourne,Docklands,4 bedroom houses,,Insufficient Data for Forecast,0.0,
+802,Inner Melbourne,East Melbourne,4 bedroom houses,,Insufficient Data for Forecast,0.0,
+803,Inner Melbourne,East St Kilda,4 bedroom houses,858.0,Insufficient Data for Forecast,0.0,0.0
+804,Inner Melbourne,Elwood,4 bedroom houses,1250.0,Insufficient Data for Forecast,0.0,0.0
+805,Inner Melbourne,Fitzroy,4 bedroom houses,1050.0,Insufficient Data for Forecast,0.0,0.0
+806,Inner Melbourne,Fitzroy North-Clifton Hill,4 bedroom houses,980.0,966.58375,-13.416249999999991,-1.37
+807,Inner Melbourne,Flemington-Kensington,4 bedroom houses,850.0,Insufficient Data for Forecast,0.0,0.0
+808,Inner Melbourne,North Melbourne-West Melbourne,4 bedroom houses,930.0,Insufficient Data for Forecast,0.0,0.0
+809,Inner Melbourne,Port Melbourne,4 bedroom houses,1120.0,1098.83,-21.170000000000073,-1.89
+810,Inner Melbourne,Prahran-Windsor,4 bedroom houses,1125.0,Insufficient Data for Forecast,0.0,0.0
+811,Inner Melbourne,Richmond-Burnley,4 bedroom houses,1050.0,908.15,-141.85000000000002,-13.51
+812,Inner Melbourne,South Melbourne,4 bedroom houses,,Insufficient Data for Forecast,0.0,
+813,Inner Melbourne,South Yarra,4 bedroom houses,1100.0,Insufficient Data for Forecast,0.0,0.0
+814,Inner Melbourne,Southbank,4 bedroom houses,,Insufficient Data for Forecast,0.0,
+815,Inner Melbourne,St Kilda,4 bedroom houses,1050.0,Insufficient Data for Forecast,0.0,0.0
+816,Inner Melbourne,Toorak,4 bedroom houses,1400.0,1368.2916666666665,-31.708333333333485,-2.26
+818,Inner Eastern Melbourne,Balwyn,4 bedroom houses,840.0,764.7,-75.29999999999995,-8.96
+819,Inner Eastern Melbourne,Blackburn,4 bedroom houses,600.0,553.4259999999999,-46.57400000000007,-7.76
+820,Inner Eastern Melbourne,Box Hill,4 bedroom houses,650.0,623.1941666666667,-26.80583333333334,-4.12
+821,Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,4 bedroom houses,650.0,628.1,-21.899999999999977,-3.37
+822,Inner Eastern Melbourne,Burwood-Ashburton,4 bedroom houses,650.0,642.94,-7.059999999999945,-1.09
+823,Inner Eastern Melbourne,Camberwell-Glen Iris,4 bedroom houses,950.0,899.82,-50.17999999999995,-5.28
+824,Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,4 bedroom houses,950.0,798.1,-151.89999999999998,-15.99
+825,Inner Eastern Melbourne,Chadstone-Oakleigh,4 bedroom houses,640.0,624.15,-15.850000000000023,-2.48
+826,Inner Eastern Melbourne,Clayton,4 bedroom houses,550.0,539.27,-10.730000000000018,-1.95
+827,Inner Eastern Melbourne,Doncaster East-Donvale,4 bedroom houses,620.0,600.8,-19.200000000000045,-3.1
+828,Inner Eastern Melbourne,East Hawthorn,4 bedroom houses,1050.0,983.6433333333333,-66.35666666666668,-6.32
+829,Inner Eastern Melbourne,Glen Waverley-Mulgrave,4 bedroom houses,580.0,559.1,-20.899999999999977,-3.6
+830,Inner Eastern Melbourne,Hawthorn,4 bedroom houses,1100.0,1063.2,-36.799999999999955,-3.35
+831,Inner Eastern Melbourne,Kew,4 bedroom houses,990.0,982.78,-7.220000000000027,-0.73
+832,Inner Eastern Melbourne,Mount Waverley,4 bedroom houses,620.0,594.11,-25.889999999999986,-4.18
+833,Inner Eastern Melbourne,Nunawading-Mitcham,4 bedroom houses,550.0,541.97,-8.029999999999973,-1.46
+834,Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,4 bedroom houses,570.0,550.6,-19.399999999999977,-3.4
+836,Southern Melbourne,Aspendale-Chelsea-Carrum,4 bedroom houses,680.0,653.76,-26.24000000000001,-3.86
+837,Southern Melbourne,Bentleigh,4 bedroom houses,830.0,796.14,-33.860000000000014,-4.08
+838,Southern Melbourne,Brighton,4 bedroom houses,1400.0,1283.5883333333334,-116.41166666666663,-8.32
+839,Southern Melbourne,Brighton East,4 bedroom houses,1150.0,1117.0,-33.0,-2.87
+840,Southern Melbourne,Carnegie,4 bedroom houses,850.0,Insufficient Data for Forecast,0.0,0.0
+841,Southern Melbourne,Caulfield,4 bedroom houses,1000.0,924.65,-75.35000000000002,-7.54
+842,Southern Melbourne,Cheltenham,4 bedroom houses,750.0,724.15,-25.850000000000023,-3.45
+843,Southern Melbourne,Elsternwick,4 bedroom houses,1100.0,Insufficient Data for Forecast,0.0,0.0
+844,Southern Melbourne,Hampton-Beaumaris,4 bedroom houses,1100.0,1004.93,-95.07000000000005,-8.64
+845,Southern Melbourne,Malvern,4 bedroom houses,1200.0,Insufficient Data for Forecast,0.0,0.0
+846,Southern Melbourne,Malvern East,4 bedroom houses,870.0,859.54,-10.460000000000036,-1.2
+847,Southern Melbourne,Mentone-Parkdale-Mordialloc,4 bedroom houses,760.0,727.255,-32.745000000000005,-4.31
+848,Southern Melbourne,Murrumbeena-Hughesdale,4 bedroom houses,770.0,Insufficient Data for Forecast,0.0,0.0
+850,Outer Western Melbourne,Altona,4 bedroom houses,445.0,438.5,-6.5,-1.46
+851,Outer Western Melbourne,Footscray,4 bedroom houses,565.0,Insufficient Data for Forecast,0.0,0.0
+852,Outer Western Melbourne,Keilor East-Avondale Heights,4 bedroom houses,560.0,492.97,-67.02999999999997,-11.97
+853,Outer Western Melbourne,Melton,4 bedroom houses,390.0,383.47,-6.529999999999973,-1.67
+854,Outer Western Melbourne,Newport-Spotswood,4 bedroom houses,730.0,735.08,5.080000000000041,0.7
+855,Outer Western Melbourne,St Albans-Deer Park,4 bedroom houses,430.0,413.01,-16.99000000000001,-3.95
+856,Outer Western Melbourne,Sunshine,4 bedroom houses,445.0,430.4,-14.600000000000023,-3.28
+857,Outer Western Melbourne,Sydenham,4 bedroom houses,450.0,446.1,-3.8999999999999773,-0.87
+858,Outer Western Melbourne,Werribee-Hoppers Crossing,4 bedroom houses,400.0,398.6,-1.3999999999999773,-0.35
+859,Outer Western Melbourne,West Footscray,4 bedroom houses,583.0,550.13,-32.870000000000005,-5.64
+860,Outer Western Melbourne,Williamstown,4 bedroom houses,863.0,805.0183333333333,-57.98166666666668,-6.72
+861,Outer Western Melbourne,Yarraville-Seddon,4 bedroom houses,700.0,688.95,-11.049999999999955,-1.58
+863,North Western Melbourne,Broadmeadows-Roxburgh Park,4 bedroom houses,470.0,456.8,-13.199999999999989,-2.81
+864,North Western Melbourne,Brunswick,4 bedroom houses,850.0,846.1066666666666,-3.8933333333334303,-0.46
+865,North Western Melbourne,Coburg-Pascoe Vale South,4 bedroom houses,700.0,670.45,-29.549999999999955,-4.22
+866,North Western Melbourne,Craigieburn,4 bedroom houses,450.0,444.8,-5.199999999999989,-1.16
+867,North Western Melbourne,East Brunswick,4 bedroom houses,860.0,Insufficient Data for Forecast,0.0,0.0
+868,North Western Melbourne,Essendon,4 bedroom houses,650.0,677.15,27.149999999999977,4.18
+869,North Western Melbourne,Gladstone Park-Tullamarine,4 bedroom houses,470.0,465.12,-4.8799999999999955,-1.04
+870,North Western Melbourne,Keilor,4 bedroom houses,555.0,Insufficient Data for Forecast,0.0,0.0
+871,North Western Melbourne,Moonee Ponds-Ascot Vale,4 bedroom houses,750.0,756.78,6.779999999999973,0.9
+872,North Western Melbourne,Oak Park-Glenroy-Fawkner,4 bedroom houses,495.0,489.95,-5.050000000000011,-1.02
+873,North Western Melbourne,Pascoe Vale-Coburg North,4 bedroom houses,580.0,557.7,-22.299999999999955,-3.84
+874,North Western Melbourne,Sunbury,4 bedroom houses,470.0,456.89666666666665,-13.103333333333353,-2.79
+875,North Western Melbourne,West Brunswick,4 bedroom houses,770.0,Insufficient Data for Forecast,0.0,0.0
+877,North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,4 bedroom houses,480.0,452.1,-27.899999999999977,-5.81
+878,North Eastern Melbourne,Eltham-Research-Montmorency,4 bedroom houses,650.0,647.0,-3.0,-0.46
+879,North Eastern Melbourne,Fairfield-Alphington,4 bedroom houses,870.0,Insufficient Data for Forecast,0.0,0.0
+880,North Eastern Melbourne,Heidelberg-Heidelberg West,4 bedroom houses,623.0,604.25,-18.75,-3.01
+881,North Eastern Melbourne,Ivanhoe-Ivanhoe East,4 bedroom houses,785.0,Insufficient Data for Forecast,0.0,0.0
+882,North Eastern Melbourne,Mill Park-Epping,4 bedroom houses,460.0,433.384,-26.615999999999985,-5.79
+883,North Eastern Melbourne,Northcote,4 bedroom houses,975.0,925.03,-49.97000000000003,-5.13
+884,North Eastern Melbourne,Preston,4 bedroom houses,615.0,624.15,9.149999999999977,1.49
+885,North Eastern Melbourne,Reservoir,4 bedroom houses,500.0,486.02,-13.980000000000018,-2.8
+886,North Eastern Melbourne,Thomastown-Lalor,4 bedroom houses,450.0,441.16,-8.839999999999975,-1.96
+887,North Eastern Melbourne,Thornbury,4 bedroom houses,810.0,813.4,3.3999999999999773,0.42
+888,North Eastern Melbourne,Whittlesea,4 bedroom houses,450.0,Insufficient Data for Forecast,0.0,0.0
+890,Outer Eastern Melbourne,Bayswater,4 bedroom houses,493.0,Insufficient Data for Forecast,0.0,0.0
+891,Outer Eastern Melbourne,Boronia,4 bedroom houses,540.0,502.3267142857144,-37.67328571428561,-6.98
+892,Outer Eastern Melbourne,Croydon-Lilydale,4 bedroom houses,590.0,579.5,-10.5,-1.78
+893,Outer Eastern Melbourne,Ferntree Gully,4 bedroom houses,510.0,498.31333333333333,-11.686666666666667,-2.29
+894,Outer Eastern Melbourne,Ringwood,4 bedroom houses,578.0,567.07,-10.92999999999995,-1.89
+895,Outer Eastern Melbourne,Rowville,4 bedroom houses,550.0,535.9,-14.100000000000023,-2.56
+896,Outer Eastern Melbourne,Wantirna-Scoresby,4 bedroom houses,550.0,537.3,-12.700000000000045,-2.31
+897,Outer Eastern Melbourne,Yarra Ranges,4 bedroom houses,580.0,566.15,-13.850000000000023,-2.39
+899,South Eastern Melbourne,Berwick,4 bedroom houses,480.0,469.3,-10.699999999999989,-2.23
+900,South Eastern Melbourne,Cranbourne,4 bedroom houses,470.0,451.55,-18.44999999999999,-3.93
+901,South Eastern Melbourne,Dandenong,4 bedroom houses,550.0,541.2917857142858,-8.708214285714234,-1.58
+902,South Eastern Melbourne,Dandenong North-Endeavour Hills,4 bedroom houses,460.0,428.10600000000005,-31.89399999999995,-6.93
+903,South Eastern Melbourne,Narre Warren-Hampton Park,4 bedroom houses,480.0,467.6,-12.399999999999977,-2.58
+904,South Eastern Melbourne,Noble Park,4 bedroom houses,465.0,453.25,-11.75,-2.53
+905,South Eastern Melbourne,Pakenham,4 bedroom houses,450.0,440.2,-9.800000000000011,-2.18
+906,South Eastern Melbourne,Springvale,4 bedroom houses,500.0,498.1,-1.8999999999999773,-0.38
+908,Mornington Peninsula,Dromana-Portsea,4 bedroom houses,680.0,671.0,-9.0,-1.32
+909,Mornington Peninsula,Frankston,4 bedroom houses,550.0,537.0,-13.0,-2.36
+910,Mornington Peninsula,Hastings-Flinders,4 bedroom houses,600.0,598.5,-1.5,-0.25
+911,Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,4 bedroom houses,800.0,795.95,-4.0499999999999545,-0.51
+912,Mornington Peninsula,Seaford-Carrum Downs,4 bedroom houses,525.0,511.35,-13.649999999999977,-2.6
+914,Geelong,Belmont-Grovedale,4 bedroom houses,520.0,481.58,-38.420000000000016,-7.39
+915,Geelong,Corio,4 bedroom houses,420.0,413.7,-6.300000000000011,-1.5
+916,Geelong,Geelong-Newcombe,4 bedroom houses,550.0,540.05,-9.950000000000045,-1.81
+917,Geelong,Herne Hill-Geelong West,4 bedroom houses,580.0,563.205,-16.79499999999996,-2.9
+918,Geelong,Lara,4 bedroom houses,510.0,502.15,-7.850000000000023,-1.54
+919,Geelong,Newtown,4 bedroom houses,600.0,590.9,-9.100000000000023,-1.52
+920,Geelong,North Geelong,4 bedroom houses,500.0,492.81333333333333,-7.186666666666667,-1.44
+922,Ballarat,Ballarat,4 bedroom houses,430.0,404.5,-25.5,-5.93
+923,Ballarat,Mount Clear-Buninyong,4 bedroom houses,450.0,439.8,-10.199999999999989,-2.27
+924,Ballarat,Sebastopol-Delacombe,4 bedroom houses,420.0,417.0,-3.0,-0.71
+925,Ballarat,Wendouree-Alfredton,4 bedroom houses,440.0,436.8,-3.1999999999999886,-0.73
+927,Bendigo,Bendigo,4 bedroom houses,475.0,446.72553571428574,-28.27446428571426,-5.95
+928,Bendigo,Flora Hill-Bendigo East,4 bedroom houses,470.0,464.2,-5.800000000000011,-1.23
+929,Bendigo,Golden Square-Kangaroo Flat,4 bedroom houses,475.0,463.6,-11.399999999999977,-2.4
+930,Bendigo,North Bendigo,4 bedroom houses,450.0,439.7,-10.300000000000011,-2.29
+932,Other Regional Centres,Bairnsdale,4 bedroom houses,470.0,Insufficient Data for Forecast,0.0,0.0
+933,Other Regional Centres,Benalla,4 bedroom houses,450.0,456.1,6.100000000000023,1.36
+934,Other Regional Centres,Castlemaine,4 bedroom houses,450.0,Insufficient Data for Forecast,0.0,0.0
+935,Other Regional Centres,Echuca,4 bedroom houses,510.0,472.87,-37.129999999999995,-7.28
+936,Other Regional Centres,Hamilton,4 bedroom houses,400.0,382.2,-17.80000000000001,-4.45
+937,Other Regional Centres,Horsham,4 bedroom houses,420.0,421.2,1.1999999999999886,0.29
+938,Other Regional Centres,Mildura,4 bedroom houses,450.0,434.4,-15.600000000000023,-3.47
+939,Other Regional Centres,Moe-Newborough,4 bedroom houses,420.0,412.06,-7.939999999999998,-1.89
+940,Other Regional Centres,Morwell,4 bedroom houses,400.0,401.1766666666666,1.1766666666666197,0.29
+941,Other Regional Centres,Ocean Grove-Barwon Heads,4 bedroom houses,600.0,593.26,-6.740000000000009,-1.12
+942,Other Regional Centres,Portland,4 bedroom houses,420.0,404.12,-15.879999999999995,-3.78
+943,Other Regional Centres,Sale-Maffra,4 bedroom houses,470.0,456.3,-13.699999999999989,-2.91
+944,Other Regional Centres,Seymour,4 bedroom houses,440.0,Insufficient Data for Forecast,0.0,0.0
+945,Other Regional Centres,Shepparton,4 bedroom houses,460.0,438.9,-21.100000000000023,-4.59
+946,Other Regional Centres,Swan Hill,4 bedroom houses,420.0,390.5,-29.5,-7.02
+947,Other Regional Centres,Torquay,4 bedroom houses,655.0,571.31,-83.69000000000005,-12.78
+948,Other Regional Centres,Traralgon,4 bedroom houses,470.0,458.6,-11.399999999999977,-2.43
+949,Other Regional Centres,Wanagaratta,4 bedroom houses,480.0,467.63,-12.370000000000005,-2.58
+950,Other Regional Centres,Warragul,4 bedroom houses,470.0,445.11,-24.889999999999986,-5.3
+951,Other Regional Centres,Warrnambool,4 bedroom houses,500.0,497.6,-2.3999999999999773,-0.48
+952,Other Regional Centres,Wodonga,4 bedroom houses,470.0,455.8,-14.199999999999989,-3.02
+954,Inner Melbourne,Albert Park-Middle Park-West St Kilda,All properties,500.0,512.74,12.740000000000009,2.55
+955,Inner Melbourne,Armadale,All properties,450.0,473.9,23.899999999999977,5.31
+956,Inner Melbourne,Carlton North,All properties,600.0,595.8,-4.2000000000000455,-0.7
+957,Inner Melbourne,Carlton-Parkville,All properties,340.0,347.29,7.2900000000000205,2.14
+958,Inner Melbourne,CBD-St Kilda Rd,All properties,419.0,403.46,-15.54000000000002,-3.71
+959,Inner Melbourne,Collingwood-Abbotsford,All properties,480.0,470.2,-9.800000000000011,-2.04
+960,Inner Melbourne,Docklands,All properties,480.0,Insufficient Data for Forecast,0.0,0.0
+961,Inner Melbourne,East Melbourne,All properties,495.0,483.7,-11.300000000000011,-2.28
+962,Inner Melbourne,East St Kilda,All properties,400.0,400.2,0.19999999999998863,0.05
+963,Inner Melbourne,Elwood,All properties,425.0,445.45,20.44999999999999,4.81
+964,Inner Melbourne,Fitzroy,All properties,550.0,544.6,-5.399999999999977,-0.98
+965,Inner Melbourne,Fitzroy North-Clifton Hill,All properties,575.0,566.4,-8.600000000000023,-1.5
+966,Inner Melbourne,Flemington-Kensington,All properties,410.0,400.35,-9.649999999999977,-2.35
+967,Inner Melbourne,North Melbourne-West Melbourne,All properties,390.0,383.33,-6.670000000000016,-1.71
+968,Inner Melbourne,Port Melbourne,All properties,600.0,599.48,-0.5199999999999818,-0.09
+969,Inner Melbourne,Prahran-Windsor,All properties,420.0,423.85,3.8500000000000227,0.92
+970,Inner Melbourne,Richmond-Burnley,All properties,495.0,488.5,-6.5,-1.31
+971,Inner Melbourne,South Melbourne,All properties,480.0,473.1,-6.899999999999977,-1.44
+972,Inner Melbourne,South Yarra,All properties,425.0,423.8,-1.1999999999999886,-0.28
+973,Inner Melbourne,Southbank,All properties,470.0,442.04,-27.95999999999998,-5.95
+974,Inner Melbourne,St Kilda,All properties,395.0,390.9,-4.100000000000023,-1.04
+975,Inner Melbourne,Toorak,All properties,500.0,504.05,4.050000000000011,0.81
+977,Inner Eastern Melbourne,Balwyn,All properties,550.0,546.7,-3.2999999999999545,-0.6
+978,Inner Eastern Melbourne,Blackburn,All properties,450.0,435.89,-14.110000000000014,-3.14
+979,Inner Eastern Melbourne,Box Hill,All properties,430.0,432.4,2.3999999999999773,0.56
+980,Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,All properties,500.0,487.24,-12.759999999999991,-2.55
+981,Inner Eastern Melbourne,Burwood-Ashburton,All properties,450.0,465.25,15.25,3.39
+982,Inner Eastern Melbourne,Camberwell-Glen Iris,All properties,480.0,482.9,2.8999999999999773,0.6
+983,Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,All properties,500.0,501.65,1.6499999999999773,0.33
+984,Inner Eastern Melbourne,Chadstone-Oakleigh,All properties,450.0,446.7,-3.3000000000000114,-0.73
+985,Inner Eastern Melbourne,Clayton,All properties,420.0,411.83,-8.170000000000016,-1.95
+986,Inner Eastern Melbourne,Doncaster East-Donvale,All properties,520.0,510.9,-9.100000000000023,-1.75
+987,Inner Eastern Melbourne,East Hawthorn,All properties,400.0,419.35,19.350000000000023,4.84
+988,Inner Eastern Melbourne,Glen Waverley-Mulgrave,All properties,510.0,505.1,-4.899999999999977,-0.96
+989,Inner Eastern Melbourne,Hawthorn,All properties,360.0,370.75,10.75,2.99
+990,Inner Eastern Melbourne,Kew,All properties,500.0,494.09,-5.910000000000025,-1.18
+991,Inner Eastern Melbourne,Mount Waverley,All properties,520.0,509.6,-10.399999999999977,-2.0
+992,Inner Eastern Melbourne,Nunawading-Mitcham,All properties,435.0,424.35,-10.649999999999977,-2.45
+993,Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,All properties,490.0,473.26,-16.74000000000001,-3.42
+995,Southern Melbourne,Aspendale-Chelsea-Carrum,All properties,480.0,478.1,-1.8999999999999773,-0.4
+996,Southern Melbourne,Bentleigh,All properties,510.0,508.8,-1.1999999999999886,-0.24
+997,Southern Melbourne,Brighton,All properties,670.0,681.96,11.960000000000036,1.79
+998,Southern Melbourne,Brighton East,All properties,750.0,733.66,-16.340000000000032,-2.18
+999,Southern Melbourne,Carnegie,All properties,400.0,410.15,10.149999999999977,2.54
+1000,Southern Melbourne,Caulfield,All properties,430.0,422.87,-7.1299999999999955,-1.66
+1001,Southern Melbourne,Cheltenham,All properties,495.0,471.55,-23.44999999999999,-4.74
+1002,Southern Melbourne,Elsternwick,All properties,450.0,444.7,-5.300000000000011,-1.18
+1003,Southern Melbourne,Hampton-Beaumaris,All properties,600.0,585.35,-14.649999999999977,-2.44
+1004,Southern Melbourne,Malvern,All properties,460.0,460.2,0.19999999999998863,0.04
+1005,Southern Melbourne,Malvern East,All properties,400.0,412.41,12.410000000000025,3.1
+1006,Southern Melbourne,Mentone-Parkdale-Mordialloc,All properties,450.0,439.7,-10.300000000000011,-2.29
+1007,Southern Melbourne,Murrumbeena-Hughesdale,All properties,420.0,419.01,-0.9900000000000091,-0.24
+1009,Outer Western Melbourne,Altona,All properties,415.0,400.15,-14.850000000000023,-3.58
+1010,Outer Western Melbourne,Footscray,All properties,380.0,375.05,-4.949999999999989,-1.3
+1011,Outer Western Melbourne,Keilor East-Avondale Heights,All properties,410.0,417.85,7.850000000000023,1.91
+1012,Outer Western Melbourne,Melton,All properties,360.0,351.4,-8.600000000000023,-2.39
+1013,Outer Western Melbourne,Newport-Spotswood,All properties,495.0,496.79,1.7900000000000205,0.36
+1014,Outer Western Melbourne,St Albans-Deer Park,All properties,360.0,359.8,-0.19999999999998863,-0.06
+1015,Outer Western Melbourne,Sunshine,All properties,360.0,359.9,-0.10000000000002274,-0.03
+1016,Outer Western Melbourne,Sydenham,All properties,415.0,409.8,-5.199999999999989,-1.25
+1017,Outer Western Melbourne,Werribee-Hoppers Crossing,All properties,380.0,375.7,-4.300000000000011,-1.13
+1018,Outer Western Melbourne,West Footscray,All properties,405.0,400.64,-4.360000000000014,-1.08
+1019,Outer Western Melbourne,Williamstown,All properties,520.0,520.8,0.7999999999999545,0.15
+1020,Outer Western Melbourne,Yarraville-Seddon,All properties,475.0,491.35,16.350000000000023,3.44
+1022,North Western Melbourne,Broadmeadows-Roxburgh Park,All properties,380.0,369.68,-10.319999999999993,-2.72
+1023,North Western Melbourne,Brunswick,All properties,450.0,448.5,-1.5,-0.33
+1024,North Western Melbourne,Coburg-Pascoe Vale South,All properties,450.0,450.5,0.5,0.11
+1025,North Western Melbourne,Craigieburn,All properties,410.0,406.1,-3.8999999999999773,-0.95
+1026,North Western Melbourne,East Brunswick,All properties,425.0,424.83,-0.17000000000001592,-0.04
+1027,North Western Melbourne,Essendon,All properties,400.0,410.34,10.339999999999975,2.58
+1028,North Western Melbourne,Gladstone Park-Tullamarine,All properties,410.0,394.18,-15.819999999999993,-3.86
+1029,North Western Melbourne,Keilor,All properties,450.0,441.55,-8.449999999999989,-1.88
+1030,North Western Melbourne,Moonee Ponds-Ascot Vale,All properties,430.0,425.3,-4.699999999999989,-1.09
+1031,North Western Melbourne,Oak Park-Glenroy-Fawkner,All properties,392.0,393.32,1.3199999999999932,0.34
+1032,North Western Melbourne,Pascoe Vale-Coburg North,All properties,420.0,418.6,-1.3999999999999773,-0.33
+1033,North Western Melbourne,Sunbury,All properties,400.0,386.4,-13.600000000000023,-3.4
+1034,North Western Melbourne,West Brunswick,All properties,370.0,368.2,-1.8000000000000114,-0.49
+1036,North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,All properties,420.0,412.75,-7.25,-1.73
+1037,North Eastern Melbourne,Eltham-Research-Montmorency,All properties,500.0,486.75,-13.25,-2.65
+1038,North Eastern Melbourne,Fairfield-Alphington,All properties,420.0,427.7,7.699999999999989,1.83
+1039,North Eastern Melbourne,Heidelberg-Heidelberg West,All properties,430.0,419.55,-10.449999999999989,-2.43
+1040,North Eastern Melbourne,Ivanhoe-Ivanhoe East,All properties,430.0,431.93,1.9300000000000068,0.45
+1041,North Eastern Melbourne,Mill Park-Epping,All properties,400.0,384.35,-15.649999999999977,-3.91
+1042,North Eastern Melbourne,Northcote,All properties,480.0,487.5,7.5,1.56
+1043,North Eastern Melbourne,Preston,All properties,420.0,417.9,-2.1000000000000227,-0.5
+1044,North Eastern Melbourne,Reservoir,All properties,390.0,381.85,-8.149999999999977,-2.09
+1045,North Eastern Melbourne,Thomastown-Lalor,All properties,370.0,362.2,-7.800000000000011,-2.11
+1046,North Eastern Melbourne,Thornbury,All properties,400.0,406.31,6.310000000000002,1.58
+1047,North Eastern Melbourne,Whittlesea,All properties,420.0,400.09,-19.910000000000025,-4.74
+1049,Outer Eastern Melbourne,Bayswater,All properties,420.0,413.9,-6.100000000000023,-1.45
+1050,Outer Eastern Melbourne,Boronia,All properties,420.0,402.57316666666674,-17.426833333333263,-4.15
+1051,Outer Eastern Melbourne,Croydon-Lilydale,All properties,452.0,447.13,-4.8700000000000045,-1.08
+1052,Outer Eastern Melbourne,Ferntree Gully,All properties,440.0,431.1,-8.899999999999977,-2.02
+1053,Outer Eastern Melbourne,Ringwood,All properties,430.0,415.7,-14.300000000000011,-3.33
+1054,Outer Eastern Melbourne,Rowville,All properties,495.0,479.35,-15.649999999999977,-3.16
+1055,Outer Eastern Melbourne,Wantirna-Scoresby,All properties,470.0,462.3,-7.699999999999989,-1.64
+1056,Outer Eastern Melbourne,Yarra Ranges,All properties,460.0,453.95,-6.050000000000011,-1.32
+1058,South Eastern Melbourne,Berwick,All properties,450.0,435.05,-14.949999999999989,-3.32
+1059,South Eastern Melbourne,Cranbourne,All properties,440.0,432.4,-7.600000000000023,-1.73
+1060,South Eastern Melbourne,Dandenong,All properties,360.0,351.2,-8.800000000000011,-2.44
+1061,South Eastern Melbourne,Dandenong North-Endeavour Hills,All properties,390.0,372.05,-17.94999999999999,-4.6
+1062,South Eastern Melbourne,Narre Warren-Hampton Park,All properties,420.0,408.1,-11.899999999999977,-2.83
+1063,South Eastern Melbourne,Noble Park,All properties,375.0,360.25,-14.75,-3.93
+1064,South Eastern Melbourne,Pakenham,All properties,400.0,392.4,-7.600000000000023,-1.9
+1065,South Eastern Melbourne,Springvale,All properties,400.0,399.13,-0.8700000000000045,-0.22
+1067,Mornington Peninsula,Dromana-Portsea,All properties,500.0,493.9,-6.100000000000023,-1.22
+1068,Mornington Peninsula,Frankston,All properties,430.0,424.6,-5.399999999999977,-1.26
+1069,Mornington Peninsula,Hastings-Flinders,All properties,480.0,475.4,-4.600000000000023,-0.96
+1070,Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,All properties,600.0,595.78,-4.220000000000027,-0.7
+1071,Mornington Peninsula,Seaford-Carrum Downs,All properties,430.0,408.5,-21.5,-5.0
+1073,Geelong,Belmont-Grovedale,All properties,440.0,435.39,-4.610000000000014,-1.05
+1074,Geelong,Corio,All properties,340.0,334.95,-5.050000000000011,-1.49
+1075,Geelong,Geelong-Newcombe,All properties,410.0,400.02,-9.980000000000018,-2.43
+1076,Geelong,Herne Hill-Geelong West,All properties,410.0,392.0,-18.0,-4.39
+1077,Geelong,Lara,All properties,460.0,432.58,-27.420000000000016,-5.96
+1078,Geelong,Newtown,All properties,430.0,426.8,-3.1999999999999886,-0.74
+1079,Geelong,North Geelong,All properties,410.0,403.45,-6.550000000000011,-1.6
+1081,Ballarat,Ballarat,All properties,360.0,333.85,-26.149999999999977,-7.26
+1082,Ballarat,Mount Clear-Buninyong,All properties,370.0,363.43,-6.569999999999993,-1.78
+1083,Ballarat,Sebastopol-Delacombe,All properties,377.0,367.37,-9.629999999999995,-2.55
+1084,Ballarat,Wendouree-Alfredton,All properties,390.0,383.65,-6.350000000000023,-1.63
+1086,Bendigo,Bendigo,All properties,380.0,361.8,-18.19999999999999,-4.79
+1087,Bendigo,Flora Hill-Bendigo East,All properties,380.0,377.1,-2.8999999999999773,-0.76
+1088,Bendigo,Golden Square-Kangaroo Flat,All properties,390.0,385.25,-4.75,-1.22
+1089,Bendigo,North Bendigo,All properties,390.0,385.65,-4.350000000000023,-1.12
+1091,Other Regional Centres,Bairnsdale,All properties,380.0,372.4,-7.600000000000023,-2.0
+1092,Other Regional Centres,Benalla,All properties,380.0,364.8,-15.199999999999989,-4.0
+1093,Other Regional Centres,Castlemaine,All properties,400.0,395.5,-4.5,-1.12
+1094,Other Regional Centres,Echuca,All properties,390.0,385.13,-4.8700000000000045,-1.25
+1095,Other Regional Centres,Hamilton,All properties,320.0,315.2,-4.800000000000011,-1.5
+1096,Other Regional Centres,Horsham,All properties,340.0,336.05,-3.9499999999999886,-1.16
+1097,Other Regional Centres,Mildura,All properties,350.0,345.9,-4.100000000000023,-1.17
+1098,Other Regional Centres,Moe-Newborough,All properties,300.0,298.2,-1.8000000000000114,-0.6
+1099,Other Regional Centres,Morwell,All properties,300.0,294.2,-5.800000000000011,-1.93
+1100,Other Regional Centres,Ocean Grove-Barwon Heads,All properties,550.0,532.7,-17.299999999999955,-3.15
+1101,Other Regional Centres,Portland,All properties,360.0,356.3,-3.6999999999999886,-1.03
+1102,Other Regional Centres,Sale-Maffra,All properties,390.0,383.2,-6.800000000000011,-1.74
+1103,Other Regional Centres,Seymour,All properties,355.0,315.85,-39.14999999999998,-11.03
+1104,Other Regional Centres,Shepparton,All properties,350.0,347.1,-2.8999999999999773,-0.83
+1105,Other Regional Centres,Swan Hill,All properties,310.0,301.9,-8.100000000000023,-2.61
+1106,Other Regional Centres,Torquay,All properties,600.0,558.1,-41.89999999999998,-6.98
+1107,Other Regional Centres,Traralgon,All properties,380.0,374.9,-5.100000000000023,-1.34
+1108,Other Regional Centres,Wanagaratta,All properties,380.0,377.78,-2.2200000000000273,-0.58
+1109,Other Regional Centres,Warragul,All properties,420.0,399.8,-20.19999999999999,-4.81
+1110,Other Regional Centres,Warrnambool,All properties,420.0,412.1,-7.899999999999977,-1.88
+1111,Other Regional Centres,Wodonga,All properties,400.0,392.8,-7.199999999999989,-1.8
